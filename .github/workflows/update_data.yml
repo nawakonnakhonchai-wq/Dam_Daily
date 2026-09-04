@@ -2,7 +2,7 @@ name: Update Dam GeoJSON Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *' # รันทุกๆ เที่ยงคืน (UTC)
+    - cron: '15 11,23 * * *' # รันเวลา 06:15 และ 18:15 ตามเวลาประเทศไทย (ICT)
   workflow_dispatch: # อนุญาตให้กดรันเองด้วยมือได้จากหน้าเว็บ GitHub
 
 jobs:
