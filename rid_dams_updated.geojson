@@ -1,0 +1,740 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.122472,
+                    18.924803
+                ]
+            },
+            "properties": {
+                "id": "100104",
+                "name": "เขื่อนแม่กวงอุดมธารา",
+                "region": "ภาคเหนือ",
+                "capacity": 295.0,
+                "volume": 180.97,
+                "percent_storage": 68.81,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.625039,
+                    18.523351
+                ]
+            },
+            "properties": {
+                "id": "100105",
+                "name": "เขื่อนกิ่วลม",
+                "region": "ภาคเหนือ",
+                "capacity": 106.22,
+                "volume": 61.28,
+                "percent_storage": 57.7,
+                "inflow": 3.21,
+                "outflow": 1.854,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.642133,
+                    18.809168
+                ]
+            },
+            "properties": {
+                "id": "100106",
+                "name": "เขื่อนกิ่วคอหมา",
+                "region": "ภาคเหนือ",
+                "capacity": 208.6,
+                "volume": 123.34,
+                "percent_storage": 72.55,
+                "inflow": 0.671,
+                "outflow": 0.369,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.42138,
+                    17.190461
+                ]
+            },
+            "properties": {
+                "id": "100107",
+                "name": "เขื่อนแควน้อยบำรุงแดน",
+                "region": "ภาคเหนือ",
+                "capacity": 1080.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.409722,
+                    17.324061
+                ]
+            },
+            "properties": {
+                "id": "100108",
+                "name": "เขื่อนแม่มอก",
+                "region": "ภาคเหนือ",
+                "capacity": 110.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.97218,
+                    17.242678
+                ]
+            },
+            "properties": {
+                "id": "200101",
+                "name": "เขื่อนภูมิพล",
+                "region": "ภาคเหนือ",
+                "capacity": 13462.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.563298,
+                    17.764057
+                ]
+            },
+            "properties": {
+                "id": "200102",
+                "name": "เขื่อนสิริกิติ์",
+                "region": "ภาคเหนือ",
+                "capacity": 10508.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.03075,
+                    19.174299
+                ]
+            },
+            "properties": {
+                "id": "200103",
+                "name": "เขื่อนแม่งัดสมบูรณ์ชล",
+                "region": "ภาคเหนือ",
+                "capacity": 323.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.582593,
+                    17.365921
+                ]
+            },
+            "properties": {
+                "id": "100201",
+                "name": "เขื่อนห้วยหลวง",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 135.57,
+                "volume": 58.61,
+                "percent_storage": 43.23,
+                "inflow": 0.695,
+                "outflow": 0.81,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.737575,
+                    17.310804
+                ]
+            },
+            "properties": {
+                "id": "100202",
+                "name": "เขื่อนน้ำอูน",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 780.0,
+                "volume": 283.61,
+                "percent_storage": 54.54,
+                "inflow": 841.0,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.440662,
+                    16.602417
+                ]
+            },
+            "properties": {
+                "id": "100206",
+                "name": "เขื่อนลำปาว",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 2450.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.560246,
+                    14.865156
+                ]
+            },
+            "properties": {
+                "id": "100207",
+                "name": "เขื่อนลำตะคอง",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 445.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.839667,
+                    14.595204
+                ]
+            },
+            "properties": {
+                "id": "100208",
+                "name": "เขื่อนลำพระเพลิง",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 242.0,
+                "volume": 40.31,
+                "percent_storage": 26.01,
+                "inflow": NaN,
+                "outflow": 0.73,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.147041,
+                    14.484869
+                ]
+            },
+            "properties": {
+                "id": "100209",
+                "name": "เขื่อนมูลบน",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 350.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.249113,
+                    14.402593
+                ]
+            },
+            "properties": {
+                "id": "100210",
+                "name": "เขื่อนลำแชะ",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 325.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.759948,
+                    14.299066
+                ]
+            },
+            "properties": {
+                "id": "100211",
+                "name": "เขื่อนลำนางรอง",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 196.67,
+                "volume": 31.98,
+                "percent_storage": 26.34,
+                "inflow": NaN,
+                "outflow": 0.308,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.945194,
+                    16.954649
+                ]
+            },
+            "properties": {
+                "id": "200203",
+                "name": "เขื่อนน้ำพุง",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 200.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.649247,
+                    16.536012
+                ]
+            },
+            "properties": {
+                "id": "200204",
+                "name": "เขื่อนจุฬาภรณ์",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 181.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.618397,
+                    16.775594
+                ]
+            },
+            "properties": {
+                "id": "200205",
+                "name": "เขื่อนอุบลรัตน์",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 2431.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.43017,
+                    15.205561
+                ]
+            },
+            "properties": {
+                "id": "200212",
+                "name": "เขื่อนสิรินธร",
+                "region": "ภาคตะวันออกเฉียงเหนือ",
+                "capacity": 1966.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.065968,
+                    14.861783
+                ]
+            },
+            "properties": {
+                "id": "100301",
+                "name": "เขื่อนป่าสักชลสิทธิ์",
+                "region": "ภาคกลาง",
+                "capacity": 1036.16,
+                "volume": 418.22,
+                "percent_storage": 47.99,
+                "inflow": 11.46,
+                "outflow": 1.3,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.433899,
+                    15.542854
+                ]
+            },
+            "properties": {
+                "id": "100302",
+                "name": "เขื่อนทับเสลา",
+                "region": "ภาคกลาง",
+                "capacity": 190.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.668154,
+                    14.838865
+                ]
+            },
+            "properties": {
+                "id": "100303",
+                "name": "เขื่อนกระเสียว",
+                "region": "ภาคกลาง",
+                "capacity": 390.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.127954,
+                    14.404872
+                ]
+            },
+            "properties": {
+                "id": "200401",
+                "name": "เขื่อนศรีนครินทร์",
+                "region": "ภาคตะวันตก",
+                "capacity": 18770.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.596867,
+                    14.799714
+                ]
+            },
+            "properties": {
+                "id": "200402",
+                "name": "เขื่อนวชิราลงกรณ",
+                "region": "ภาคตะวันตก",
+                "capacity": 11000.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.321282,
+                    14.309516
+                ]
+            },
+            "properties": {
+                "id": "100501",
+                "name": "เขื่อนขุนด่านปราการชล",
+                "region": "ภาคตะวันออก",
+                "capacity": 224.9,
+                "volume": 185.05,
+                "percent_storage": 82.61,
+                "inflow": 1.79,
+                "outflow": 1.284,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.653026,
+                    13.440915
+                ]
+            },
+            "properties": {
+                "id": "100502",
+                "name": "เขื่อนคลองสียัด",
+                "region": "ภาคตะวันออก",
+                "capacity": 450.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.975087,
+                    13.207661
+                ]
+            },
+            "properties": {
+                "id": "100503",
+                "name": "เขื่อนบางพระ",
+                "region": "ภาคตะวันออก",
+                "capacity": 127.0,
+                "volume": 59.7,
+                "percent_storage": 51.02,
+                "inflow": NaN,
+                "outflow": 0.292,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.262679,
+                    12.948728
+                ]
+            },
+            "properties": {
+                "id": "100504",
+                "name": "เขื่อนหนองปลาไหล",
+                "region": "ภาคตะวันออก",
+                "capacity": 205.85,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.56689,
+                    12.97968
+                ]
+            },
+            "properties": {
+                "id": "100505",
+                "name": "เขื่อนประแสร์",
+                "region": "ภาคตะวันออก",
+                "capacity": 322.0,
+                "volume": 209.62,
+                "percent_storage": 71.06,
+                "inflow": 0.02,
+                "outflow": 0.56,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.028119,
+                    14.073399
+                ]
+            },
+            "properties": {
+                "id": "100514",
+                "name": "เขื่อนนฤบดินทรจินดา",
+                "region": "ภาคตะวันออก",
+                "capacity": 338.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.793586,
+                    12.457481
+                ]
+            },
+            "properties": {
+                "id": "100602",
+                "name": "เขื่อนปราณบุรี",
+                "region": "ภาคใต้",
+                "capacity": 490.0,
+                "volume": 199.16,
+                "percent_storage": 50.94,
+                "inflow": 3.066,
+                "outflow": 0.872,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.629741,
+                    12.917118
+                ]
+            },
+            "properties": {
+                "id": "200601",
+                "name": "เขื่อนแก่งกระจาน",
+                "region": "ภาคใต้",
+                "capacity": 900.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.805719,
+                    8.972608
+                ]
+            },
+            "properties": {
+                "id": "200603",
+                "name": "เขื่อนรัชชประภา",
+                "region": "ภาคใต้",
+                "capacity": 6144.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.27226,
+                    6.154978
+                ]
+            },
+            "properties": {
+                "id": "200604",
+                "name": "เขื่อนบางลาง",
+                "region": "ภาคใต้",
+                "capacity": 1590.0,
+                "volume": NaN,
+                "percent_storage": NaN,
+                "inflow": NaN,
+                "outflow": NaN,
+                "date": "2026-09-04"
+            }
+        }
+    ]
+}
