@@ -1968,9 +1968,9 @@
                 "name": "อ่างเก็บน้ำแม่ต๋ำ",
                 "region": "ภาคเหนือ",
                 "capacity": 0,
-                "volume": 24.329,
-                "percent_storage": 58.62,
-                "inflow": 0,
+                "volume": 26.885,
+                "percent_storage": 64.78,
+                "inflow": 0.255,
                 "outflow": 0,
                 "date": "2026-09-04"
             }
@@ -1989,10 +1989,10 @@
                 "name": "อ่างเก็บน้ำแม่ปืม",
                 "region": "ภาคเหนือ",
                 "capacity": 0,
-                "volume": 26.58,
-                "percent_storage": 52.82,
-                "inflow": 0.125,
-                "outflow": 0,
+                "volume": 26.704,
+                "percent_storage": 53.07,
+                "inflow": 0,
+                "outflow": 0.125,
                 "date": "2026-09-04"
             }
         },
@@ -2010,8 +2010,8 @@
                 "name": "อ่างเก็บน้ำแม่ใจ",
                 "region": "ภาคเหนือ",
                 "capacity": 0,
-                "volume": 2.45,
-                "percent_storage": 81.67,
+                "volume": 2.454,
+                "percent_storage": 81.8,
                 "inflow": 0,
                 "outflow": 0.002,
                 "date": "2026-09-04"
@@ -2031,8 +2031,8 @@
                 "name": "อ่างเก็บน้ำแม่จุน",
                 "region": "ภาคเหนือ",
                 "capacity": 0,
-                "volume": 8.642,
-                "percent_storage": 89.98,
+                "volume": 8.322,
+                "percent_storage": 86.65,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-04"
