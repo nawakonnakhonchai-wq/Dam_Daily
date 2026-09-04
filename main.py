@@ -15,7 +15,6 @@ def clean_name(name):
   )
 
 
-# ฟังก์ชันแปลงค่า NaN ให้เป็นค่าที่ ArcGIS Online อ่านแล้วไม่พัง
 def safe_value(val, default_type="str"):
   if pd.isna(val) or val is None:
     return 0 if default_type == "num" else ""
@@ -60,6 +59,8 @@ api_date = date_large if date_large else date_medium
 
 if not df_api.empty:
   df_api["clean_name"] = df_api["name"].apply(clean_name)
+  # 🔍 ป้องกันข้อมูลน้ำซ้ำจากต้นทาง API
+  df_api = df_api.drop_duplicates(subset=["clean_name"], keep="first")
 
 # 3. ดึงข้อมูลพิกัดจาก IEAT API
 url_gis = "https://emonitor.ieat.go.th/call_feed/geog/GeoData/rid_conv_gis.json"
@@ -83,6 +84,9 @@ if res_gis.status_code == 200:
     })
 
 df_gis = pd.DataFrame(gis_rows)
+# 🔍 ป้องกันพิกัดซ้ำจากฝั่ง GIS
+if not df_gis.empty:
+  df_gis = df_gis.drop_duplicates(subset=["clean_name"], keep="first")
 
 # 4. รวมข้อมูล (Merge)
 if not df_api.empty and not df_gis.empty:
@@ -90,7 +94,7 @@ if not df_api.empty and not df_gis.empty:
 else:
   df_merged = df_api
 
-# 5. สร้างโครงสร้าง GeoJSON (จัดการกรอง NaN ตรงนี้)
+# 5. สร้างโครงสร้าง GeoJSON
 final_features = []
 missing_count = 0
 
@@ -133,7 +137,7 @@ output_filename = "rid_dams_updated.geojson"
 with open(output_filename, "w", encoding="utf-8") as f:
   json.dump(geojson_output, f, ensure_ascii=False, indent=4)
 
-print(f"\n--- สรุปผลการสร้าง GeoJSON ---")
+print(f"\n--- สรุปผลการสร้าง GeoJSON (หลังกรองข้อมูลซ้ำ) ---")
 print(f"ข้อมูลน้ำรวมทั้งหมด: {len(final_features)} แห่ง")
 print(f"ที่มีพิกัดครบถ้วน: {len(final_features) - missing_count} แห่ง")
 print(f"ที่ยังขาดพิกัด: {missing_count} แห่ง")
