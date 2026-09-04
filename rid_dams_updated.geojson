@@ -195,27 +195,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.582593,
-                    17.365921
-                ]
-            },
-            "properties": {
-                "id": "100201",
-                "name": "เขื่อนห้วยหลวง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 135.57,
-                "volume": 58.61,
-                "percent_storage": 43.23,
-                "inflow": 0.7,
-                "outflow": 0.81,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     103.737575,
                     17.310804
                 ]
@@ -1077,27 +1056,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.184679,
-                    18.613644
-                ]
-            },
-            "properties": {
-                "id": "rsv15",
-                "name": "อ่างเก็บน้ำแม่ธิ",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 2.581,
-                "percent_storage": 51.62,
-                "inflow": 0.019,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     98.9587,
                     18.353997
                 ]
@@ -1455,48 +1413,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.184679,
-                    18.613644
-                ]
-            },
-            "properties": {
-                "id": "rsv35",
-                "name": "อ่างเก็บน้ำแม่ธิ",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 1.147,
-                "percent_storage": 72.14,
-                "inflow": 0.006,
-                "outflow": 0.007,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.184679,
-                    18.613644
-                ]
-            },
-            "properties": {
-                "id": "rsv35",
-                "name": "อ่างเก็บน้ำแม่ธิ",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 1.147,
-                "percent_storage": 72.14,
-                "inflow": 0.006,
-                "outflow": 0.007,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.06848,
                     18.743326
                 ]
@@ -1613,48 +1529,6 @@
                 "capacity": 0,
                 "volume": 0.915,
                 "percent_storage": 81.7,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.393494,
-                    17.917204
-                ]
-            },
-            "properties": {
-                "id": "rsv42",
-                "name": "อ่างเก็บน้ำห้วยหลวง",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 0.446,
-                "percent_storage": 35.4,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.582593,
-                    17.365921
-                ]
-            },
-            "properties": {
-                "id": "rsv42",
-                "name": "อ่างเก็บน้ำห้วยหลวง",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 0.446,
-                "percent_storage": 35.4,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-04"
@@ -2045,132 +1919,6 @@
                 "coordinates": [
                     100.829078,
                     13.62091
-                ]
-            },
-            "properties": {
-                "id": "rsv552",
-                "name": "อ่างเก็บน้ำ ห้วยยาง",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 1.997,
-                "percent_storage": 100.35,
-                "inflow": 0.118,
-                "outflow": 0.12,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv552",
-                "name": "อ่างเก็บน้ำ ห้วยยาง",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 1.997,
-                "percent_storage": 100.35,
-                "inflow": 0.118,
-                "outflow": 0.12,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv552",
-                "name": "อ่างเก็บน้ำ ห้วยยาง",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 1.997,
-                "percent_storage": 100.35,
-                "inflow": 0.118,
-                "outflow": 0.12,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv552",
-                "name": "อ่างเก็บน้ำ ห้วยยาง",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 1.997,
-                "percent_storage": 100.35,
-                "inflow": 0.118,
-                "outflow": 0.12,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv552",
-                "name": "อ่างเก็บน้ำ ห้วยยาง",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 1.997,
-                "percent_storage": 100.35,
-                "inflow": 0.118,
-                "outflow": 0.12,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.643956,
-                    14.014994
-                ]
-            },
-            "properties": {
-                "id": "rsv552",
-                "name": "อ่างเก็บน้ำ ห้วยยาง",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 1.997,
-                "percent_storage": 100.35,
-                "inflow": 0.118,
-                "outflow": 0.12,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.364993,
-                    14.915057
                 ]
             },
             "properties": {
@@ -2673,27 +2421,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.461023,
-                    16.803075
-                ]
-            },
-            "properties": {
-                "id": "rsv536",
-                "name": "อ่างเก็บน้ำ ห้วยไร่",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 5.841,
-                "percent_storage": 79.69,
-                "inflow": 0,
-                "outflow": 0.045,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.829078,
                     13.62091
                 ]
@@ -2738,27 +2465,6 @@
                 "coordinates": [
                     98.604676,
                     16.758323
-                ]
-            },
-            "properties": {
-                "id": "rsv66",
-                "name": "อ่างเก็บน้ำห้วยลึก",
-                "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 5.782,
-                "percent_storage": 99.69,
-                "inflow": 0.063,
-                "outflow": 0.069,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.812557,
-                    8.59981
                 ]
             },
             "properties": {
@@ -2937,153 +2643,6 @@
                 "volume": 2.314,
                 "percent_storage": 70.12,
                 "inflow": 0.007,
-                "outflow": 0.01,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.829078,
-                    13.62091
-                ]
-            },
-            "properties": {
-                "id": "rsv72",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.98,
-                "percent_storage": 53.33,
-                "inflow": 0.005,
-                "outflow": 0.01,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv72",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.98,
-                "percent_storage": 53.33,
-                "inflow": 0.005,
-                "outflow": 0.01,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv72",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.98,
-                "percent_storage": 53.33,
-                "inflow": 0.005,
-                "outflow": 0.01,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv72",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.98,
-                "percent_storage": 53.33,
-                "inflow": 0.005,
-                "outflow": 0.01,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv72",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.98,
-                "percent_storage": 53.33,
-                "inflow": 0.005,
-                "outflow": 0.01,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.643956,
-                    14.014994
-                ]
-            },
-            "properties": {
-                "id": "rsv72",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.98,
-                "percent_storage": 53.33,
-                "inflow": 0.005,
-                "outflow": 0.01,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.364993,
-                    14.915057
-                ]
-            },
-            "properties": {
-                "id": "rsv72",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.98,
-                "percent_storage": 53.33,
-                "inflow": 0.005,
                 "outflow": 0.01,
                 "date": "2026-09-04"
             }
@@ -3513,27 +3072,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.681684,
-                    14.962451
-                ]
-            },
-            "properties": {
-                "id": "rsv95",
-                "name": "อ่างเก็บน้ำห้วยโป่ง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.094,
-                "percent_storage": 67.12,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     103.725632,
                     17.079826
                 ]
@@ -3587,27 +3125,6 @@
                 "capacity": 0,
                 "volume": 0.87,
                 "percent_storage": 79.09,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.397746,
-                    17.336562
-                ]
-            },
-            "properties": {
-                "id": "rsv100",
-                "name": "อ่างเก็บน้ำห้วยก้านเหลือง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 3.629,
-                "percent_storage": 61.51,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-04"
@@ -3870,90 +3387,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv112",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.836,
-                "percent_storage": 55.73,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv112",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.836,
-                "percent_storage": 55.73,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv112",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.836,
-                "percent_storage": 55.73,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.909059,
-                    12.672396
-                ]
-            },
-            "properties": {
-                "id": "rsv112",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.836,
-                "percent_storage": 55.73,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     104.03055,
                     17.215504
                 ]
@@ -4135,111 +3568,6 @@
                 "percent_storage": 67.24,
                 "inflow": 0.004,
                 "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv135",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.166,
-                "percent_storage": 94.67,
-                "inflow": 0,
-                "outflow": 0.02,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv135",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.166,
-                "percent_storage": 94.67,
-                "inflow": 0,
-                "outflow": 0.02,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv135",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.166,
-                "percent_storage": 94.67,
-                "inflow": 0,
-                "outflow": 0.02,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv135",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.166,
-                "percent_storage": 94.67,
-                "inflow": 0,
-                "outflow": 0.02,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.909059,
-                    12.672396
-                ]
-            },
-            "properties": {
-                "id": "rsv135",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.166,
-                "percent_storage": 94.67,
-                "inflow": 0,
-                "outflow": 0.02,
                 "date": "2026-09-04"
             }
         },
@@ -4584,111 +3912,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv155",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 9.169,
-                "percent_storage": 89.02,
-                "inflow": 0.055,
-                "outflow": 0.097,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv155",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 9.169,
-                "percent_storage": 89.02,
-                "inflow": 0.055,
-                "outflow": 0.097,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv155",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 9.169,
-                "percent_storage": 89.02,
-                "inflow": 0.055,
-                "outflow": 0.097,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv155",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 9.169,
-                "percent_storage": 89.02,
-                "inflow": 0.055,
-                "outflow": 0.097,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.909059,
-                    12.672396
-                ]
-            },
-            "properties": {
-                "id": "rsv155",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 9.169,
-                "percent_storage": 89.02,
-                "inflow": 0.055,
-                "outflow": 0.097,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.829078,
                     13.62091
                 ]
@@ -4827,27 +4050,6 @@
                 "volume": 2.902,
                 "percent_storage": 80.61,
                 "inflow": 0.026,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.271098,
-                    16.470255
-                ]
-            },
-            "properties": {
-                "id": "rsv162",
-                "name": "อ่างเก็บน้ำหนองหญ้าม้า",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.086,
-                "percent_storage": 42.46,
-                "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-04"
             }
@@ -5109,153 +4311,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.829078,
-                    13.62091
-                ]
-            },
-            "properties": {
-                "id": "rsv178",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.959,
-                "percent_storage": 31.77,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv178",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.959,
-                "percent_storage": 31.77,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv178",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.959,
-                "percent_storage": 31.77,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv178",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.959,
-                "percent_storage": 31.77,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv178",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.959,
-                "percent_storage": 31.77,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.643956,
-                    14.014994
-                ]
-            },
-            "properties": {
-                "id": "rsv178",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.959,
-                "percent_storage": 31.77,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.364993,
-                    14.915057
-                ]
-            },
-            "properties": {
-                "id": "rsv178",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.959,
-                "percent_storage": 31.77,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     102.71349,
                     16.041086
                 ]
@@ -5267,111 +4322,6 @@
                 "capacity": 0,
                 "volume": 0.79,
                 "percent_storage": 56.79,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv180",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.22,
-                "percent_storage": 51.8,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv180",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.22,
-                "percent_storage": 51.8,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv180",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.22,
-                "percent_storage": 51.8,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv180",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.22,
-                "percent_storage": 51.8,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.909059,
-                    12.672396
-                ]
-            },
-            "properties": {
-                "id": "rsv180",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.22,
-                "percent_storage": 51.8,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-04"
@@ -5424,69 +4374,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.62587,
-                    16.572886
-                ]
-            },
-            "properties": {
-                "id": "rsv182",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.724,
-                "percent_storage": 51.71,
-                "inflow": 0.024,
-                "outflow": 0.022,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.322259,
-                    16.47065
-                ]
-            },
-            "properties": {
-                "id": "rsv182",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.724,
-                "percent_storage": 51.71,
-                "inflow": 0.024,
-                "outflow": 0.022,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.322259,
-                    16.47065
-                ]
-            },
-            "properties": {
-                "id": "rsv182",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.724,
-                "percent_storage": 51.71,
-                "inflow": 0.024,
-                "outflow": 0.022,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     102.59943,
                     15.795226
                 ]
@@ -5500,27 +4387,6 @@
                 "percent_storage": 13.94,
                 "inflow": 0,
                 "outflow": 0.007,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.815779,
-                    16.266205
-                ]
-            },
-            "properties": {
-                "id": "rsv184",
-                "name": "อ่างเก็บน้ำห้วยเตย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.727,
-                "percent_storage": 51.1,
-                "inflow": 0,
-                "outflow": 0,
                 "date": "2026-09-04"
             }
         },
@@ -5928,48 +4794,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.271098,
-                    16.470255
-                ]
-            },
-            "properties": {
-                "id": "rsv208",
-                "name": "อ่างเก็บน้ำหนองหญ้าม้า",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.368,
-                "percent_storage": 17.38,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.271098,
-                    16.470255
-                ]
-            },
-            "properties": {
-                "id": "rsv208",
-                "name": "อ่างเก็บน้ำหนองหญ้าม้า",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.368,
-                "percent_storage": 17.38,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     103.74846,
                     16.045136
                 ]
@@ -6180,48 +5004,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.397746,
-                    17.336562
-                ]
-            },
-            "properties": {
-                "id": "rsv220",
-                "name": "อ่างเก็บน้ำห้วยก้านเหลือง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 5.32,
-                "percent_storage": 71.81,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.397746,
-                    17.336562
-                ]
-            },
-            "properties": {
-                "id": "rsv220",
-                "name": "อ่างเก็บน้ำห้วยก้านเหลือง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 5.32,
-                "percent_storage": 71.81,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     104.49304,
                     16.926103
                 ]
@@ -6254,27 +5036,6 @@
                 "capacity": 0,
                 "volume": 3.86,
                 "percent_storage": 74.23,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.61233,
-                    17.138971
-                ]
-            },
-            "properties": {
-                "id": "rsv223",
-                "name": "อ่างเก็บน้ำห้วยแคน",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 10.141,
-                "percent_storage": 92.07,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-04"
@@ -6537,48 +5298,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.829078,
-                    13.62091
-                ]
-            },
-            "properties": {
-                "id": "rsv239",
-                "name": "อ่างเก็บน้ำห้วยไร่",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.12,
-                "percent_storage": 75.71,
-                "inflow": 0,
-                "outflow": 0.093,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.461023,
-                    16.803075
-                ]
-            },
-            "properties": {
-                "id": "rsv239",
-                "name": "อ่างเก็บน้ำห้วยไร่",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.12,
-                "percent_storage": 75.71,
-                "inflow": 0,
-                "outflow": 0.093,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     104.190341,
                     16.683615
                 ]
@@ -6663,27 +5382,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.227789,
-                    16.711735
-                ]
-            },
-            "properties": {
-                "id": "rsv243",
-                "name": "อ่างเก็บน้ำห้วยทา",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.943,
-                "percent_storage": 87.13,
-                "inflow": 0.086,
-                "outflow": 0.078,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     104.155785,
                     16.744417
                 ]
@@ -6739,48 +5437,6 @@
                 "percent_storage": 101.16,
                 "inflow": 0.052,
                 "outflow": 0.07,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.61233,
-                    17.138971
-                ]
-            },
-            "properties": {
-                "id": "rsv455",
-                "name": "อ่างเก็บน้ำห้วยแคน",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.564,
-                "percent_storage": 74.48,
-                "inflow": 0,
-                "outflow": 0.034,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.61233,
-                    17.138971
-                ]
-            },
-            "properties": {
-                "id": "rsv455",
-                "name": "อ่างเก็บน้ำห้วยแคน",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.564,
-                "percent_storage": 74.48,
-                "inflow": 0,
-                "outflow": 0.034,
                 "date": "2026-09-04"
             }
         },
@@ -7314,153 +5970,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.829078,
-                    13.62091
-                ]
-            },
-            "properties": {
-                "id": "rsv266",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 6.34,
-                "percent_storage": 45.94,
-                "inflow": 0.004,
-                "outflow": 0.002,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv266",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 6.34,
-                "percent_storage": 45.94,
-                "inflow": 0.004,
-                "outflow": 0.002,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv266",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 6.34,
-                "percent_storage": 45.94,
-                "inflow": 0.004,
-                "outflow": 0.002,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv266",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 6.34,
-                "percent_storage": 45.94,
-                "inflow": 0.004,
-                "outflow": 0.002,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv266",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 6.34,
-                "percent_storage": 45.94,
-                "inflow": 0.004,
-                "outflow": 0.002,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.643956,
-                    14.014994
-                ]
-            },
-            "properties": {
-                "id": "rsv266",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 6.34,
-                "percent_storage": 45.94,
-                "inflow": 0.004,
-                "outflow": 0.002,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.364993,
-                    14.915057
-                ]
-            },
-            "properties": {
-                "id": "rsv266",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 6.34,
-                "percent_storage": 45.94,
-                "inflow": 0.004,
-                "outflow": 0.002,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     103.02576,
                     14.360672
                 ]
@@ -7650,90 +6159,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.62587,
-                    16.572886
-                ]
-            },
-            "properties": {
-                "id": "rsv276",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.366,
-                "percent_storage": 28.15,
-                "inflow": 0,
-                "outflow": 0.001,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.62587,
-                    16.572886
-                ]
-            },
-            "properties": {
-                "id": "rsv276",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.366,
-                "percent_storage": 28.15,
-                "inflow": 0,
-                "outflow": 0.001,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.322259,
-                    16.47065
-                ]
-            },
-            "properties": {
-                "id": "rsv276",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.366,
-                "percent_storage": 28.15,
-                "inflow": 0,
-                "outflow": 0.001,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.322259,
-                    16.47065
-                ]
-            },
-            "properties": {
-                "id": "rsv276",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.366,
-                "percent_storage": 28.15,
-                "inflow": 0,
-                "outflow": 0.001,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     102.936818,
                     14.323506
                 ]
@@ -7831,48 +6256,6 @@
                 "percent_storage": 21.6,
                 "inflow": 0.052,
                 "outflow": 0.173,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.815779,
-                    16.266205
-                ]
-            },
-            "properties": {
-                "id": "rsv296",
-                "name": "อ่างเก็บน้ำห้วยเตย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.121,
-                "percent_storage": 25.5,
-                "inflow": 0.003,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.815779,
-                    16.266205
-                ]
-            },
-            "properties": {
-                "id": "rsv296",
-                "name": "อ่างเก็บน้ำห้วยเตย",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 1.121,
-                "percent_storage": 25.5,
-                "inflow": 0.003,
-                "outflow": 0,
                 "date": "2026-09-04"
             }
         },
@@ -8196,48 +6579,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.227789,
-                    16.711735
-                ]
-            },
-            "properties": {
-                "id": "rsv316",
-                "name": "อ่างเก็บน้ำห้วยทา",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 24.601,
-                "percent_storage": 83.16,
-                "inflow": 0.446,
-                "outflow": 0.24,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.227789,
-                    16.711735
-                ]
-            },
-            "properties": {
-                "id": "rsv316",
-                "name": "อ่างเก็บน้ำห้วยทา",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 24.601,
-                "percent_storage": 83.16,
-                "inflow": 0.446,
-                "outflow": 0.24,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     104.477122,
                     14.490185
                 ]
@@ -8545,153 +6886,6 @@
                 "percent_storage": 42.45,
                 "inflow": 0.013,
                 "outflow": 0.009,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.829078,
-                    13.62091
-                ]
-            },
-            "properties": {
-                "id": "rsv286",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.21,
-                "percent_storage": 39.96,
-                "inflow": 0.008,
-                "outflow": 0.013,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv286",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.21,
-                "percent_storage": 39.96,
-                "inflow": 0.008,
-                "outflow": 0.013,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv286",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.21,
-                "percent_storage": 39.96,
-                "inflow": 0.008,
-                "outflow": 0.013,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv286",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.21,
-                "percent_storage": 39.96,
-                "inflow": 0.008,
-                "outflow": 0.013,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv286",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.21,
-                "percent_storage": 39.96,
-                "inflow": 0.008,
-                "outflow": 0.013,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.643956,
-                    14.014994
-                ]
-            },
-            "properties": {
-                "id": "rsv286",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.21,
-                "percent_storage": 39.96,
-                "inflow": 0.008,
-                "outflow": 0.013,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.364993,
-                    14.915057
-                ]
-            },
-            "properties": {
-                "id": "rsv286",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 2.21,
-                "percent_storage": 39.96,
-                "inflow": 0.008,
-                "outflow": 0.013,
                 "date": "2026-09-04"
             }
         },
@@ -9038,27 +7232,6 @@
                 "coordinates": [
                     102.39863,
                     14.34938
-                ]
-            },
-            "properties": {
-                "id": "rsv282",
-                "name": "อ่างเก็บน้ำห้วยหิน",
-                "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0.624,
-                "percent_storage": 32.0,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.951759,
-                    15.097414
                 ]
             },
             "properties": {
@@ -9824,7 +7997,7 @@
                 "capacity": 0,
                 "volume": 39.35,
                 "percent_storage": 40.57,
-                "inflow": 0.394,
+                "inflow": 0.024,
                 "outflow": 0.002,
                 "date": "2026-09-04"
             }
@@ -9843,10 +8016,10 @@
                 "name": "อ่างเก็บน้ำห้วยชัน",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 2.293,
-                "percent_storage": 57.33,
-                "inflow": 0.014,
-                "outflow": 0,
+                "volume": 2.282,
+                "percent_storage": 57.05,
+                "inflow": 0.003,
+                "outflow": 0.011,
                 "date": "2026-09-04"
             }
         },
@@ -9864,9 +8037,9 @@
                 "name": "อ่างเก็บน้ำท่ากะบาก",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 4.222,
-                "percent_storage": 57.84,
-                "inflow": 0.129,
+                "volume": 4.412,
+                "percent_storage": 60.44,
+                "inflow": 0.197,
                 "outflow": 0.004,
                 "date": "2026-09-04"
             }
@@ -9908,7 +8081,7 @@
                 "capacity": 0,
                 "volume": 0.21,
                 "percent_storage": 5.65,
-                "inflow": 0.005,
+                "inflow": 0.001,
                 "outflow": 0,
                 "date": "2026-09-04"
             }
@@ -9927,9 +8100,9 @@
                 "name": "อ่างเก็บน้ำคลองเกลือ",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 4.127,
-                "percent_storage": 75.04,
-                "inflow": 0.023,
+                "volume": 4.136,
+                "percent_storage": 75.2,
+                "inflow": 0.013,
                 "outflow": 0,
                 "date": "2026-09-04"
             }
@@ -9950,8 +8123,8 @@
                 "capacity": 0,
                 "volume": 2.218,
                 "percent_storage": 100.82,
-                "inflow": 0,
-                "outflow": 0.027,
+                "inflow": 0.015,
+                "outflow": 0.013,
                 "date": "2026-09-04"
             }
         },
@@ -9972,153 +8145,6 @@
                 "volume": 0.237,
                 "percent_storage": 16.93,
                 "inflow": 0.001,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.829078,
-                    13.62091
-                ]
-            },
-            "properties": {
-                "id": "rsv373",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออก",
-                "capacity": 0,
-                "volume": 6.49,
-                "percent_storage": 10.82,
-                "inflow": 0.009,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv373",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออก",
-                "capacity": 0,
-                "volume": 6.49,
-                "percent_storage": 10.82,
-                "inflow": 0.009,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv373",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออก",
-                "capacity": 0,
-                "volume": 6.49,
-                "percent_storage": 10.82,
-                "inflow": 0.009,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv373",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออก",
-                "capacity": 0,
-                "volume": 6.49,
-                "percent_storage": 10.82,
-                "inflow": 0.009,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv373",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออก",
-                "capacity": 0,
-                "volume": 6.49,
-                "percent_storage": 10.82,
-                "inflow": 0.009,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.643956,
-                    14.014994
-                ]
-            },
-            "properties": {
-                "id": "rsv373",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออก",
-                "capacity": 0,
-                "volume": 6.49,
-                "percent_storage": 10.82,
-                "inflow": 0.009,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.364993,
-                    14.915057
-                ]
-            },
-            "properties": {
-                "id": "rsv373",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคตะวันออก",
-                "capacity": 0,
-                "volume": 6.49,
-                "percent_storage": 10.82,
-                "inflow": 0.009,
                 "outflow": 0,
                 "date": "2026-09-04"
             }
@@ -10202,8 +8228,8 @@
                 "capacity": 0,
                 "volume": 68.289,
                 "percent_storage": 105.06,
-                "inflow": 3.11,
-                "outflow": 1.0,
+                "inflow": 1.4,
+                "outflow": 1.4,
                 "date": "2026-09-04"
             }
         },
@@ -10443,90 +8469,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.62587,
-                    16.572886
-                ]
-            },
-            "properties": {
-                "id": "rsv473",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 11.0,
-                "percent_storage": 83.02,
-                "inflow": 0.01,
-                "outflow": 0.03,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.62587,
-                    16.572886
-                ]
-            },
-            "properties": {
-                "id": "rsv473",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 11.0,
-                "percent_storage": 83.02,
-                "inflow": 0.01,
-                "outflow": 0.03,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.322259,
-                    16.47065
-                ]
-            },
-            "properties": {
-                "id": "rsv473",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 11.0,
-                "percent_storage": 83.02,
-                "inflow": 0.01,
-                "outflow": 0.03,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.322259,
-                    16.47065
-                ]
-            },
-            "properties": {
-                "id": "rsv473",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 11.0,
-                "percent_storage": 83.02,
-                "inflow": 0.01,
-                "outflow": 0.03,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     101.03157,
                     16.275598
                 ]
@@ -10695,48 +8637,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.669398,
-                    17.397689
-                ]
-            },
-            "properties": {
-                "id": "rsv391",
-                "name": "อ่างเก็บน้ำห้วยโป่ง",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.17,
-                "percent_storage": 8.21,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.681684,
-                    14.962451
-                ]
-            },
-            "properties": {
-                "id": "rsv391",
-                "name": "อ่างเก็บน้ำห้วยโป่ง",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.17,
-                "percent_storage": 8.21,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     101.36088,
                     15.419809
                 ]
@@ -10779,48 +8679,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.39863,
-                    14.34938
-                ]
-            },
-            "properties": {
-                "id": "rsv396",
-                "name": "อ่างเก็บน้ำห้วยหิน",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.77,
-                "percent_storage": 34.22,
-                "inflow": 0.01,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.951759,
-                    15.097414
-                ]
-            },
-            "properties": {
-                "id": "rsv396",
-                "name": "อ่างเก็บน้ำห้วยหิน",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.77,
-                "percent_storage": 34.22,
-                "inflow": 0.01,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.69622,
                     14.857881
                 ]
@@ -10832,90 +8690,6 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0.0,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.62587,
-                    16.572886
-                ]
-            },
-            "properties": {
-                "id": "rsv526",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 1.35,
-                "percent_storage": 17.76,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.62587,
-                    16.572886
-                ]
-            },
-            "properties": {
-                "id": "rsv526",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 1.35,
-                "percent_storage": 17.76,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.322259,
-                    16.47065
-                ]
-            },
-            "properties": {
-                "id": "rsv526",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 1.35,
-                "percent_storage": 17.76,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.322259,
-                    16.47065
-                ]
-            },
-            "properties": {
-                "id": "rsv526",
-                "name": "อ่างเก็บน้ำห้วยใหญ่",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 1.35,
-                "percent_storage": 17.76,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-04"
@@ -11042,153 +8816,6 @@
                 "capacity": 0,
                 "volume": 1.856,
                 "percent_storage": 66.29,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.829078,
-                    13.62091
-                ]
-            },
-            "properties": {
-                "id": "rsv484",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.898,
-                "percent_storage": 56.13,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv484",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.898,
-                "percent_storage": 56.13,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv484",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.898,
-                "percent_storage": 56.13,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv484",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.898,
-                "percent_storage": 56.13,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.886024,
-                    16.893382
-                ]
-            },
-            "properties": {
-                "id": "rsv484",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.898,
-                "percent_storage": 56.13,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.643956,
-                    14.014994
-                ]
-            },
-            "properties": {
-                "id": "rsv484",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.898,
-                "percent_storage": 56.13,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.364993,
-                    14.915057
-                ]
-            },
-            "properties": {
-                "id": "rsv484",
-                "name": "อ่างเก็บน้ำห้วยยาง",
-                "region": "ภาคกลาง",
-                "capacity": 0,
-                "volume": 0.898,
-                "percent_storage": 56.13,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-04"
@@ -11443,111 +9070,6 @@
                 "percent_storage": 34.83,
                 "inflow": 0,
                 "outflow": 0.004,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv412",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคใต้",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0.0,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv412",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคใต้",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0.0,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv412",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคใต้",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0.0,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.286664,
-                    16.973929
-                ]
-            },
-            "properties": {
-                "id": "rsv412",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคใต้",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0.0,
-                "inflow": 0,
-                "outflow": 0,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.909059,
-                    12.672396
-                ]
-            },
-            "properties": {
-                "id": "rsv412",
-                "name": "อ่างเก็บน้ำห้วยทราย",
-                "region": "ภาคใต้",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0.0,
-                "inflow": 0,
-                "outflow": 0,
                 "date": "2026-09-04"
             }
         },
@@ -11850,48 +9372,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.604676,
-                    16.758323
-                ]
-            },
-            "properties": {
-                "id": "rsv431",
-                "name": "อ่างเก็บน้ำห้วยลึก",
-                "region": "ภาคใต้",
-                "capacity": 0,
-                "volume": 2.374,
-                "percent_storage": 96.9,
-                "inflow": 0.008,
-                "outflow": 0.008,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.812557,
-                    8.59981
-                ]
-            },
-            "properties": {
-                "id": "rsv431",
-                "name": "อ่างเก็บน้ำห้วยลึก",
-                "region": "ภาคใต้",
-                "capacity": 0,
-                "volume": 2.374,
-                "percent_storage": 96.9,
-                "inflow": 0.008,
-                "outflow": 0.008,
-                "date": "2026-09-04"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.1549,
                     7.9740477
                 ]
@@ -11964,10 +9444,10 @@
                 "name": "อ่างเก็บน้ำ ห้วยทรายขาว",
                 "region": "ภาคใต้",
                 "capacity": 0,
-                "volume": 4.528,
-                "percent_storage": 90.56,
-                "inflow": 0.027,
-                "outflow": 0.032,
+                "volume": 4.64,
+                "percent_storage": 92.8,
+                "inflow": 0.09,
+                "outflow": 0.01,
                 "date": "2026-09-04"
             }
         },
