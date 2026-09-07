@@ -1,4 +1,5 @@
 import json
+import re
 import pandas as pd
 import requests
 
@@ -6,13 +7,15 @@ import requests
 def clean_name(name):
   if pd.isna(name):
     return ""
-  return (
+  # ลบคำฟุ่มเฟือยและช่องว่างส่วนเกินออกทั้งหมด
+  text = (
       str(name)
       .replace("เขื่อน", "")
       .replace("อ่างเก็บน้ำ", "")
       .replace("ขนาดกลาง", "")
-      .strip()
+      .replace("ขนาดใหญ่", "")
   )
+  return re.sub(r"\s+", "", text).strip()
 
 
 def safe_value(val, default_type="str"):
@@ -27,22 +30,28 @@ def safe_value(val, default_type="str"):
 
 
 def fetch_rid_data(url):
-  res = requests.get(url)
-  items = []
-  api_date = ""
-  if res.status_code == 200:
+  try:
+    res = requests.get(url, timeout=15)
+    if res.status_code != 200:
+      return [], ""
     data = res.json()
     api_date = data.get("date", "")
+    items = []
     for region_group in data.get("data", []):
       region_name = region_group.get("region")
-      sub_items = region_group.get("dam") or region_group.get(
-          "reservoir"
-      ) or region_group.get("data", [])
+      sub_items = (
+          region_group.get("dam")
+          or region_group.get("reservoir")
+          or region_group.get("data", [])
+      )
       if isinstance(sub_items, list):
         for item in sub_items:
           item["region"] = region_name
           items.append(item)
-  return items, api_date
+    return items, api_date
+  except Exception as e:
+    print(f"Error fetching {url}: {e}")
+    return [], ""
 
 
 # 1. ดึงข้อมูลเขื่อนขนาดใหญ่
@@ -59,38 +68,42 @@ api_date = date_large if date_large else date_medium
 
 if not df_api.empty:
   df_api["clean_name"] = df_api["name"].apply(clean_name)
-  # 🔍 ป้องกันข้อมูลน้ำซ้ำจากต้นทาง API
   df_api = df_api.drop_duplicates(subset=["clean_name"], keep="first")
 
-# 3. ดึงข้อมูลพิกัดจาก IEAT API
+# 3. ดึงข้อมูลพิกัดจาก IEAT API (ตัด original_properties ออกเพื่อป้องกันข้อมูลชนกัน)
 url_gis = "https://emonitor.ieat.go.th/call_feed/geog/GeoData/rid_conv_gis.json"
-res_gis = requests.get(url_gis)
-
 gis_rows = []
-if res_gis.status_code == 200:
-  gis_data = res_gis.json()
-  for feat in gis_data.get("features", []):
-    props = feat.get("properties", {})
-    geom = feat.get("geometry", {})
-    coords = geom.get("coordinates", [None, None]) if geom else [None, None]
+try:
+  res_gis = requests.get(url_gis, timeout=15)
+  if res_gis.status_code == 200:
+    gis_data = res_gis.json()
+    for feat in gis_data.get("features", []):
+      props = feat.get("properties", {})
+      geom = feat.get("geometry", {})
+      coords = geom.get("coordinates", [None, None]) if geom else [None, None]
 
-    raw_name = props.get("name") or props.get("DAM_NAME") or ""
-    gis_rows.append({
-        "name_gis": raw_name,
-        "clean_name": clean_name(raw_name),
-        "longitude": coords[0],
-        "latitude": coords[1],
-        "original_properties": props,
-    })
+      raw_name = props.get("name") or props.get("DAM_NAME") or ""
+      gis_rows.append({
+          "name_gis": raw_name,
+          "clean_name": clean_name(raw_name),
+          "longitude": coords[0],
+          "latitude": coords[1],
+      })
+except Exception as e:
+  print(f"Error fetching GIS data: {e}")
 
 df_gis = pd.DataFrame(gis_rows)
-# 🔍 ป้องกันพิกัดซ้ำจากฝั่ง GIS
 if not df_gis.empty:
   df_gis = df_gis.drop_duplicates(subset=["clean_name"], keep="first")
 
-# 4. รวมข้อมูล (Merge)
+# 4. รวมข้อมูล (Merge) เฉพาะคอลัมน์พิกัดที่จำเป็น
 if not df_api.empty and not df_gis.empty:
-  df_merged = pd.merge(df_api, df_gis, on="clean_name", how="left")
+  df_merged = pd.merge(
+      df_api,
+      df_gis[["clean_name", "longitude", "latitude"]],
+      on="clean_name",
+      how="left",
+  )
 else:
   df_merged = df_api
 
@@ -103,7 +116,11 @@ for _, row in df_merged.iterrows():
   lon = row.get("longitude")
 
   if pd.notna(lat) and pd.notna(lon):
-    geometry = {"type": "Point", "coordinates": [float(lon), float(lat)]}
+    try:
+      geometry = {"type": "Point", "coordinates": [float(lon), float(lat)]}
+    except:
+      geometry = None
+      missing_count += 1
   else:
     geometry = None
     missing_count += 1
