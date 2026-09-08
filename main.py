@@ -5,53 +5,74 @@ import requests
 
 
 def clean_name(name):
-  if pd.isna(name):
-    return ""
-  # ลบคำฟุ่มเฟือยและช่องว่างส่วนเกินออกทั้งหมด
-  text = (
-      str(name)
-      .replace("เขื่อน", "")
-      .replace("อ่างเก็บน้ำ", "")
-      .replace("ขนาดกลาง", "")
-      .replace("ขนาดใหญ่", "")
-  )
-  return re.sub(r"\s+", "", text).strip()
+    if pd.isna(name):
+        return ""
+    text = (
+        str(name)
+        .replace("เขื่อน", "")
+        .replace("อ่างเก็บน้ำ", "")
+        .replace("ขนาดกลาง", "")
+        .replace("ขนาดใหญ่", "")
+    )
+    return re.sub(r"\s+", "", text).strip()
 
 
 def safe_value(val, default_type="str"):
-  if pd.isna(val) or val is None:
-    return 0 if default_type == "num" else ""
-  if default_type == "num":
-    try:
-      return float(val)
-    except:
-      return 0
-  return str(val)
+    if pd.isna(val) or val is None:
+        return 0 if default_type == "num" else ""
+    if default_type == "num":
+        try:
+            if isinstance(val, str):
+                val = val.replace(",", "").strip()
+                if val == "-" or val == "":
+                    return 0
+            return float(val)
+        except:
+            return 0
+    return str(val).strip()
+
+
+def get_val(item, keys, default_type="num"):
+    # ฟังก์ชันช่วยหาค่าจาก key สำรอง ป้องกันกรณี API ขนาดใหญ่และขนาดกลางใช้ชื่อฟิลด์ไม่ตรงกัน
+    val = None
+    for k in keys:
+        if k in item and item[k] is not None:
+            val = item[k]
+            break
+    return safe_value(val, default_type)
 
 
 def fetch_rid_data(url):
-  try:
-    res = requests.get(url, timeout=15)
-    if res.status_code != 200:
-      return [], ""
-    data = res.json()
-    api_date = data.get("date", "")
-    items = []
-    for region_group in data.get("data", []):
-      region_name = region_group.get("region")
-      sub_items = (
-          region_group.get("dam")
-          or region_group.get("reservoir")
-          or region_group.get("data", [])
-      )
-      if isinstance(sub_items, list):
-        for item in sub_items:
-          item["region"] = region_name
-          items.append(item)
-    return items, api_date
-  except Exception as e:
-    print(f"Error fetching {url}: {e}")
-    return [], ""
+    try:
+        res = requests.get(url, timeout=15)
+        if res.status_code != 200:
+            return [], ""
+        data = res.json()
+        api_date = data.get("date", "")
+        items = []
+        
+        raw_data = data.get("data", data)
+        if isinstance(raw_data, list):
+            for region_group in raw_data:
+                if isinstance(region_group, dict):
+                    region_name = region_group.get("region", "")
+                    sub_items = []
+                    for k in ["dam", "reservoir", "data", "list"]:
+                        if k in region_group and isinstance(region_group[k], list):
+                            sub_items = region_group[k]
+                            break
+                    
+                    if sub_items:
+                        for item in sub_items:
+                            item["region"] = region_name
+                            items.append(item)
+                    else:
+                        if "name" in region_group or "id" in region_group:
+                            items.append(region_group)
+        return items, api_date
+    except Exception as e:
+        print(f"Error fetching {url}: {e}")
+        return [], ""
 
 
 # 1. ดึงข้อมูลเขื่อนขนาดใหญ่
@@ -67,94 +88,92 @@ df_api = pd.DataFrame(all_water_data)
 api_date = date_large if date_large else date_medium
 
 if not df_api.empty:
-  df_api["clean_name"] = df_api["name"].apply(clean_name)
-  df_api = df_api.drop_duplicates(subset=["clean_name"], keep="first")
+    df_api["clean_name"] = df_api["name"].apply(clean_name)
+    # ใช้ id ในการเช็คซ้ำ เพื่อป้องกันข้อมูลคนละแห่งแต่ชื่อคล้ายกันหายไป
+    if "id" in df_api.columns:
+        df_api = df_api.drop_duplicates(subset=["id"], keep="first")
+    else:
+        df_api = df_api.drop_duplicates(subset=["clean_name"], keep="first")
 
-# 3. ดึงข้อมูลพิกัดจาก IEAT API (ตัด original_properties ออกเพื่อป้องกันข้อมูลชนกัน)
+# 3. ดึงข้อมูลพิกัดจาก IEAT API
 url_gis = "https://emonitor.ieat.go.th/call_feed/geog/GeoData/rid_conv_gis.json"
 gis_rows = []
 try:
-  res_gis = requests.get(url_gis, timeout=15)
-  if res_gis.status_code == 200:
-    gis_data = res_gis.json()
-    for feat in gis_data.get("features", []):
-      props = feat.get("properties", {})
-      geom = feat.get("geometry", {})
-      coords = geom.get("coordinates", [None, None]) if geom else [None, None]
+    res_gis = requests.get(url_gis, timeout=15)
+    if res_gis.status_code == 200:
+        gis_data = res_gis.json()
+        for feat in gis_data.get("features", []):
+            props = feat.get("properties", {})
+            geom = feat.get("geometry", {})
+            coords = geom.get("coordinates", [None, None]) if geom else [None, None]
 
-      raw_name = props.get("name") or props.get("DAM_NAME") or ""
-      gis_rows.append({
-          "name_gis": raw_name,
-          "clean_name": clean_name(raw_name),
-          "longitude": coords[0],
-          "latitude": coords[1],
-      })
+            raw_name = props.get("name") or props.get("DAM_NAME") or ""
+            gis_rows.append({
+                "name_gis": raw_name,
+                "clean_name": clean_name(raw_name),
+                "longitude": coords[0],
+                "latitude": coords[1],
+            })
 except Exception as e:
-  print(f"Error fetching GIS data: {e}")
+    print(f"Error fetching GIS data: {e}")
 
 df_gis = pd.DataFrame(gis_rows)
 if not df_gis.empty:
-  df_gis = df_gis.drop_duplicates(subset=["clean_name"], keep="first")
+    df_gis = df_gis.drop_duplicates(subset=["clean_name"], keep="first")
 
-# 4. รวมข้อมูล (Merge) เฉพาะคอลัมน์พิกัดที่จำเป็น
+# 4. รวมข้อมูล (Merge)
 if not df_api.empty and not df_gis.empty:
-  df_merged = pd.merge(
-      df_api,
-      df_gis[["clean_name", "longitude", "latitude"]],
-      on="clean_name",
-      how="left",
-  )
+    df_merged = pd.merge(
+        df_api,
+        df_gis[["clean_name", "longitude", "latitude"]],
+        on="clean_name",
+        how="left",
+    )
 else:
-  df_merged = df_api
+    df_merged = df_api
 
 # 5. สร้างโครงสร้าง GeoJSON
 final_features = []
 missing_count = 0
 
 for _, row in df_merged.iterrows():
-  lat = row.get("latitude")
-  lon = row.get("longitude")
+    lat = row.get("latitude")
+    lon = row.get("longitude")
 
-  if pd.notna(lat) and pd.notna(lon):
-    try:
-      geometry = {"type": "Point", "coordinates": [float(lon), float(lat)]}
-    except:
-      geometry = None
-      missing_count += 1
-  else:
-    geometry = None
-    missing_count += 1
+    if pd.notna(lat) and pd.notna(lon):
+        try:
+            geometry = {"type": "Point", "coordinates": [float(lon), float(lat)]}
+        except:
+            geometry = None
+            missing_count += 1
+    else:
+        geometry = None
+        missing_count += 1
 
-  feature = {
-      "type": "Feature",
-      "geometry": geometry,
-      "properties": {
-          "id": safe_value(row.get("id"), "str"),  # รหัส
-          "name": safe_value(row.get("name"), "str"),  # ชื่อเขื่อน / อ่างเก็บน้ำ
-          "region": safe_value(row.get("region"), "str"),  # ภูมิภาค
-          "capacity": safe_value(
-              row.get("capacity"), "num"
-          ),  # ความจุสูงสุด (ล้าน ลบ.ม.)
-          "volume": safe_value(
-              row.get("volume"), "num"
-          ),  # ปริมาณน้ำปัจจุบัน (ล้าน ลบ.ม.)
-          "percent_storage": safe_value(
-              row.get("percent_storage"), "num"
-          ),  # เปอร์เซ็นต์น้ำเก็บกัก (%)
-          "inflow": safe_value(row.get("inflow"), "num"),  # น้ำไหลเข้า
-          "outflow": safe_value(row.get("outflow"), "num"),  # น้ำระบายออก
-          "date": safe_value(api_date, "str"),  # วันที่ของข้อมูล
-      },
-  }
-  final_features.append(feature)
+    feature = {
+        "type": "Feature",
+        "geometry": geometry,
+        "properties": {
+            "id": get_val(row, ["id"], "str"),
+            "name": get_val(row, ["name"], "str"),
+            "region": get_val(row, ["region"], "str"),
+            "capacity": get_val(row, ["capacity", "max_capacity"], "num"),
+            "volume": get_val(row, ["volume", "water_volume", "storage"], "num"),
+            "percent_storage": get_val(row, ["percent_storage", "percent"], "num"),
+            "inflow": get_val(row, ["inflow", "water_in"], "num"),
+            "outflow": get_val(row, ["outflow", "water_out"], "num"),
+            "date": get_val(row, ["date"], "str") if get_val(row, ["date"], "str") else safe_value(api_date, "str"),
+        },
+    }
+    final_features.append(feature)
 
 geojson_output = {"type": "FeatureCollection", "features": final_features}
 
 output_filename = "rid_dams_updated.geojson"
 with open(output_filename, "w", encoding="utf-8") as f:
-  json.dump(geojson_output, f, ensure_ascii=False, indent=4)
+    json.dump(geojson_output, f, ensure_ascii=False, indent=4)
 
-print(f"\n--- สรุปผลการสร้าง GeoJSON (หลังกรองข้อมูลซ้ำ) ---")
+print(f"\n--- สรุปผลการสร้าง GeoJSON ---")
 print(f"ข้อมูลน้ำรวมทั้งหมด: {len(final_features)} แห่ง")
 print(f"ที่มีพิกัดครบถ้วน: {len(final_features) - missing_count} แห่ง")
 print(f"ที่ยังขาดพิกัด: {missing_count} แห่ง")
