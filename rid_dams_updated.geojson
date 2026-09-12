@@ -8331,8 +8331,8 @@
                 "name": "อ่างเก็บน้ำพระปรง",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 39.44,
-                "percent_storage": 40.66,
+                "volume": 39.35,
+                "percent_storage": 40.57,
                 "inflow": 0.024,
                 "outflow": 0.092,
                 "date": "2026-09-12"
@@ -8352,9 +8352,9 @@
                 "name": "อ่างเก็บน้ำห้วยชัน",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 2.282,
-                "percent_storage": 57.05,
-                "inflow": 0.003,
+                "volume": 2.314,
+                "percent_storage": 57.85,
+                "inflow": 0.035,
                 "outflow": 0,
                 "date": "2026-09-12"
             }
@@ -8373,9 +8373,9 @@
                 "name": "อ่างเก็บน้ำท่ากะบาก",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 4.568,
-                "percent_storage": 62.58,
-                "inflow": 0.031,
+                "volume": 4.64,
+                "percent_storage": 63.56,
+                "inflow": 0.079,
                 "outflow": 0.004,
                 "date": "2026-09-12"
             }
@@ -8394,9 +8394,9 @@
                 "name": "อ่างเก็บน้ำคลองสามสิบ",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 2.496,
-                "percent_storage": 43.22,
-                "inflow": 0.035,
+                "volume": 2.544,
+                "percent_storage": 44.05,
+                "inflow": 0.051,
                 "outflow": 0.001,
                 "date": "2026-09-12"
             }
@@ -8415,8 +8415,8 @@
                 "name": "อ่างเก็บน้ำเขารัง",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 0.22,
-                "percent_storage": 5.91,
+                "volume": 0.224,
+                "percent_storage": 6.02,
                 "inflow": 0.005,
                 "outflow": 0,
                 "date": "2026-09-12"
@@ -8436,9 +8436,9 @@
                 "name": "อ่างเก็บน้ำคลองเกลือ",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 4.346,
-                "percent_storage": 79.02,
-                "inflow": 0.024,
+                "volume": 4.404,
+                "percent_storage": 80.07,
+                "inflow": 0.061,
                 "outflow": 0,
                 "date": "2026-09-12"
             }
@@ -8457,10 +8457,10 @@
                 "name": "อ่างเก็บน้ำช่องกล่ำล่าง",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 2.224,
-                "percent_storage": 101.09,
-                "inflow": 0.015,
-                "outflow": 0.019,
+                "volume": 2.23,
+                "percent_storage": 101.36,
+                "inflow": 0.035,
+                "outflow": 0.027,
                 "date": "2026-09-12"
             }
         },
@@ -8499,9 +8499,9 @@
                 "name": "อ่างเก็บน้ำห้วยยาง",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 6.34,
-                "percent_storage": 10.57,
-                "inflow": 0,
+                "volume": 6.45,
+                "percent_storage": 10.75,
+                "inflow": 0.119,
                 "outflow": 0,
                 "date": "2026-09-12"
             }
@@ -8520,9 +8520,9 @@
                 "name": "อ่างเก็บน้ำห้วยตะเคียน",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 1.432,
-                "percent_storage": 14.32,
-                "inflow": 0.015,
+                "volume": 1.532,
+                "percent_storage": 15.32,
+                "inflow": 0.103,
                 "outflow": 0,
                 "date": "2026-09-12"
             }
@@ -8541,8 +8541,8 @@
                 "name": "อ่างเก็บน้ำคลองส้มป่อย",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 0.36,
-                "percent_storage": 20.0,
+                "volume": 0.375,
+                "percent_storage": 20.83,
                 "inflow": 0.016,
                 "outflow": 0,
                 "date": "2026-09-12"
@@ -8562,8 +8562,8 @@
                 "name": "อ่างเก็บน้ำคลองตาด้วง",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 0.351,
-                "percent_storage": 19.5,
+                "volume": 0.358,
+                "percent_storage": 19.89,
                 "inflow": 0.008,
                 "outflow": 0,
                 "date": "2026-09-12"
@@ -8583,10 +8583,10 @@
                 "name": "อ่างเก็บน้ำคลองพระสะทึง",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 54.061,
-                "percent_storage": 83.17,
-                "inflow": 0,
-                "outflow": 0,
+                "volume": 53.157,
+                "percent_storage": 81.78,
+                "inflow": 0.128,
+                "outflow": 1.0,
                 "date": "2026-09-12"
             }
         },
@@ -9339,9 +9339,9 @@
                 "name": "อ่างเก็บน้ำห้วยเทียน",
                 "region": "ภาคตะวันตก",
                 "capacity": 0,
-                "volume": 3.189,
-                "percent_storage": 29.94,
-                "inflow": 0.049,
+                "volume": 3.152,
+                "percent_storage": 29.6,
+                "inflow": 0.037,
                 "outflow": 0,
                 "date": "2026-09-12"
             }
@@ -9360,9 +9360,9 @@
                 "name": "อ่างเก็บน้ำห้วยพุตะเคียน",
                 "region": "ภาคตะวันตก",
                 "capacity": 0,
-                "volume": 2.139,
-                "percent_storage": 53.47,
-                "inflow": 0.121,
+                "volume": 2.159,
+                "percent_storage": 53.97,
+                "inflow": 0.021,
                 "outflow": 0,
                 "date": "2026-09-12"
             }
@@ -9402,9 +9402,9 @@
                 "name": "อ่างเก็บน้ำ ห้วยลำทราย",
                 "region": "ภาคตะวันตก",
                 "capacity": 0,
-                "volume": 5.071,
-                "percent_storage": 77.2,
-                "inflow": 0.025,
+                "volume": 5.1,
+                "percent_storage": 77.64,
+                "inflow": 0.029,
                 "outflow": 0,
                 "date": "2026-09-12"
             }
