@@ -9318,10 +9318,10 @@
                 "name": "อ่างเก็บน้ำลำตะเพิน",
                 "region": "ภาคตะวันตก",
                 "capacity": 0,
-                "volume": 24.181,
-                "percent_storage": 48.36,
+                "volume": 24.004,
+                "percent_storage": 48.01,
                 "inflow": 0,
-                "outflow": 0,
+                "outflow": 0.177,
                 "date": "2026-09-13"
             }
         },
@@ -9339,10 +9339,10 @@
                 "name": "อ่างเก็บน้ำห้วยเทียน",
                 "region": "ภาคตะวันตก",
                 "capacity": 0,
-                "volume": 3.152,
-                "percent_storage": 29.6,
-                "inflow": 0.037,
-                "outflow": 0,
+                "volume": 3.102,
+                "percent_storage": 29.13,
+                "inflow": 0,
+                "outflow": 0.05,
                 "date": "2026-09-13"
             }
         },
@@ -9362,7 +9362,7 @@
                 "capacity": 0,
                 "volume": 2.159,
                 "percent_storage": 53.97,
-                "inflow": 0.021,
+                "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-13"
             }
@@ -9381,9 +9381,9 @@
                 "name": "อ่างเก็บน้ำห้วยกระพร้อย",
                 "region": "ภาคตะวันตก",
                 "capacity": 0,
-                "volume": 14.233,
-                "percent_storage": 61.43,
-                "inflow": 0,
+                "volume": 14.262,
+                "percent_storage": 61.55,
+                "inflow": 0.029,
                 "outflow": 0,
                 "date": "2026-09-13"
             }
@@ -9402,9 +9402,9 @@
                 "name": "อ่างเก็บน้ำ ห้วยลำทราย",
                 "region": "ภาคตะวันตก",
                 "capacity": 0,
-                "volume": 5.1,
-                "percent_storage": 77.64,
-                "inflow": 0.029,
+                "volume": 5.11,
+                "percent_storage": 77.79,
+                "inflow": 0.01,
                 "outflow": 0,
                 "date": "2026-09-13"
             }
