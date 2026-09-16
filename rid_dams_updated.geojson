@@ -2640,10 +2640,10 @@
                 "name": "อ่างเก็บน้ำห้วยน้ำคับ",
                 "region": "ภาคเหนือ",
                 "capacity": 0,
-                "volume": 1.024,
-                "percent_storage": 77.87,
-                "inflow": 0,
-                "outflow": 0,
+                "volume": 1.04,
+                "percent_storage": 79.09,
+                "inflow": 0.019,
+                "outflow": 0.003,
                 "date": "2026-09-16"
             }
         },
@@ -2661,10 +2661,10 @@
                 "name": "อ่างเก็บน้ำห้วยน้ำจวง",
                 "region": "ภาคเหนือ",
                 "capacity": 0,
-                "volume": 1.253,
-                "percent_storage": 78.31,
-                "inflow": 0,
-                "outflow": 0,
+                "volume": 1.264,
+                "percent_storage": 79.0,
+                "inflow": 0.018,
+                "outflow": 0.007,
                 "date": "2026-09-16"
             }
         },
@@ -9089,7 +9089,7 @@
                 "capacity": 0,
                 "volume": 0.8,
                 "percent_storage": 35.56,
-                "inflow": 0,
+                "inflow": 0.001,
                 "outflow": 0,
                 "date": "2026-09-16"
             }
