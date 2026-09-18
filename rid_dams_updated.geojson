@@ -9633,10 +9633,10 @@
                 "name": "อ่างเก็บน้ำแม่ประจันต์",
                 "region": "ภาคใต้",
                 "capacity": 0,
-                "volume": 3.05,
-                "percent_storage": 7.23,
-                "inflow": 0,
-                "outflow": 0.086,
+                "volume": 3.502,
+                "percent_storage": 8.3,
+                "inflow": 0.086,
+                "outflow": 0,
                 "date": "2026-09-18"
             }
         },
@@ -9654,9 +9654,9 @@
                 "name": "อ่างเก็บน้ำห้วยผาก",
                 "region": "ภาคใต้",
                 "capacity": 0,
-                "volume": 10.223,
-                "percent_storage": 37.17,
-                "inflow": 0.02,
+                "volume": 10.188,
+                "percent_storage": 37.05,
+                "inflow": 0.043,
                 "outflow": 0.043,
                 "date": "2026-09-18"
             }
@@ -10242,9 +10242,9 @@
                 "name": "อ่างเก็บน้ำคลองหัวช้าง",
                 "region": "ภาคใต้",
                 "capacity": 0,
-                "volume": 10.22,
-                "percent_storage": 34.07,
-                "inflow": 0.142,
+                "volume": 10.23,
+                "percent_storage": 34.1,
+                "inflow": 0.208,
                 "outflow": 0.125,
                 "date": "2026-09-18"
             }
