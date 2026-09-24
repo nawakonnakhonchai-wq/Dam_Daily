@@ -6063,8 +6063,8 @@
                 "name": "อ่างเก็บน้ำห้วยลิงโจน",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 0,
-                "volume": 21.05,
-                "percent_storage": 100.0,
+                "volume": 20.945,
+                "percent_storage": 99.5,
                 "inflow": 0,
                 "outflow": 0.134,
                 "date": "2026-09-24"
@@ -6084,8 +6084,8 @@
                 "name": "อ่างเก็บน้ำห้วยสะแบก",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 0,
-                "volume": 28.64,
-                "percent_storage": 94.52,
+                "volume": 28.57,
+                "percent_storage": 94.29,
                 "inflow": 0,
                 "outflow": 0.054,
                 "date": "2026-09-24"
@@ -6105,8 +6105,8 @@
                 "name": "อ่างเก็บน้ำห้วยโพง (ตอนบน)",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 0,
-                "volume": 10.689,
-                "percent_storage": 86.2,
+                "volume": 10.524,
+                "percent_storage": 84.87,
                 "inflow": 0,
                 "outflow": 0.128,
                 "date": "2026-09-24"
