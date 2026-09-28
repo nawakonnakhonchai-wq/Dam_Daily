@@ -33,7 +33,6 @@ def safe_value(val, default_type="str"):
 
 
 def get_val(item, keys, default_type="num"):
-    # ฟังก์ชันช่วยหาค่าจาก key สำรอง ป้องกันกรณี API ขนาดใหญ่และขนาดกลางใช้ชื่อฟิลด์ไม่ตรงกัน
     val = None
     for k in keys:
         if k in item and item[k] is not None:
@@ -89,7 +88,6 @@ api_date = date_large if date_large else date_medium
 
 if not df_api.empty:
     df_api["clean_name"] = df_api["name"].apply(clean_name)
-    # ใช้ id ในการเช็คซ้ำ เพื่อป้องกันข้อมูลคนละแห่งแต่ชื่อคล้ายกันหายไป
     if "id" in df_api.columns:
         df_api = df_api.drop_duplicates(subset=["id"], keep="first")
     else:
@@ -150,6 +148,15 @@ for _, row in df_merged.iterrows():
         geometry = None
         missing_count += 1
 
+    # ดึงค่าพื้นฐาน
+    cap = get_val(row, ["capacity", "max_capacity", "max_storage"], "num")
+    vol = get_val(row, ["volume", "water_volume"], "num")
+    pct = get_val(row, ["percent_storage", "percent"], "num")
+
+    # ถ้า capacity เป็น 0 หรือไม่มี ให้คำนวณย้อนกลับจาก volume และ percent_storage (Capacity = Volume * 100 / Percent)
+    if cap == 0 and pct > 0:
+        cap = round(vol * 100.0 / pct, 3)
+
     feature = {
         "type": "Feature",
         "geometry": geometry,
@@ -157,11 +164,9 @@ for _, row in df_merged.iterrows():
             "id": get_val(row, ["id"], "str"),
             "name": get_val(row, ["name"], "str"),
             "region": get_val(row, ["region"], "str"),
-            # เขื่อนใหญ่ใช้ capacity/max_capacity ส่วนเขื่อนกลางดึงค่าความจุสูงสุดจาก storage
-            "capacity": get_val(row, ["capacity", "max_capacity", "storage"], "num"),
-            # ปริมาณน้ำปัจจุบัน
-            "volume": get_val(row, ["volume", "water_volume"], "num"),
-            "percent_storage": get_val(row, ["percent_storage", "percent"], "num"),
+            "capacity": cap,
+            "volume": vol,
+            "percent_storage": pct,
             "inflow": get_val(row, ["inflow", "water_in"], "num"),
             "outflow": get_val(row, ["outflow", "water_out"], "num"),
             "date": get_val(row, ["date"], "str") if get_val(row, ["date"], "str") else safe_value(api_date, "str"),
