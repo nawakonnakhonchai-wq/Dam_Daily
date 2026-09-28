@@ -157,8 +157,10 @@ for _, row in df_merged.iterrows():
             "id": get_val(row, ["id"], "str"),
             "name": get_val(row, ["name"], "str"),
             "region": get_val(row, ["region"], "str"),
-            "capacity": get_val(row, ["capacity", "max_capacity"], "num"),
-            "volume": get_val(row, ["volume", "water_volume", "storage"], "num"),
+            # เขื่อนใหญ่ใช้ capacity/max_capacity ส่วนเขื่อนกลางดึงค่าความจุสูงสุดจาก storage
+            "capacity": get_val(row, ["capacity", "max_capacity", "storage"], "num"),
+            # ปริมาณน้ำปัจจุบัน
+            "volume": get_val(row, ["volume", "water_volume"], "num"),
             "percent_storage": get_val(row, ["percent_storage", "percent"], "num"),
             "inflow": get_val(row, ["inflow", "water_in"], "num"),
             "outflow": get_val(row, ["outflow", "water_out"], "num"),
