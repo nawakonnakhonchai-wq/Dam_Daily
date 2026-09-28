@@ -6062,9 +6062,9 @@
                 "id": "rsv259",
                 "name": "อ่างเก็บน้ำห้วยลิงโจน",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 21.051,
-                "volume": 20.838,
-                "percent_storage": 98.99,
+                "capacity": 21.05,
+                "volume": 20.783,
+                "percent_storage": 98.73,
                 "inflow": 0,
                 "outflow": 0.134,
                 "date": "2026-09-28"
@@ -6086,7 +6086,7 @@
                 "capacity": 30.299,
                 "volume": 29.06,
                 "percent_storage": 95.91,
-                "inflow": 0.125,
+                "inflow": 0.054,
                 "outflow": 0.054,
                 "date": "2026-09-28"
             }
@@ -6105,10 +6105,10 @@
                 "name": "อ่างเก็บน้ำห้วยโพง (ตอนบน)",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 12.4,
-                "volume": 10.359,
-                "percent_storage": 83.54,
+                "volume": 10.327,
+                "percent_storage": 83.28,
                 "inflow": 0,
-                "outflow": 0.192,
+                "outflow": 0.032,
                 "date": "2026-09-28"
             }
         },
@@ -10284,10 +10284,10 @@
                 "name": "อ่างเก็บน้ำคลองหลา",
                 "region": "ภาคใต้",
                 "capacity": 21.421,
-                "volume": 4.07,
-                "percent_storage": 19.0,
+                "volume": 4.04,
+                "percent_storage": 18.86,
                 "inflow": 0,
-                "outflow": 0.01,
+                "outflow": 0.029,
                 "date": "2026-09-28"
             }
         },
@@ -10305,9 +10305,9 @@
                 "name": "อ่างเก็บน้ำคลองสะเดา",
                 "region": "ภาคใต้",
                 "capacity": 56.745,
-                "volume": 15.253,
-                "percent_storage": 26.88,
-                "inflow": 0.172,
+                "volume": 15.151,
+                "percent_storage": 26.7,
+                "inflow": 0.002,
                 "outflow": 0.104,
                 "date": "2026-09-28"
             }
