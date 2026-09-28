@@ -7596,8 +7596,8 @@
                 "name": "อ่างเก็บน้ำคลองระบม",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 45.83,
-                "percent_storage": 82.58,
+                "volume": 56.97,
+                "percent_storage": 102.65,
                 "inflow": 0,
                 "outflow": 0.005,
                 "date": "2026-09-28"
@@ -7617,8 +7617,8 @@
                 "name": "อ่างเก็บน้ำลาดกระทิง",
                 "region": "ภาคตะวันออก",
                 "capacity": 0,
-                "volume": 4.2,
-                "percent_storage": 100.0,
+                "volume": 2.275,
+                "percent_storage": 54.17,
                 "inflow": 0.014,
                 "outflow": 0.014,
                 "date": "2026-09-28"
