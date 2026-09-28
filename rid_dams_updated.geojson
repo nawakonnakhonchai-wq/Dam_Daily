@@ -10242,9 +10242,9 @@
                 "name": "อ่างเก็บน้ำคลองหัวช้าง",
                 "region": "ภาคใต้",
                 "capacity": 30.0,
-                "volume": 10.08,
-                "percent_storage": 33.6,
-                "inflow": 0.057,
+                "volume": 10.02,
+                "percent_storage": 33.4,
+                "inflow": 0.058,
                 "outflow": 0.124,
                 "date": "2026-09-28"
             }
