@@ -152,6 +152,10 @@ for _, row in df_merged.iterrows():
     cap = get_val(row, ["capacity", "max_capacity", "max_storage"], "num")
     vol = get_val(row, ["volume", "water_volume"], "num")
     pct = get_val(row, ["percent_storage", "percent"], "num")
+    
+    # เพิ่มการดึงค่า Active Storage และ Dead Storage
+    active_stor = get_val(row, ["active_storage", "active"], "num")
+    dead_stor = get_val(row, ["dead_storage", "dead"], "num")
 
     # ถ้า capacity เป็น 0 หรือไม่มี ให้คำนวณย้อนกลับจาก volume และ percent_storage (Capacity = Volume * 100 / Percent)
     if cap == 0 and pct > 0:
@@ -167,6 +171,8 @@ for _, row in df_merged.iterrows():
             "capacity": cap,
             "volume": vol,
             "percent_storage": pct,
+            "active_storage": active_stor,  # เพิ่มฟิลด์ Active Storage
+            "dead_storage": dead_stor,      # เพิ่มฟิลด์ Dead Storage
             "inflow": get_val(row, ["inflow", "water_in"], "num"),
             "outflow": get_val(row, ["outflow", "water_out"], "num"),
             "date": get_val(row, ["date"], "str") if get_val(row, ["date"], "str") else safe_value(api_date, "str"),
