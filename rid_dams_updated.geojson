@@ -17,6 +17,8 @@
                 "capacity": 295.0,
                 "volume": 185.96,
                 "percent_storage": 70.71,
+                "active_storage": 249.0,
+                "dead_storage": 14.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -38,6 +40,8 @@
                 "capacity": 106.22,
                 "volume": 96.39,
                 "percent_storage": 90.75,
+                "active_storage": 102.67,
+                "dead_storage": 3.55,
                 "inflow": 2.305,
                 "outflow": 2.071,
                 "date": "2026-09-29"
@@ -59,6 +63,8 @@
                 "capacity": 208.6,
                 "volume": 161.38,
                 "percent_storage": 94.93,
+                "active_storage": 163.8,
+                "dead_storage": 6.2,
                 "inflow": 1.061,
                 "outflow": 0.391,
                 "date": "2026-09-29"
@@ -80,6 +86,8 @@
                 "capacity": 1080.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 896.0,
+                "dead_storage": 43.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -101,6 +109,8 @@
                 "capacity": 110.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 94.1,
+                "dead_storage": 15.9,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -122,6 +132,8 @@
                 "capacity": 13462.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 9662.0,
+                "dead_storage": 3800.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -143,6 +155,8 @@
                 "capacity": 10508.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 6660.0,
+                "dead_storage": 2850.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -164,6 +178,8 @@
                 "capacity": 323.0,
                 "volume": 245.57,
                 "percent_storage": 92.67,
+                "active_storage": 253.0,
+                "dead_storage": 12.0,
                 "inflow": 0.84,
                 "outflow": 0.508,
                 "date": "2026-09-29"
@@ -185,6 +201,8 @@
                 "capacity": 135.57,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 128.98,
+                "dead_storage": 6.59,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -206,6 +224,8 @@
                 "capacity": 780.0,
                 "volume": 39.38,
                 "percent_storage": 7.57,
+                "active_storage": 475.0,
+                "dead_storage": 45.0,
                 "inflow": 0.278,
                 "outflow": 1.238,
                 "date": "2026-09-29"
@@ -227,6 +247,8 @@
                 "capacity": 2450.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 1880.0,
+                "dead_storage": 100.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -248,6 +270,8 @@
                 "capacity": 445.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 291.79,
+                "dead_storage": 22.7,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -269,6 +293,8 @@
                 "capacity": 242.0,
                 "volume": 124.19,
                 "percent_storage": 80.12,
+                "active_storage": 153.6,
+                "dead_storage": 1.4,
                 "inflow": 6.294,
                 "outflow": 1.344,
                 "date": "2026-09-29"
@@ -290,6 +316,8 @@
                 "capacity": 350.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 134.0,
+                "dead_storage": 7.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -311,6 +339,8 @@
                 "capacity": 325.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 268.0,
+                "dead_storage": 7.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -332,6 +362,8 @@
                 "capacity": 196.67,
                 "volume": 57.3,
                 "percent_storage": 47.2,
+                "active_storage": 118.41,
+                "dead_storage": 3.0,
                 "inflow": 0.736,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -353,6 +385,8 @@
                 "capacity": 200.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 157.0,
+                "dead_storage": 8.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -374,6 +408,8 @@
                 "capacity": 181.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 127.0,
+                "dead_storage": 37.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -395,6 +431,8 @@
                 "capacity": 2431.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 1850.0,
+                "dead_storage": 581.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -416,6 +454,8 @@
                 "capacity": 1966.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 1134.62,
+                "dead_storage": 831.38,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -437,6 +477,8 @@
                 "capacity": 1036.16,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 871.5,
+                "dead_storage": 14.64,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -458,6 +500,8 @@
                 "capacity": 190.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 143.0,
+                "dead_storage": 17.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -479,6 +523,8 @@
                 "capacity": 390.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 259.0,
+                "dead_storage": 40.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -500,6 +546,8 @@
                 "capacity": 18770.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 7480.0,
+                "dead_storage": 10265.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -521,6 +569,8 @@
                 "capacity": 11000.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 5848.0,
+                "dead_storage": 3012.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -542,6 +592,8 @@
                 "capacity": 224.9,
                 "volume": 217.17,
                 "percent_storage": 96.95,
+                "active_storage": 219.48,
+                "dead_storage": 4.52,
                 "inflow": 11.482,
                 "outflow": 13.407,
                 "date": "2026-09-29"
@@ -563,6 +615,8 @@
                 "capacity": 450.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 390.0,
+                "dead_storage": 30.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -584,6 +638,8 @@
                 "capacity": 127.0,
                 "volume": 90.39,
                 "percent_storage": 77.26,
+                "active_storage": 104.94,
+                "dead_storage": 12.06,
                 "inflow": 1.514,
                 "outflow": 0.272,
                 "date": "2026-09-29"
@@ -605,6 +661,8 @@
                 "capacity": 205.85,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 150.25,
+                "dead_storage": 13.5,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -626,6 +684,8 @@
                 "capacity": 322.0,
                 "volume": 338.0,
                 "percent_storage": 114.58,
+                "active_storage": 275.0,
+                "dead_storage": 20.0,
                 "inflow": 33.19,
                 "outflow": 33.19,
                 "date": "2026-09-29"
@@ -647,6 +707,8 @@
                 "capacity": 338.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 280.75,
+                "dead_storage": 14.25,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -668,6 +730,8 @@
                 "capacity": 490.0,
                 "volume": 297.91,
                 "percent_storage": 76.19,
+                "active_storage": 373.41,
+                "dead_storage": 17.59,
                 "inflow": 24.247,
                 "outflow": 1.443,
                 "date": "2026-09-29"
@@ -689,6 +753,8 @@
                 "capacity": 900.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 645.0,
+                "dead_storage": 65.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -710,6 +776,8 @@
                 "capacity": 6144.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 4287.3,
+                "dead_storage": 1351.54,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -731,6 +799,8 @@
                 "capacity": 1590.0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 1178.08,
+                "dead_storage": 276.28,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -752,6 +822,8 @@
                 "capacity": 4.53,
                 "volume": 3.637,
                 "percent_storage": 80.29,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0.049,
                 "outflow": 0.054,
                 "date": "2026-09-29"
@@ -773,6 +845,8 @@
                 "capacity": 1.1,
                 "volume": 1.102,
                 "percent_storage": 100.18,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0.005,
                 "outflow": 0.005,
                 "date": "2026-09-29"
@@ -794,6 +868,8 @@
                 "capacity": 4.3,
                 "volume": 3.802,
                 "percent_storage": 88.42,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0.019,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -815,6 +891,8 @@
                 "capacity": 2.772,
                 "volume": 1.877,
                 "percent_storage": 67.71,
+                "active_storage": 0,
+                "dead_storage": 0.05,
                 "inflow": 0.037,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -836,6 +914,8 @@
                 "capacity": 38.999,
                 "volume": 27.83,
                 "percent_storage": 71.36,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0.66,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -857,6 +937,8 @@
                 "capacity": 5.53,
                 "volume": 5.53,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 0.32,
                 "inflow": 0.034,
                 "outflow": 0.034,
                 "date": "2026-09-29"
@@ -878,6 +960,8 @@
                 "capacity": 4.276,
                 "volume": 4.294,
                 "percent_storage": 100.42,
+                "active_storage": 0,
+                "dead_storage": 0.283,
                 "inflow": 0.083,
                 "outflow": 0.101,
                 "date": "2026-09-29"
@@ -899,6 +983,8 @@
                 "capacity": 3.641,
                 "volume": 2.159,
                 "percent_storage": 59.3,
+                "active_storage": 0,
+                "dead_storage": 0.127,
                 "inflow": 0.008,
                 "outflow": 0.005,
                 "date": "2026-09-29"
@@ -920,6 +1006,8 @@
                 "capacity": 4.08,
                 "volume": 4.109,
                 "percent_storage": 100.71,
+                "active_storage": 0,
+                "dead_storage": 0.35,
                 "inflow": 0.045,
                 "outflow": 0.045,
                 "date": "2026-09-29"
@@ -941,6 +1029,8 @@
                 "capacity": 1.45,
                 "volume": 1.479,
                 "percent_storage": 102.0,
+                "active_storage": 0,
+                "dead_storage": 0.35,
                 "inflow": 0.155,
                 "outflow": 0.121,
                 "date": "2026-09-29"
@@ -962,6 +1052,8 @@
                 "capacity": 15.299,
                 "volume": 15.463,
                 "percent_storage": 101.07,
+                "active_storage": 0,
+                "dead_storage": 2.3,
                 "inflow": 0.471,
                 "outflow": 0.471,
                 "date": "2026-09-29"
@@ -983,6 +1075,8 @@
                 "capacity": 16.24,
                 "volume": 13.729,
                 "percent_storage": 84.54,
+                "active_storage": 0,
+                "dead_storage": 0.55,
                 "inflow": 0.093,
                 "outflow": 0.061,
                 "date": "2026-09-29"
@@ -1004,6 +1098,8 @@
                 "capacity": 10.0,
                 "volume": 7.607,
                 "percent_storage": 76.07,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0.013,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1025,6 +1121,8 @@
                 "capacity": 15.999,
                 "volume": 11.444,
                 "percent_storage": 71.53,
+                "active_storage": 0,
+                "dead_storage": 0.26,
                 "inflow": 0.032,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1046,6 +1144,8 @@
                 "capacity": 5.0,
                 "volume": 2.826,
                 "percent_storage": 56.52,
+                "active_storage": 0,
+                "dead_storage": 0.15,
                 "inflow": 0.008,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1067,6 +1167,8 @@
                 "capacity": 3.6,
                 "volume": 2.434,
                 "percent_storage": 67.61,
+                "active_storage": 0,
+                "dead_storage": 0.02,
                 "inflow": 0.06,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1088,6 +1190,8 @@
                 "capacity": 6.3,
                 "volume": 6.082,
                 "percent_storage": 96.54,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0.032,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1109,6 +1213,8 @@
                 "capacity": 9.0,
                 "volume": 8.5,
                 "percent_storage": 94.44,
+                "active_storage": 0,
+                "dead_storage": 1.45,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1130,6 +1236,8 @@
                 "capacity": 73.003,
                 "volume": 57.154,
                 "percent_storage": 78.29,
+                "active_storage": 0,
+                "dead_storage": 3.0,
                 "inflow": 0.583,
                 "outflow": 0.583,
                 "date": "2026-09-29"
@@ -1151,6 +1259,8 @@
                 "capacity": 7.37,
                 "volume": 7.153,
                 "percent_storage": 97.06,
+                "active_storage": 0,
+                "dead_storage": 1.34,
                 "inflow": 0.039,
                 "outflow": 0.091,
                 "date": "2026-09-29"
@@ -1172,6 +1282,8 @@
                 "capacity": 2.54,
                 "volume": 1.502,
                 "percent_storage": 59.13,
+                "active_storage": 0,
+                "dead_storage": 0.24,
                 "inflow": 0.035,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1193,6 +1305,8 @@
                 "capacity": 7.56,
                 "volume": 3.833,
                 "percent_storage": 50.7,
+                "active_storage": 0,
+                "dead_storage": 0.54,
                 "inflow": 0.118,
                 "outflow": 0.006,
                 "date": "2026-09-29"
@@ -1214,6 +1328,8 @@
                 "capacity": 13.6,
                 "volume": 12.39,
                 "percent_storage": 91.1,
+                "active_storage": 0,
+                "dead_storage": 1.36,
                 "inflow": 0.068,
                 "outflow": 0.223,
                 "date": "2026-09-29"
@@ -1235,6 +1351,8 @@
                 "capacity": 1.2,
                 "volume": 1.216,
                 "percent_storage": 101.33,
+                "active_storage": 0,
+                "dead_storage": 0.16,
                 "inflow": 0.035,
                 "outflow": 0.029,
                 "date": "2026-09-29"
@@ -1256,6 +1374,8 @@
                 "capacity": 4.2,
                 "volume": 2.055,
                 "percent_storage": 48.93,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0.148,
                 "outflow": 0.004,
                 "date": "2026-09-29"
@@ -1277,6 +1397,8 @@
                 "capacity": 6.9,
                 "volume": 3.884,
                 "percent_storage": 56.29,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0.045,
                 "outflow": 0.028,
                 "date": "2026-09-29"
@@ -1298,6 +1420,8 @@
                 "capacity": 1.248,
                 "volume": 0.651,
                 "percent_storage": 52.16,
+                "active_storage": 0,
+                "dead_storage": 0.138,
                 "inflow": 0.025,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1319,6 +1443,8 @@
                 "capacity": 1.61,
                 "volume": 0.863,
                 "percent_storage": 53.6,
+                "active_storage": 0,
+                "dead_storage": 0.15,
                 "inflow": 0.011,
                 "outflow": 0.003,
                 "date": "2026-09-29"
@@ -1340,6 +1466,8 @@
                 "capacity": 1.356,
                 "volume": 0.902,
                 "percent_storage": 66.52,
+                "active_storage": 0,
+                "dead_storage": 0.16,
                 "inflow": 0.067,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1361,6 +1489,8 @@
                 "capacity": 1.0,
                 "volume": 0.727,
                 "percent_storage": 72.7,
+                "active_storage": 0,
+                "dead_storage": 0.07,
                 "inflow": 0.024,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1382,6 +1512,8 @@
                 "capacity": 1.132,
                 "volume": 0.762,
                 "percent_storage": 67.31,
+                "active_storage": 0,
+                "dead_storage": 0.178,
                 "inflow": 0.011,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1403,6 +1535,8 @@
                 "capacity": 1.225,
                 "volume": 0.915,
                 "percent_storage": 74.69,
+                "active_storage": 0,
+                "dead_storage": 0.115,
                 "inflow": 0.02,
                 "outflow": 0.019,
                 "date": "2026-09-29"
@@ -1424,6 +1558,8 @@
                 "capacity": 1.59,
                 "volume": 1.12,
                 "percent_storage": 70.44,
+                "active_storage": 0,
+                "dead_storage": 0.105,
                 "inflow": 0.012,
                 "outflow": 0.011,
                 "date": "2026-09-29"
@@ -1445,6 +1581,8 @@
                 "capacity": 1.28,
                 "volume": 0.928,
                 "percent_storage": 72.5,
+                "active_storage": 0,
+                "dead_storage": 0.116,
                 "inflow": 0.005,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1466,6 +1604,8 @@
                 "capacity": 2.54,
                 "volume": 2.615,
                 "percent_storage": 102.95,
+                "active_storage": 0,
+                "dead_storage": 0.691,
                 "inflow": 0.244,
                 "outflow": 0.173,
                 "date": "2026-09-29"
@@ -1487,6 +1627,8 @@
                 "capacity": 5.9,
                 "volume": 4.245,
                 "percent_storage": 71.95,
+                "active_storage": 0,
+                "dead_storage": 0.95,
                 "inflow": 0.005,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1508,6 +1650,8 @@
                 "capacity": 1.336,
                 "volume": 0.793,
                 "percent_storage": 59.36,
+                "active_storage": 0,
+                "dead_storage": 0.048,
                 "inflow": 0.12,
                 "outflow": 0.006,
                 "date": "2026-09-29"
@@ -1529,6 +1673,8 @@
                 "capacity": 1.113,
                 "volume": 0.92,
                 "percent_storage": 82.66,
+                "active_storage": 0,
+                "dead_storage": 0.054,
                 "inflow": 0.082,
                 "outflow": 0.065,
                 "date": "2026-09-29"
@@ -1550,6 +1696,8 @@
                 "capacity": 1.12,
                 "volume": 1.142,
                 "percent_storage": 101.96,
+                "active_storage": 0,
+                "dead_storage": 0.338,
                 "inflow": 0.024,
                 "outflow": 0.021,
                 "date": "2026-09-29"
@@ -1571,6 +1719,8 @@
                 "capacity": 1.26,
                 "volume": 1.283,
                 "percent_storage": 101.83,
+                "active_storage": 0,
+                "dead_storage": 0.17,
                 "inflow": 0.04,
                 "outflow": 0.037,
                 "date": "2026-09-29"
@@ -1592,6 +1742,8 @@
                 "capacity": 1.3,
                 "volume": 1.307,
                 "percent_storage": 100.54,
+                "active_storage": 0,
+                "dead_storage": 0.16,
                 "inflow": 0.054,
                 "outflow": 0.043,
                 "date": "2026-09-29"
@@ -1613,6 +1765,8 @@
                 "capacity": 11.6,
                 "volume": 7.881,
                 "percent_storage": 67.94,
+                "active_storage": 0,
+                "dead_storage": 0.6,
                 "inflow": 0.088,
                 "outflow": 0.075,
                 "date": "2026-09-29"
@@ -1634,6 +1788,8 @@
                 "capacity": 1.81,
                 "volume": 1.168,
                 "percent_storage": 64.53,
+                "active_storage": 0,
+                "dead_storage": 0.151,
                 "inflow": 0.023,
                 "outflow": 0.022,
                 "date": "2026-09-29"
@@ -1655,6 +1811,8 @@
                 "capacity": 3.48,
                 "volume": 1.993,
                 "percent_storage": 57.27,
+                "active_storage": 0,
+                "dead_storage": 0.28,
                 "inflow": 0.037,
                 "outflow": 0.035,
                 "date": "2026-09-29"
@@ -1676,6 +1834,8 @@
                 "capacity": 3.2,
                 "volume": 2.347,
                 "percent_storage": 73.34,
+                "active_storage": 0,
+                "dead_storage": 0.13,
                 "inflow": 0.017,
                 "outflow": 0.014,
                 "date": "2026-09-29"
@@ -1697,6 +1857,8 @@
                 "capacity": 3.525,
                 "volume": 2.494,
                 "percent_storage": 70.75,
+                "active_storage": 0,
+                "dead_storage": 0.04,
                 "inflow": 0.065,
                 "outflow": 0.062,
                 "date": "2026-09-29"
@@ -1718,6 +1880,8 @@
                 "capacity": 36.481,
                 "volume": 14.99,
                 "percent_storage": 41.09,
+                "active_storage": 0,
+                "dead_storage": 5.84,
                 "inflow": 0.69,
                 "outflow": 0.073,
                 "date": "2026-09-29"
@@ -1739,6 +1903,8 @@
                 "capacity": 19.919,
                 "volume": 18.957,
                 "percent_storage": 95.17,
+                "active_storage": 0,
+                "dead_storage": 1.1,
                 "inflow": 0.076,
                 "outflow": 0.043,
                 "date": "2026-09-29"
@@ -1760,6 +1926,8 @@
                 "capacity": 19.101,
                 "volume": 10.83,
                 "percent_storage": 56.7,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0.017,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1781,6 +1949,8 @@
                 "capacity": 3.122,
                 "volume": 2.194,
                 "percent_storage": 70.28,
+                "active_storage": 0,
+                "dead_storage": 0.099,
                 "inflow": 0.002,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -1802,6 +1972,8 @@
                 "capacity": 9.197,
                 "volume": 4.32,
                 "percent_storage": 46.97,
+                "active_storage": 0,
+                "dead_storage": 0.663,
                 "inflow": 0.001,
                 "outflow": 0.019,
                 "date": "2026-09-29"
@@ -1823,6 +1995,8 @@
                 "capacity": 5.0,
                 "volume": 5.0,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 0.54,
                 "inflow": 0.02,
                 "outflow": 0.048,
                 "date": "2026-09-29"
@@ -1844,6 +2018,8 @@
                 "capacity": 13.0,
                 "volume": 13.164,
                 "percent_storage": 101.26,
+                "active_storage": 0,
+                "dead_storage": 2.87,
                 "inflow": 0.962,
                 "outflow": 0.974,
                 "date": "2026-09-29"
@@ -1865,6 +2041,8 @@
                 "capacity": 1.49,
                 "volume": 1.242,
                 "percent_storage": 83.36,
+                "active_storage": 0,
+                "dead_storage": 0.37,
                 "inflow": 0.008,
                 "outflow": 0.04,
                 "date": "2026-09-29"
@@ -1886,6 +2064,8 @@
                 "capacity": 6.0,
                 "volume": 6.01,
                 "percent_storage": 100.17,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0.057,
                 "outflow": 0.07,
                 "date": "2026-09-29"
@@ -1907,6 +2087,8 @@
                 "capacity": 3.99,
                 "volume": 3.965,
                 "percent_storage": 99.37,
+                "active_storage": 0,
+                "dead_storage": 0.67,
                 "inflow": 0.061,
                 "outflow": 0.055,
                 "date": "2026-09-29"
@@ -1928,6 +2110,8 @@
                 "capacity": 1.166,
                 "volume": 1.043,
                 "percent_storage": 89.45,
+                "active_storage": 0,
+                "dead_storage": 0.047,
                 "inflow": 0.006,
                 "outflow": 0.01,
                 "date": "2026-09-29"
@@ -1949,6 +2133,8 @@
                 "capacity": 1.18,
                 "volume": 1.182,
                 "percent_storage": 100.17,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0.016,
                 "outflow": 0.016,
                 "date": "2026-09-29"
@@ -1970,6 +2156,8 @@
                 "capacity": 1.99,
                 "volume": 1.574,
                 "percent_storage": 79.1,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0.01,
                 "outflow": 0.031,
                 "date": "2026-09-29"
@@ -1991,6 +2179,8 @@
                 "capacity": 3.66,
                 "volume": 3.66,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 0.44,
                 "inflow": 0.032,
                 "outflow": 0.04,
                 "date": "2026-09-29"
@@ -2012,6 +2202,8 @@
                 "capacity": 41.497,
                 "volume": 25.06,
                 "percent_storage": 60.39,
+                "active_storage": 0,
+                "dead_storage": 2.5,
                 "inflow": 0.354,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2033,6 +2225,8 @@
                 "capacity": 50.323,
                 "volume": 30.098,
                 "percent_storage": 59.81,
+                "active_storage": 0,
+                "dead_storage": 1.65,
                 "inflow": 0.147,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2054,6 +2248,8 @@
                 "capacity": 3.0,
                 "volume": 2.576,
                 "percent_storage": 85.87,
+                "active_storage": 0,
+                "dead_storage": 1.1,
                 "inflow": 0.007,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2075,6 +2271,8 @@
                 "capacity": 9.604,
                 "volume": 9.604,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 0.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2096,6 +2294,8 @@
                 "capacity": 59.002,
                 "volume": 47.131,
                 "percent_storage": 79.88,
+                "active_storage": 0,
+                "dead_storage": 6.0,
                 "inflow": 0.217,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2117,6 +2317,8 @@
                 "capacity": 4.0,
                 "volume": 2.336,
                 "percent_storage": 58.4,
+                "active_storage": 0,
+                "dead_storage": 0.27,
                 "inflow": 0.048,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2138,6 +2340,8 @@
                 "capacity": 73.706,
                 "volume": 32.6,
                 "percent_storage": 44.23,
+                "active_storage": 0,
+                "dead_storage": 5.03,
                 "inflow": 0.261,
                 "outflow": 0.169,
                 "date": "2026-09-29"
@@ -2159,6 +2363,8 @@
                 "capacity": 1.4,
                 "volume": 0.6,
                 "percent_storage": 42.86,
+                "active_storage": 0,
+                "dead_storage": 0.02,
                 "inflow": 0.04,
                 "outflow": 0.002,
                 "date": "2026-09-29"
@@ -2180,6 +2386,8 @@
                 "capacity": 38.501,
                 "volume": 40.877,
                 "percent_storage": 106.17,
+                "active_storage": 0,
+                "dead_storage": 0.75,
                 "inflow": 7.197,
                 "outflow": 3.715,
                 "date": "2026-09-29"
@@ -2201,6 +2409,8 @@
                 "capacity": 14.358,
                 "volume": 13.56,
                 "percent_storage": 94.44,
+                "active_storage": 0,
+                "dead_storage": 0.031,
                 "inflow": 2.134,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2222,6 +2432,8 @@
                 "capacity": 11.22,
                 "volume": 8.505,
                 "percent_storage": 75.8,
+                "active_storage": 0,
+                "dead_storage": 0.178,
                 "inflow": 0.24,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2243,6 +2455,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 4.25,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2264,6 +2478,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 6.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2285,6 +2501,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 2.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2306,6 +2524,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.25,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2327,6 +2547,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.4,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2348,6 +2570,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.34,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2369,6 +2593,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 8.8,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2390,6 +2616,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.04,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2411,6 +2639,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2432,6 +2662,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.58,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2453,6 +2685,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.14,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2474,6 +2708,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.36,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2495,6 +2731,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.434,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2516,6 +2754,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2537,6 +2777,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 3.5,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2558,6 +2800,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.51,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2579,6 +2823,8 @@
                 "capacity": 1.2,
                 "volume": 0.502,
                 "percent_storage": 41.83,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0.014,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2600,6 +2846,8 @@
                 "capacity": 11.87,
                 "volume": 13.043,
                 "percent_storage": 109.88,
+                "active_storage": 0,
+                "dead_storage": 1.03,
                 "inflow": 0.777,
                 "outflow": 0.189,
                 "date": "2026-09-29"
@@ -2621,6 +2869,8 @@
                 "capacity": 86.059,
                 "volume": 83.494,
                 "percent_storage": 97.02,
+                "active_storage": 0,
+                "dead_storage": 6.0,
                 "inflow": 10.004,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2642,6 +2892,8 @@
                 "capacity": 1.315,
                 "volume": 1.155,
                 "percent_storage": 87.83,
+                "active_storage": 0,
+                "dead_storage": 0.246,
                 "inflow": 0.009,
                 "outflow": 0.003,
                 "date": "2026-09-29"
@@ -2663,6 +2915,8 @@
                 "capacity": 1.6,
                 "volume": 1.423,
                 "percent_storage": 88.94,
+                "active_storage": 0,
+                "dead_storage": 0.11,
                 "inflow": 0.013,
                 "outflow": 0.002,
                 "date": "2026-09-29"
@@ -2684,6 +2938,8 @@
                 "capacity": 3.3,
                 "volume": 3.221,
                 "percent_storage": 97.61,
+                "active_storage": 0,
+                "dead_storage": 0.945,
                 "inflow": 0.062,
                 "outflow": 0.012,
                 "date": "2026-09-29"
@@ -2705,6 +2961,8 @@
                 "capacity": 3.713,
                 "volume": 2.593,
                 "percent_storage": 69.84,
+                "active_storage": 0,
+                "dead_storage": 0.72,
                 "inflow": 0.045,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2726,6 +2984,8 @@
                 "capacity": 29.001,
                 "volume": 24.828,
                 "percent_storage": 85.61,
+                "active_storage": 0,
+                "dead_storage": 2.0,
                 "inflow": 0.243,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2747,6 +3007,8 @@
                 "capacity": 1.65,
                 "volume": 0.195,
                 "percent_storage": 11.82,
+                "active_storage": 0,
+                "dead_storage": 0.08,
                 "inflow": 0.007,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2768,6 +3030,8 @@
                 "capacity": 1.364,
                 "volume": 0.223,
                 "percent_storage": 16.35,
+                "active_storage": 0,
+                "dead_storage": 0.03,
                 "inflow": 0.001,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2789,6 +3053,8 @@
                 "capacity": 26.499,
                 "volume": 17.264,
                 "percent_storage": 65.15,
+                "active_storage": 0,
+                "dead_storage": 1.47,
                 "inflow": 0.301,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2810,6 +3076,8 @@
                 "capacity": 2.73,
                 "volume": 1.65,
                 "percent_storage": 60.44,
+                "active_storage": 0,
+                "dead_storage": 0.188,
                 "inflow": 0.02,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2831,6 +3099,8 @@
                 "capacity": 35.808,
                 "volume": 35.192,
                 "percent_storage": 98.28,
+                "active_storage": 0,
+                "dead_storage": 5.858,
                 "inflow": 2.812,
                 "outflow": 3.574,
                 "date": "2026-09-29"
@@ -2852,6 +3122,8 @@
                 "capacity": 9.974,
                 "volume": 6.201,
                 "percent_storage": 62.17,
+                "active_storage": 0,
+                "dead_storage": 0.102,
                 "inflow": 0.018,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2873,6 +3145,8 @@
                 "capacity": 7.908,
                 "volume": 7.236,
                 "percent_storage": 91.5,
+                "active_storage": 0,
+                "dead_storage": 0.36,
                 "inflow": 1.394,
                 "outflow": 1.908,
                 "date": "2026-09-29"
@@ -2894,6 +3168,8 @@
                 "capacity": 8.62,
                 "volume": 10.168,
                 "percent_storage": 117.96,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 1.054,
                 "outflow": 1.007,
                 "date": "2026-09-29"
@@ -2915,6 +3191,8 @@
                 "capacity": 7.81,
                 "volume": 7.902,
                 "percent_storage": 101.18,
+                "active_storage": 0,
+                "dead_storage": 0.64,
                 "inflow": 0.045,
                 "outflow": 0.039,
                 "date": "2026-09-29"
@@ -2936,6 +3214,8 @@
                 "capacity": 2.75,
                 "volume": 2.615,
                 "percent_storage": 95.09,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0.004,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2957,6 +3237,8 @@
                 "capacity": 4.0,
                 "volume": 4.011,
                 "percent_storage": 100.28,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0.005,
                 "outflow": 0.01,
                 "date": "2026-09-29"
@@ -2978,6 +3260,8 @@
                 "capacity": 4.1,
                 "volume": 3.93,
                 "percent_storage": 95.85,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0.044,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -2999,6 +3283,8 @@
                 "capacity": 2.4,
                 "volume": 2.588,
                 "percent_storage": 107.83,
+                "active_storage": 0,
+                "dead_storage": 0.87,
                 "inflow": 0,
                 "outflow": 0.011,
                 "date": "2026-09-29"
@@ -3020,6 +3306,8 @@
                 "capacity": 1.96,
                 "volume": 2.076,
                 "percent_storage": 105.92,
+                "active_storage": 0,
+                "dead_storage": 0.137,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3041,6 +3329,8 @@
                 "capacity": 2.7,
                 "volume": 2.079,
                 "percent_storage": 77.0,
+                "active_storage": 0,
+                "dead_storage": 0.175,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3062,6 +3352,8 @@
                 "capacity": 4.0,
                 "volume": 3.03,
                 "percent_storage": 75.75,
+                "active_storage": 0,
+                "dead_storage": 0.24,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3083,6 +3375,8 @@
                 "capacity": 7.75,
                 "volume": 4.0,
                 "percent_storage": 51.61,
+                "active_storage": 0,
+                "dead_storage": 0.7,
                 "inflow": 0.019,
                 "outflow": 0.064,
                 "date": "2026-09-29"
@@ -3104,6 +3398,8 @@
                 "capacity": 20.999,
                 "volume": 16.856,
                 "percent_storage": 80.27,
+                "active_storage": 0,
+                "dead_storage": 1.29,
                 "inflow": 0.019,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3125,6 +3421,8 @@
                 "capacity": 1.63,
                 "volume": 1.185,
                 "percent_storage": 72.7,
+                "active_storage": 0,
+                "dead_storage": 0.38,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3146,6 +3444,8 @@
                 "capacity": 8.99,
                 "volume": 7.076,
                 "percent_storage": 78.71,
+                "active_storage": 0,
+                "dead_storage": 0.7,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3167,6 +3467,8 @@
                 "capacity": 7.6,
                 "volume": 7.661,
                 "percent_storage": 100.8,
+                "active_storage": 0,
+                "dead_storage": 0.04,
                 "inflow": 0.127,
                 "outflow": 0.066,
                 "date": "2026-09-29"
@@ -3188,6 +3490,8 @@
                 "capacity": 1.1,
                 "volume": 1.09,
                 "percent_storage": 99.09,
+                "active_storage": 0,
+                "dead_storage": 0.122,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3209,6 +3513,8 @@
                 "capacity": 5.9,
                 "volume": 4.701,
                 "percent_storage": 79.68,
+                "active_storage": 0,
+                "dead_storage": 0.52,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3230,6 +3536,8 @@
                 "capacity": 4.0,
                 "volume": 3.125,
                 "percent_storage": 78.13,
+                "active_storage": 0,
+                "dead_storage": 0.55,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3251,6 +3559,8 @@
                 "capacity": 6.5,
                 "volume": 6.42,
                 "percent_storage": 98.77,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0.028,
                 "outflow": 0.048,
                 "date": "2026-09-29"
@@ -3272,6 +3582,8 @@
                 "capacity": 6.0,
                 "volume": 5.932,
                 "percent_storage": 98.87,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0.021,
                 "outflow": 0.043,
                 "date": "2026-09-29"
@@ -3293,6 +3605,8 @@
                 "capacity": 2.2,
                 "volume": 2.196,
                 "percent_storage": 99.82,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0.028,
                 "outflow": 0.028,
                 "date": "2026-09-29"
@@ -3314,6 +3628,8 @@
                 "capacity": 1.5,
                 "volume": 1.073,
                 "percent_storage": 71.53,
+                "active_storage": 0,
+                "dead_storage": 0.15,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3335,6 +3651,8 @@
                 "capacity": 2.209,
                 "volume": 2.197,
                 "percent_storage": 99.46,
+                "active_storage": 0,
+                "dead_storage": 0.15,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3356,6 +3674,8 @@
                 "capacity": 3.8,
                 "volume": 2.425,
                 "percent_storage": 63.82,
+                "active_storage": 0,
+                "dead_storage": 0.225,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3377,6 +3697,8 @@
                 "capacity": 1.82,
                 "volume": 0.859,
                 "percent_storage": 47.2,
+                "active_storage": 0,
+                "dead_storage": 0.161,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3398,6 +3720,8 @@
                 "capacity": 2.0,
                 "volume": 1.985,
                 "percent_storage": 99.25,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0.023,
                 "outflow": 0.028,
                 "date": "2026-09-29"
@@ -3419,6 +3743,8 @@
                 "capacity": 1.0,
                 "volume": 0.997,
                 "percent_storage": 99.7,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0.027,
                 "outflow": 0.027,
                 "date": "2026-09-29"
@@ -3440,6 +3766,8 @@
                 "capacity": 1.5,
                 "volume": 0.848,
                 "percent_storage": 56.53,
+                "active_storage": 0,
+                "dead_storage": 0.003,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3461,6 +3789,8 @@
                 "capacity": 3.18,
                 "volume": 2.911,
                 "percent_storage": 91.54,
+                "active_storage": 0,
+                "dead_storage": 0.242,
                 "inflow": 0.14,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3482,6 +3812,8 @@
                 "capacity": 4.0,
                 "volume": 3.986,
                 "percent_storage": 99.65,
+                "active_storage": 0,
+                "dead_storage": 0.495,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3503,6 +3835,8 @@
                 "capacity": 12.5,
                 "volume": 9.97,
                 "percent_storage": 79.76,
+                "active_storage": 0,
+                "dead_storage": 0.17,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3524,6 +3858,8 @@
                 "capacity": 2.91,
                 "volume": 2.829,
                 "percent_storage": 97.22,
+                "active_storage": 0,
+                "dead_storage": 0.44,
                 "inflow": 0.03,
                 "outflow": 0.03,
                 "date": "2026-09-29"
@@ -3545,6 +3881,8 @@
                 "capacity": 1.0,
                 "volume": 0.798,
                 "percent_storage": 79.8,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3566,6 +3904,8 @@
                 "capacity": 1.5,
                 "volume": 0.7,
                 "percent_storage": 46.67,
+                "active_storage": 0,
+                "dead_storage": 0.11,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3587,6 +3927,8 @@
                 "capacity": 2.9,
                 "volume": 1.372,
                 "percent_storage": 47.31,
+                "active_storage": 0,
+                "dead_storage": 0.15,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3608,6 +3950,8 @@
                 "capacity": 1.5,
                 "volume": 0.661,
                 "percent_storage": 44.07,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3629,6 +3973,8 @@
                 "capacity": 2.1,
                 "volume": 1.803,
                 "percent_storage": 85.86,
+                "active_storage": 0,
+                "dead_storage": 0.27,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3650,6 +3996,8 @@
                 "capacity": 2.288,
                 "volume": 2.12,
                 "percent_storage": 92.66,
+                "active_storage": 0,
+                "dead_storage": 0.25,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3671,6 +4019,8 @@
                 "capacity": 18.5,
                 "volume": 18.5,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 0.885,
                 "inflow": 0.026,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3692,6 +4042,8 @@
                 "capacity": 4.35,
                 "volume": 4.283,
                 "percent_storage": 98.46,
+                "active_storage": 0,
+                "dead_storage": 0.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3713,6 +4065,8 @@
                 "capacity": 6.44,
                 "volume": 6.46,
                 "percent_storage": 100.31,
+                "active_storage": 0,
+                "dead_storage": 0.225,
                 "inflow": 0.044,
                 "outflow": 0.03,
                 "date": "2026-09-29"
@@ -3734,6 +4088,8 @@
                 "capacity": 11.4,
                 "volume": 11.418,
                 "percent_storage": 100.16,
+                "active_storage": 0,
+                "dead_storage": 8.206,
                 "inflow": 0.021,
                 "outflow": 0.012,
                 "date": "2026-09-29"
@@ -3755,6 +4111,8 @@
                 "capacity": 3.077,
                 "volume": 2.504,
                 "percent_storage": 81.38,
+                "active_storage": 0,
+                "dead_storage": 1.0,
                 "inflow": 0.009,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3776,6 +4134,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 5.882,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3797,6 +4157,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.14,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3818,6 +4180,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3839,6 +4203,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.28,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3860,6 +4226,8 @@
                 "capacity": 2.469,
                 "volume": 2.218,
                 "percent_storage": 89.83,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0.006,
                 "outflow": 0.005,
                 "date": "2026-09-29"
@@ -3881,6 +4249,8 @@
                 "capacity": 20.8,
                 "volume": 20.8,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 2.18,
                 "inflow": 0.111,
                 "outflow": 0.093,
                 "date": "2026-09-29"
@@ -3902,6 +4272,8 @@
                 "capacity": 7.645,
                 "volume": 3.812,
                 "percent_storage": 49.86,
+                "active_storage": 0,
+                "dead_storage": 0.6,
                 "inflow": 0.225,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3923,6 +4295,8 @@
                 "capacity": 10.314,
                 "volume": 1.84,
                 "percent_storage": 17.84,
+                "active_storage": 0,
+                "dead_storage": 1.033,
                 "inflow": 0.01,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -3944,6 +4318,8 @@
                 "capacity": 3.58,
                 "volume": 3.681,
                 "percent_storage": 102.82,
+                "active_storage": 0,
+                "dead_storage": 0.51,
                 "inflow": 3.103,
                 "outflow": 2.883,
                 "date": "2026-09-29"
@@ -3965,6 +4341,8 @@
                 "capacity": 42.601,
                 "volume": 47.824,
                 "percent_storage": 112.26,
+                "active_storage": 0,
+                "dead_storage": 3.3,
                 "inflow": 1.329,
                 "outflow": 0.121,
                 "date": "2026-09-29"
@@ -3986,6 +4364,8 @@
                 "capacity": 19.675,
                 "volume": 20.34,
                 "percent_storage": 103.38,
+                "active_storage": 0,
+                "dead_storage": 3.0,
                 "inflow": 0.778,
                 "outflow": 0.184,
                 "date": "2026-09-29"
@@ -4007,6 +4387,8 @@
                 "capacity": 10.3,
                 "volume": 11.175,
                 "percent_storage": 108.5,
+                "active_storage": 0,
+                "dead_storage": 1.5,
                 "inflow": 0.396,
                 "outflow": 0.396,
                 "date": "2026-09-29"
@@ -4028,6 +4410,8 @@
                 "capacity": 43.701,
                 "volume": 40.144,
                 "percent_storage": 91.86,
+                "active_storage": 0,
+                "dead_storage": 1.04,
                 "inflow": 2.036,
                 "outflow": 0.882,
                 "date": "2026-09-29"
@@ -4049,6 +4433,8 @@
                 "capacity": 7.7,
                 "volume": 8.3,
                 "percent_storage": 107.79,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4070,6 +4456,8 @@
                 "capacity": 25.0,
                 "volume": 24.0,
                 "percent_storage": 96.0,
+                "active_storage": 0,
+                "dead_storage": 7.5,
                 "inflow": 7.4,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4091,6 +4479,8 @@
                 "capacity": 33.454,
                 "volume": 10.2,
                 "percent_storage": 30.49,
+                "active_storage": 0,
+                "dead_storage": 0.43,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4112,6 +4502,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.65,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4133,6 +4525,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4154,6 +4548,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.285,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4175,6 +4571,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4196,6 +4594,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.17,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4217,6 +4617,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.529,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4238,6 +4640,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.15,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4259,6 +4663,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.09,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4280,6 +4686,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.23,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4301,6 +4709,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.6,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4322,6 +4732,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.24,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4343,6 +4755,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.7,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4364,6 +4778,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.667,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4385,6 +4801,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4406,6 +4824,8 @@
                 "capacity": 45.784,
                 "volume": 39.64,
                 "percent_storage": 86.58,
+                "active_storage": 0,
+                "dead_storage": 1.3,
                 "inflow": 0.035,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4427,6 +4847,8 @@
                 "capacity": 3.019,
                 "volume": 3.189,
                 "percent_storage": 105.63,
+                "active_storage": 0,
+                "dead_storage": 0.53,
                 "inflow": 0.052,
                 "outflow": 0.302,
                 "date": "2026-09-29"
@@ -4448,6 +4870,8 @@
                 "capacity": 1.391,
                 "volume": 1.056,
                 "percent_storage": 75.92,
+                "active_storage": 0,
+                "dead_storage": 0.207,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4469,6 +4893,8 @@
                 "capacity": 2.355,
                 "volume": 2.291,
                 "percent_storage": 97.28,
+                "active_storage": 0,
+                "dead_storage": 0.23,
                 "inflow": 0.026,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4490,6 +4916,8 @@
                 "capacity": 13.589,
                 "volume": 3.896,
                 "percent_storage": 28.67,
+                "active_storage": 0,
+                "dead_storage": 4.31,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4511,6 +4939,8 @@
                 "capacity": 1.4,
                 "volume": 1.06,
                 "percent_storage": 75.71,
+                "active_storage": 0,
+                "dead_storage": 0.37,
                 "inflow": 0.001,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4532,6 +4962,8 @@
                 "capacity": 3.736,
                 "volume": 0.748,
                 "percent_storage": 20.02,
+                "active_storage": 0,
+                "dead_storage": 0.03,
                 "inflow": 0,
                 "outflow": 0.009,
                 "date": "2026-09-29"
@@ -4553,6 +4985,8 @@
                 "capacity": 5.337,
                 "volume": 4.613,
                 "percent_storage": 86.43,
+                "active_storage": 0,
+                "dead_storage": 0.03,
                 "inflow": 0.023,
                 "outflow": 0.035,
                 "date": "2026-09-29"
@@ -4574,6 +5008,8 @@
                 "capacity": 5.6,
                 "volume": 4.12,
                 "percent_storage": 73.57,
+                "active_storage": 0,
+                "dead_storage": 0.26,
                 "inflow": 0.068,
                 "outflow": 0.01,
                 "date": "2026-09-29"
@@ -4595,6 +5031,8 @@
                 "capacity": 1.0,
                 "volume": 0.406,
                 "percent_storage": 40.6,
+                "active_storage": 0,
+                "dead_storage": 0.177,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4616,6 +5054,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.934,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4634,11 +5074,13 @@
                 "id": "rsv190",
                 "name": "อ่างเก็บน้ำแก่งเลิงจาน",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 8.024,
+                "volume": 8.373,
+                "percent_storage": 104.35,
+                "active_storage": 0,
+                "dead_storage": 2.275,
+                "inflow": 0.432,
+                "outflow": 0.326,
                 "date": "2026-09-29"
             }
         },
@@ -4655,11 +5097,13 @@
                 "id": "rsv191",
                 "name": "อ่างเก็บน้ำห้วยขอนสัก",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 8.659,
+                "volume": 10.215,
+                "percent_storage": 117.97,
+                "active_storage": 0,
+                "dead_storage": 1.08,
+                "inflow": 1.489,
+                "outflow": 0.521,
                 "date": "2026-09-29"
             }
         },
@@ -4676,11 +5120,13 @@
                 "id": "rsv192",
                 "name": "อ่างเก็บน้ำหนองเทวราช",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 1.606,
+                "volume": 1.364,
+                "percent_storage": 84.93,
+                "active_storage": 0,
+                "dead_storage": 0.278,
+                "inflow": 0.003,
+                "outflow": 0.003,
                 "date": "2026-09-29"
             }
         },
@@ -4697,11 +5143,13 @@
                 "id": "rsv193",
                 "name": "อ่างเก็บน้ำหนองบัว",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 3.58,
+                "volume": 2.293,
+                "percent_storage": 64.05,
+                "active_storage": 0,
+                "dead_storage": 0.492,
+                "inflow": 0.007,
+                "outflow": 0.007,
                 "date": "2026-09-29"
             }
         },
@@ -4718,11 +5166,13 @@
                 "id": "rsv194",
                 "name": "อ่างเก็บน้ำร่องหัวช้าง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 1.29,
+                "volume": 1.31,
+                "percent_storage": 101.55,
+                "active_storage": 0,
+                "dead_storage": 0.759,
+                "inflow": 0.023,
+                "outflow": 0.023,
                 "date": "2026-09-29"
             }
         },
@@ -4739,11 +5189,13 @@
                 "id": "rsv195",
                 "name": "อ่างเก็บน้ำห้วยประดู่",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 2.804,
+                "volume": 1.293,
+                "percent_storage": 46.11,
+                "active_storage": 0,
+                "dead_storage": 0.04,
+                "inflow": 0.015,
+                "outflow": 0.015,
                 "date": "2026-09-29"
             }
         },
@@ -4760,11 +5212,13 @@
                 "id": "rsv196",
                 "name": "อ่างเก็บน้ำห้วยคะคาง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 4.126,
+                "volume": 2.997,
+                "percent_storage": 72.64,
+                "active_storage": 0,
+                "dead_storage": 0.334,
+                "inflow": 0.026,
+                "outflow": 0.007,
                 "date": "2026-09-29"
             }
         },
@@ -4781,11 +5235,13 @@
                 "id": "rsv197",
                 "name": "อ่างเก็บน้ำหนองกระทุ่ม",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 2.636,
+                "volume": 1.52,
+                "percent_storage": 57.66,
+                "active_storage": 0,
+                "dead_storage": 0.075,
+                "inflow": 0.095,
+                "outflow": 0.006,
                 "date": "2026-09-29"
             }
         },
@@ -4802,11 +5258,13 @@
                 "id": "rsv198",
                 "name": "อ่างเก็บน้ำหนองแกดำ",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 1.625,
+                "volume": 1.211,
+                "percent_storage": 74.52,
+                "active_storage": 0,
+                "dead_storage": 0.12,
+                "inflow": 0.013,
+                "outflow": 0.003,
                 "date": "2026-09-29"
             }
         },
@@ -4823,11 +5281,13 @@
                 "id": "rsv199",
                 "name": "อ่างเก็บน้ำห้วยค้อ",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 31.337,
+                "volume": 20.736,
+                "percent_storage": 66.17,
+                "active_storage": 0,
+                "dead_storage": 3.193,
+                "inflow": 0.21,
+                "outflow": 0.023,
                 "date": "2026-09-29"
             }
         },
@@ -4847,6 +5307,8 @@
                 "capacity": 3.584,
                 "volume": 2.035,
                 "percent_storage": 56.78,
+                "active_storage": 0,
+                "dead_storage": 0.191,
                 "inflow": 0.073,
                 "outflow": 0.004,
                 "date": "2026-09-29"
@@ -4865,11 +5327,13 @@
                 "id": "rsv202",
                 "name": "อ่างเก็บน้ำห้วยเชียงคำ",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 5.066,
+                "volume": 1.265,
+                "percent_storage": 24.97,
+                "active_storage": 0,
+                "dead_storage": 0.679,
+                "inflow": 0.014,
+                "outflow": 0.004,
                 "date": "2026-09-29"
             }
         },
@@ -4886,11 +5350,13 @@
                 "id": "rsv203",
                 "name": "อ่างเก็บน้ำห้วยจอกขวาง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 3.04,
+                "volume": 2.337,
+                "percent_storage": 76.88,
+                "active_storage": 0,
+                "dead_storage": 0.139,
+                "inflow": 0.059,
+                "outflow": 0.028,
                 "date": "2026-09-29"
             }
         },
@@ -4907,11 +5373,13 @@
                 "id": "rsv204",
                 "name": "อ่างเก็บน้ำหนองไฮ",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 2.244,
+                "volume": 1.509,
+                "percent_storage": 67.25,
+                "active_storage": 0,
+                "dead_storage": 0.167,
+                "inflow": 0.03,
+                "outflow": 0.005,
                 "date": "2026-09-29"
             }
         },
@@ -4931,6 +5399,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4952,6 +5422,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.091,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4973,6 +5445,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.11,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -4994,6 +5468,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.185,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5015,6 +5491,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.314,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5036,6 +5514,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.223,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5057,6 +5537,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.268,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5078,6 +5560,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.56,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5099,6 +5583,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.204,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5120,6 +5606,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.45,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5141,6 +5629,8 @@
                 "capacity": 2.4,
                 "volume": 2.675,
                 "percent_storage": 111.46,
+                "active_storage": 0,
+                "dead_storage": 0.125,
                 "inflow": 0.042,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5162,6 +5652,8 @@
                 "capacity": 2.8,
                 "volume": 2.719,
                 "percent_storage": 97.11,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5183,6 +5675,8 @@
                 "capacity": 7.408,
                 "volume": 6.68,
                 "percent_storage": 90.17,
+                "active_storage": 0,
+                "dead_storage": 0.72,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5204,6 +5698,8 @@
                 "capacity": 2.312,
                 "volume": 2.312,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 0.023,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5225,6 +5721,8 @@
                 "capacity": 5.2,
                 "volume": 5.292,
                 "percent_storage": 101.77,
+                "active_storage": 0,
+                "dead_storage": 0.25,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5246,6 +5744,8 @@
                 "capacity": 11.014,
                 "volume": 11.299,
                 "percent_storage": 102.59,
+                "active_storage": 0,
+                "dead_storage": 0.55,
                 "inflow": 0.036,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5267,6 +5767,8 @@
                 "capacity": 3.12,
                 "volume": 3.23,
                 "percent_storage": 103.53,
+                "active_storage": 0,
+                "dead_storage": 0.02,
                 "inflow": 0.041,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5288,6 +5790,8 @@
                 "capacity": 2.19,
                 "volume": 2.334,
                 "percent_storage": 106.58,
+                "active_storage": 0,
+                "dead_storage": 0.42,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5309,6 +5813,8 @@
                 "capacity": 3.3,
                 "volume": 2.628,
                 "percent_storage": 79.64,
+                "active_storage": 0,
+                "dead_storage": 0.45,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5330,6 +5836,8 @@
                 "capacity": 2.0,
                 "volume": 2.064,
                 "percent_storage": 103.2,
+                "active_storage": 0,
+                "dead_storage": 0.08,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5351,6 +5859,8 @@
                 "capacity": 5.1,
                 "volume": 5.932,
                 "percent_storage": 116.31,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5372,6 +5882,8 @@
                 "capacity": 1.5,
                 "volume": 1.142,
                 "percent_storage": 76.13,
+                "active_storage": 0,
+                "dead_storage": 0.03,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5393,6 +5905,8 @@
                 "capacity": 5.22,
                 "volume": 5.425,
                 "percent_storage": 103.93,
+                "active_storage": 0,
+                "dead_storage": 2.1,
                 "inflow": 0,
                 "outflow": 0.033,
                 "date": "2026-09-29"
@@ -5414,6 +5928,8 @@
                 "capacity": 26.749,
                 "volume": 24.074,
                 "percent_storage": 90.0,
+                "active_storage": 0,
+                "dead_storage": 2.0,
                 "inflow": 0.228,
                 "outflow": 0.216,
                 "date": "2026-09-29"
@@ -5435,6 +5951,8 @@
                 "capacity": 18.4,
                 "volume": 18.268,
                 "percent_storage": 99.28,
+                "active_storage": 0,
+                "dead_storage": 0.65,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5456,6 +5974,8 @@
                 "capacity": 4.9,
                 "volume": 4.876,
                 "percent_storage": 99.51,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5477,6 +5997,8 @@
                 "capacity": 4.0,
                 "volume": 3.905,
                 "percent_storage": 97.63,
+                "active_storage": 0,
+                "dead_storage": 0.6,
                 "inflow": 0.071,
                 "outflow": 0.076,
                 "date": "2026-09-29"
@@ -5498,6 +6020,8 @@
                 "capacity": 2.8,
                 "volume": 2.8,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 0.11,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5519,6 +6043,8 @@
                 "capacity": 12.8,
                 "volume": 6.5,
                 "percent_storage": 50.78,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0.025,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5540,6 +6066,8 @@
                 "capacity": 4.5,
                 "volume": 3.067,
                 "percent_storage": 68.16,
+                "active_storage": 0,
+                "dead_storage": 0.7,
                 "inflow": 0.006,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5561,6 +6089,8 @@
                 "capacity": 4.0,
                 "volume": 3.188,
                 "percent_storage": 79.7,
+                "active_storage": 0,
+                "dead_storage": 0.85,
                 "inflow": 0.006,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5582,6 +6112,8 @@
                 "capacity": 2.23,
                 "volume": 2.255,
                 "percent_storage": 101.12,
+                "active_storage": 0,
+                "dead_storage": 0.53,
                 "inflow": 0.074,
                 "outflow": 0.097,
                 "date": "2026-09-29"
@@ -5603,6 +6135,8 @@
                 "capacity": 2.0,
                 "volume": 1.34,
                 "percent_storage": 67.0,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0.019,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5624,6 +6158,8 @@
                 "capacity": 1.2,
                 "volume": 0.674,
                 "percent_storage": 56.17,
+                "active_storage": 0,
+                "dead_storage": 0.15,
                 "inflow": 0.011,
                 "outflow": 0.011,
                 "date": "2026-09-29"
@@ -5645,6 +6181,8 @@
                 "capacity": 2.68,
                 "volume": 2.685,
                 "percent_storage": 100.19,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0.026,
                 "outflow": 0.029,
                 "date": "2026-09-29"
@@ -5666,6 +6204,8 @@
                 "capacity": 2.1,
                 "volume": 2.088,
                 "percent_storage": 99.43,
+                "active_storage": 0,
+                "dead_storage": 0.09,
                 "inflow": 0.001,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5687,6 +6227,8 @@
                 "capacity": 1.5,
                 "volume": 1.5,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5708,6 +6250,8 @@
                 "capacity": 1.7,
                 "volume": 1.664,
                 "percent_storage": 97.88,
+                "active_storage": 0,
+                "dead_storage": 0.37,
                 "inflow": 0.014,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5729,6 +6273,8 @@
                 "capacity": 1.7,
                 "volume": 1.4,
                 "percent_storage": 82.35,
+                "active_storage": 0,
+                "dead_storage": 0.24,
                 "inflow": 0.032,
                 "outflow": 0.034,
                 "date": "2026-09-29"
@@ -5750,6 +6296,8 @@
                 "capacity": 1.35,
                 "volume": 1.344,
                 "percent_storage": 99.56,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5771,6 +6319,8 @@
                 "capacity": 4.62,
                 "volume": 4.434,
                 "percent_storage": 95.97,
+                "active_storage": 0,
+                "dead_storage": 0.0,
                 "inflow": 0.037,
                 "outflow": 0.041,
                 "date": "2026-09-29"
@@ -5792,6 +6342,8 @@
                 "capacity": 13.7,
                 "volume": 14.36,
                 "percent_storage": 104.82,
+                "active_storage": 0,
+                "dead_storage": 0.85,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5813,6 +6365,8 @@
                 "capacity": 33.501,
                 "volume": 39.25,
                 "percent_storage": 117.16,
+                "active_storage": 0,
+                "dead_storage": 1.12,
                 "inflow": 0,
                 "outflow": 0.502,
                 "date": "2026-09-29"
@@ -5834,6 +6388,8 @@
                 "capacity": 16.9,
                 "volume": 17.28,
                 "percent_storage": 102.25,
+                "active_storage": 0,
+                "dead_storage": 0.6,
                 "inflow": 0,
                 "outflow": 0.006,
                 "date": "2026-09-29"
@@ -5855,6 +6411,8 @@
                 "capacity": 8.0,
                 "volume": 8.1,
                 "percent_storage": 101.25,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0.02,
                 "outflow": 0.171,
                 "date": "2026-09-29"
@@ -5876,6 +6434,8 @@
                 "capacity": 12.0,
                 "volume": 12.0,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 1.846,
                 "inflow": 0,
                 "outflow": 0.126,
                 "date": "2026-09-29"
@@ -5897,6 +6457,8 @@
                 "capacity": 14.699,
                 "volume": 14.67,
                 "percent_storage": 99.8,
+                "active_storage": 0,
+                "dead_storage": 1.6,
                 "inflow": 0,
                 "outflow": 0.126,
                 "date": "2026-09-29"
@@ -5918,6 +6480,8 @@
                 "capacity": 1.011,
                 "volume": 0.675,
                 "percent_storage": 66.77,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0.002,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5939,6 +6503,8 @@
                 "capacity": 2.48,
                 "volume": 2.334,
                 "percent_storage": 94.11,
+                "active_storage": 0,
+                "dead_storage": 0.362,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -5960,6 +6526,8 @@
                 "capacity": 7.675,
                 "volume": 10.032,
                 "percent_storage": 130.71,
+                "active_storage": 0,
+                "dead_storage": 0.041,
                 "inflow": 0.596,
                 "outflow": 0.497,
                 "date": "2026-09-29"
@@ -5981,6 +6549,8 @@
                 "capacity": 4.7,
                 "volume": 4.77,
                 "percent_storage": 101.49,
+                "active_storage": 0,
+                "dead_storage": 0.55,
                 "inflow": 0.293,
                 "outflow": 0.288,
                 "date": "2026-09-29"
@@ -6002,6 +6572,8 @@
                 "capacity": 6.7,
                 "volume": 6.88,
                 "percent_storage": 102.69,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0.462,
                 "outflow": 0.46,
                 "date": "2026-09-29"
@@ -6023,6 +6595,8 @@
                 "capacity": 8.0,
                 "volume": 8.48,
                 "percent_storage": 106.0,
+                "active_storage": 0,
+                "dead_storage": 1.7,
                 "inflow": 0.639,
                 "outflow": 0.718,
                 "date": "2026-09-29"
@@ -6044,6 +6618,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0.0,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6065,6 +6641,8 @@
                 "capacity": 21.05,
                 "volume": 20.673,
                 "percent_storage": 98.21,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0,
                 "outflow": 0.134,
                 "date": "2026-09-29"
@@ -6086,6 +6664,8 @@
                 "capacity": 30.299,
                 "volume": 29.06,
                 "percent_storage": 95.91,
+                "active_storage": 0,
+                "dead_storage": 0.6,
                 "inflow": 0.054,
                 "outflow": 0.054,
                 "date": "2026-09-29"
@@ -6107,6 +6687,8 @@
                 "capacity": 12.399,
                 "volume": 10.294,
                 "percent_storage": 83.02,
+                "active_storage": 0,
+                "dead_storage": 1.0,
                 "inflow": 0,
                 "outflow": 0.032,
                 "date": "2026-09-29"
@@ -6128,6 +6710,8 @@
                 "capacity": 19.325,
                 "volume": 19.522,
                 "percent_storage": 101.02,
+                "active_storage": 0,
+                "dead_storage": 0.891,
                 "inflow": 0,
                 "outflow": 0.035,
                 "date": "2026-09-29"
@@ -6149,6 +6733,8 @@
                 "capacity": 7.438,
                 "volume": 7.479,
                 "percent_storage": 100.55,
+                "active_storage": 0,
+                "dead_storage": 0.544,
                 "inflow": 0,
                 "outflow": 0.023,
                 "date": "2026-09-29"
@@ -6170,6 +6756,8 @@
                 "capacity": 10.6,
                 "volume": 9.79,
                 "percent_storage": 92.36,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0.016,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6191,6 +6779,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.308,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6212,6 +6802,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.45,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6233,6 +6825,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.29,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6254,6 +6848,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.97,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6275,6 +6871,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 2.93,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6296,6 +6894,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.61,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6317,6 +6917,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6338,6 +6940,8 @@
                 "capacity": 2.848,
                 "volume": 3.34,
                 "percent_storage": 117.28,
+                "active_storage": 0,
+                "dead_storage": 0.444,
                 "inflow": 0.176,
                 "outflow": 0.192,
                 "date": "2026-09-29"
@@ -6359,6 +6963,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6380,6 +6986,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.03,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6401,6 +7009,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6422,6 +7032,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.14,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6443,6 +7055,8 @@
                 "capacity": 25.401,
                 "volume": 20.209,
                 "percent_storage": 79.56,
+                "active_storage": 0,
+                "dead_storage": 1.2,
                 "inflow": 0.199,
                 "outflow": 0.001,
                 "date": "2026-09-29"
@@ -6464,6 +7078,8 @@
                 "capacity": 35.997,
                 "volume": 20.612,
                 "percent_storage": 57.26,
+                "active_storage": 0,
+                "dead_storage": 1.8,
                 "inflow": 0.189,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6485,6 +7101,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6506,6 +7124,8 @@
                 "capacity": 98.004,
                 "volume": 47.875,
                 "percent_storage": 48.85,
+                "active_storage": 0,
+                "dead_storage": 9.3,
                 "inflow": 1.182,
                 "outflow": 0.001,
                 "date": "2026-09-29"
@@ -6527,6 +7147,8 @@
                 "capacity": 42.007,
                 "volume": 11.556,
                 "percent_storage": 27.51,
+                "active_storage": 0,
+                "dead_storage": 2.0,
                 "inflow": 1.151,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6548,6 +7170,8 @@
                 "capacity": 4.397,
                 "volume": 1.723,
                 "percent_storage": 39.19,
+                "active_storage": 0,
+                "dead_storage": 0.14,
                 "inflow": 0.012,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6569,6 +7193,8 @@
                 "capacity": 7.5,
                 "volume": 7.57,
                 "percent_storage": 100.93,
+                "active_storage": 0,
+                "dead_storage": 1.4,
                 "inflow": 0.923,
                 "outflow": 0.965,
                 "date": "2026-09-29"
@@ -6590,6 +7216,8 @@
                 "capacity": 6.4,
                 "volume": 6.58,
                 "percent_storage": 102.81,
+                "active_storage": 0,
+                "dead_storage": 0.76,
                 "inflow": 0.651,
                 "outflow": 1.045,
                 "date": "2026-09-29"
@@ -6611,6 +7239,8 @@
                 "capacity": 10.023,
                 "volume": 11.178,
                 "percent_storage": 111.52,
+                "active_storage": 0,
+                "dead_storage": 0.627,
                 "inflow": 0.826,
                 "outflow": 0.94,
                 "date": "2026-09-29"
@@ -6632,6 +7262,8 @@
                 "capacity": 3.8,
                 "volume": 3.028,
                 "percent_storage": 79.68,
+                "active_storage": 0,
+                "dead_storage": 0.45,
                 "inflow": 0.003,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6653,6 +7285,8 @@
                 "capacity": 8.027,
                 "volume": 8.299,
                 "percent_storage": 103.39,
+                "active_storage": 0,
+                "dead_storage": 0.6,
                 "inflow": 0.087,
                 "outflow": 0.012,
                 "date": "2026-09-29"
@@ -6674,6 +7308,8 @@
                 "capacity": 22.278,
                 "volume": 23.091,
                 "percent_storage": 103.65,
+                "active_storage": 0,
+                "dead_storage": 1.8,
                 "inflow": 0.433,
                 "outflow": 0.329,
                 "date": "2026-09-29"
@@ -6695,6 +7331,8 @@
                 "capacity": 12.35,
                 "volume": 12.926,
                 "percent_storage": 104.66,
+                "active_storage": 0,
+                "dead_storage": 1.3,
                 "inflow": 0.269,
                 "outflow": 0.326,
                 "date": "2026-09-29"
@@ -6716,6 +7354,8 @@
                 "capacity": 37.064,
                 "volume": 23.38,
                 "percent_storage": 63.08,
+                "active_storage": 0,
+                "dead_storage": 2.8,
                 "inflow": 0.024,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6737,6 +7377,8 @@
                 "capacity": 26.199,
                 "volume": 27.208,
                 "percent_storage": 103.85,
+                "active_storage": 0,
+                "dead_storage": 3.396,
                 "inflow": 0.379,
                 "outflow": 0.431,
                 "date": "2026-09-29"
@@ -6758,6 +7400,8 @@
                 "capacity": 2.448,
                 "volume": 2.29,
                 "percent_storage": 93.55,
+                "active_storage": 0,
+                "dead_storage": 0.111,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6779,6 +7423,8 @@
                 "capacity": 3.784,
                 "volume": 3.914,
                 "percent_storage": 103.44,
+                "active_storage": 0,
+                "dead_storage": 0.706,
                 "inflow": 0.597,
                 "outflow": 0.535,
                 "date": "2026-09-29"
@@ -6800,6 +7446,8 @@
                 "capacity": 1.07,
                 "volume": 1.076,
                 "percent_storage": 100.56,
+                "active_storage": 0,
+                "dead_storage": 0.242,
                 "inflow": 0.023,
                 "outflow": 0.02,
                 "date": "2026-09-29"
@@ -6821,6 +7469,8 @@
                 "capacity": 2.706,
                 "volume": 2.893,
                 "percent_storage": 106.91,
+                "active_storage": 0,
+                "dead_storage": 0.674,
                 "inflow": 0.203,
                 "outflow": 0.233,
                 "date": "2026-09-29"
@@ -6842,6 +7492,8 @@
                 "capacity": 37.285,
                 "volume": 42.046,
                 "percent_storage": 112.77,
+                "active_storage": 0,
+                "dead_storage": 0.727,
                 "inflow": 0,
                 "outflow": 0.361,
                 "date": "2026-09-29"
@@ -6863,6 +7515,8 @@
                 "capacity": 4.16,
                 "volume": 4.402,
                 "percent_storage": 105.82,
+                "active_storage": 0,
+                "dead_storage": 0.65,
                 "inflow": 0.348,
                 "outflow": 0.337,
                 "date": "2026-09-29"
@@ -6884,6 +7538,8 @@
                 "capacity": 29.582,
                 "volume": 29.958,
                 "percent_storage": 101.27,
+                "active_storage": 0,
+                "dead_storage": 2.4,
                 "inflow": 1.211,
                 "outflow": 1.238,
                 "date": "2026-09-29"
@@ -6905,6 +7561,8 @@
                 "capacity": 6.88,
                 "volume": 5.22,
                 "percent_storage": 75.87,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0.004,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6926,6 +7584,8 @@
                 "capacity": 4.919,
                 "volume": 5.023,
                 "percent_storage": 102.11,
+                "active_storage": 0,
+                "dead_storage": 0.44,
                 "inflow": 0.259,
                 "outflow": 0.269,
                 "date": "2026-09-29"
@@ -6947,6 +7607,8 @@
                 "capacity": 8.0,
                 "volume": 6.229,
                 "percent_storage": 77.86,
+                "active_storage": 0,
+                "dead_storage": 0.44,
                 "inflow": 0.035,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6968,6 +7630,8 @@
                 "capacity": 15.501,
                 "volume": 13.075,
                 "percent_storage": 84.35,
+                "active_storage": 0,
+                "dead_storage": 0.65,
                 "inflow": 0.086,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -6989,6 +7653,8 @@
                 "capacity": 27.678,
                 "volume": 28.215,
                 "percent_storage": 101.94,
+                "active_storage": 0,
+                "dead_storage": 1.43,
                 "inflow": 1.628,
                 "outflow": 0.039,
                 "date": "2026-09-29"
@@ -7010,6 +7676,8 @@
                 "capacity": 21.96,
                 "volume": 24.38,
                 "percent_storage": 111.02,
+                "active_storage": 0,
+                "dead_storage": 0.82,
                 "inflow": 3.467,
                 "outflow": 2.615,
                 "date": "2026-09-29"
@@ -7031,6 +7699,8 @@
                 "capacity": 14.581,
                 "volume": 14.913,
                 "percent_storage": 102.28,
+                "active_storage": 0,
+                "dead_storage": 0.65,
                 "inflow": 2.365,
                 "outflow": 1.977,
                 "date": "2026-09-29"
@@ -7052,6 +7722,8 @@
                 "capacity": 9.4,
                 "volume": 7.8,
                 "percent_storage": 82.98,
+                "active_storage": 0,
+                "dead_storage": 1.14,
                 "inflow": 0.007,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7073,6 +7745,8 @@
                 "capacity": 12.0,
                 "volume": 10.872,
                 "percent_storage": 90.6,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0.178,
                 "outflow": 0.002,
                 "date": "2026-09-29"
@@ -7094,6 +7768,8 @@
                 "capacity": 15.0,
                 "volume": 14.433,
                 "percent_storage": 96.22,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0.336,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7115,6 +7791,8 @@
                 "capacity": 8.6,
                 "volume": 9.036,
                 "percent_storage": 105.07,
+                "active_storage": 0,
+                "dead_storage": 0.059,
                 "inflow": 0.23,
                 "outflow": 0.244,
                 "date": "2026-09-29"
@@ -7136,6 +7814,8 @@
                 "capacity": 1.57,
                 "volume": 1.441,
                 "percent_storage": 91.78,
+                "active_storage": 0,
+                "dead_storage": 0.02,
                 "inflow": 0.024,
                 "outflow": 0.002,
                 "date": "2026-09-29"
@@ -7157,6 +7837,8 @@
                 "capacity": 3.4,
                 "volume": 3.42,
                 "percent_storage": 100.59,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0.057,
                 "outflow": 0.069,
                 "date": "2026-09-29"
@@ -7178,6 +7860,8 @@
                 "capacity": 1.012,
                 "volume": 1.067,
                 "percent_storage": 105.43,
+                "active_storage": 0,
+                "dead_storage": 0.03,
                 "inflow": 0.078,
                 "outflow": 0.094,
                 "date": "2026-09-29"
@@ -7199,6 +7883,8 @@
                 "capacity": 6.519,
                 "volume": 2.998,
                 "percent_storage": 45.99,
+                "active_storage": 0,
+                "dead_storage": 0.52,
                 "inflow": 0.039,
                 "outflow": 0.004,
                 "date": "2026-09-29"
@@ -7220,6 +7906,8 @@
                 "capacity": 5.529,
                 "volume": 2.12,
                 "percent_storage": 38.34,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0.055,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7241,6 +7929,8 @@
                 "capacity": 1.8,
                 "volume": 1.72,
                 "percent_storage": 95.56,
+                "active_storage": 0,
+                "dead_storage": 0.302,
                 "inflow": 0.007,
                 "outflow": 0.004,
                 "date": "2026-09-29"
@@ -7262,6 +7952,8 @@
                 "capacity": 27.667,
                 "volume": 10.862,
                 "percent_storage": 39.26,
+                "active_storage": 0,
+                "dead_storage": 1.401,
                 "inflow": 1.075,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7283,6 +7975,8 @@
                 "capacity": 4.26,
                 "volume": 3.809,
                 "percent_storage": 89.41,
+                "active_storage": 0,
+                "dead_storage": 0.03,
                 "inflow": 0.068,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7304,6 +7998,8 @@
                 "capacity": 4.1,
                 "volume": 4.178,
                 "percent_storage": 101.9,
+                "active_storage": 0,
+                "dead_storage": 0.337,
                 "inflow": 0.565,
                 "outflow": 0.594,
                 "date": "2026-09-29"
@@ -7325,6 +8021,8 @@
                 "capacity": 8.7,
                 "volume": 5.327,
                 "percent_storage": 61.23,
+                "active_storage": 0,
+                "dead_storage": 0.854,
                 "inflow": 0.261,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7346,6 +8044,8 @@
                 "capacity": 8.4,
                 "volume": 9.04,
                 "percent_storage": 107.62,
+                "active_storage": 0,
+                "dead_storage": 0.95,
                 "inflow": 3.343,
                 "outflow": 3.382,
                 "date": "2026-09-29"
@@ -7367,6 +8067,8 @@
                 "capacity": 27.702,
                 "volume": 21.973,
                 "percent_storage": 79.32,
+                "active_storage": 0,
+                "dead_storage": 1.15,
                 "inflow": 3.868,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7388,6 +8090,8 @@
                 "capacity": 2.967,
                 "volume": 1.525,
                 "percent_storage": 51.4,
+                "active_storage": 0,
+                "dead_storage": 0.18,
                 "inflow": 0.011,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7409,6 +8113,8 @@
                 "capacity": 9.501,
                 "volume": 2.954,
                 "percent_storage": 31.09,
+                "active_storage": 0,
+                "dead_storage": 0.63,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7430,6 +8136,8 @@
                 "capacity": 13.3,
                 "volume": 6.969,
                 "percent_storage": 52.4,
+                "active_storage": 0,
+                "dead_storage": 0.55,
                 "inflow": 0.01,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7451,6 +8159,8 @@
                 "capacity": 10.215,
                 "volume": 4.903,
                 "percent_storage": 48.0,
+                "active_storage": 0,
+                "dead_storage": 1.25,
                 "inflow": 0.015,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7472,6 +8182,8 @@
                 "capacity": 14.5,
                 "volume": 8.017,
                 "percent_storage": 55.29,
+                "active_storage": 0,
+                "dead_storage": 0.76,
                 "inflow": 0.256,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7493,6 +8205,8 @@
                 "capacity": 3.578,
                 "volume": 1.594,
                 "percent_storage": 44.55,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0.015,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7514,6 +8228,8 @@
                 "capacity": 23.446,
                 "volume": 20.351,
                 "percent_storage": 86.8,
+                "active_storage": 0,
+                "dead_storage": 1.256,
                 "inflow": 1.093,
                 "outflow": 0.035,
                 "date": "2026-09-29"
@@ -7535,6 +8251,8 @@
                 "capacity": 5.0,
                 "volume": 2.3,
                 "percent_storage": 46.0,
+                "active_storage": 0,
+                "dead_storage": 0.765,
                 "inflow": 0.021,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7556,6 +8274,8 @@
                 "capacity": 1.5,
                 "volume": 0.694,
                 "percent_storage": 46.27,
+                "active_storage": 0,
+                "dead_storage": 0.302,
                 "inflow": 0.003,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7577,6 +8297,8 @@
                 "capacity": 1.95,
                 "volume": 1.319,
                 "percent_storage": 67.64,
+                "active_storage": 0,
+                "dead_storage": 0.05,
                 "inflow": 0.002,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7598,6 +8320,8 @@
                 "capacity": 55.498,
                 "volume": 45.83,
                 "percent_storage": 82.58,
+                "active_storage": 0,
+                "dead_storage": 7.8,
                 "inflow": 5.53,
                 "outflow": 5.53,
                 "date": "2026-09-29"
@@ -7619,6 +8343,8 @@
                 "capacity": 4.2,
                 "volume": 4.2,
                 "percent_storage": 100.0,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0.014,
                 "outflow": 0.014,
                 "date": "2026-09-29"
@@ -7640,6 +8366,8 @@
                 "capacity": 1.97,
                 "volume": 2.006,
                 "percent_storage": 101.83,
+                "active_storage": 0,
+                "dead_storage": 0.17,
                 "inflow": 0.007,
                 "outflow": 0.007,
                 "date": "2026-09-29"
@@ -7661,6 +8389,8 @@
                 "capacity": 1.96,
                 "volume": 1.118,
                 "percent_storage": 57.04,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0.064,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7682,6 +8412,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7703,6 +8435,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7724,6 +8458,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.99,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7745,6 +8481,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 2.9,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7766,6 +8504,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 5.7,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7787,6 +8527,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7808,6 +8550,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7829,6 +8573,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.76,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7850,6 +8596,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7871,6 +8619,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.25,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7892,6 +8642,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7913,6 +8665,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7934,6 +8688,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.19,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7955,6 +8711,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 2.82,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7976,6 +8734,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.09,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -7997,6 +8757,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8018,6 +8780,8 @@
                 "capacity": 98.001,
                 "volume": 127.852,
                 "percent_storage": 130.46,
+                "active_storage": 0,
+                "dead_storage": 2.95,
                 "inflow": 14.127,
                 "outflow": 0.123,
                 "date": "2026-09-29"
@@ -8039,6 +8803,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.27,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8060,6 +8826,8 @@
                 "capacity": 2.9,
                 "volume": 2.961,
                 "percent_storage": 102.1,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0.317,
                 "outflow": 0.341,
                 "date": "2026-09-29"
@@ -8081,6 +8849,8 @@
                 "capacity": 2.725,
                 "volume": 2.86,
                 "percent_storage": 104.95,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 1.024,
                 "outflow": 1.06,
                 "date": "2026-09-29"
@@ -8102,6 +8872,8 @@
                 "capacity": 10.7,
                 "volume": 12.13,
                 "percent_storage": 113.36,
+                "active_storage": 0,
+                "dead_storage": 0.11,
                 "inflow": 0.587,
                 "outflow": 0.652,
                 "date": "2026-09-29"
@@ -8123,6 +8895,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 3.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8144,6 +8918,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8165,6 +8941,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 3.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8186,6 +8964,8 @@
                 "capacity": 47.691,
                 "volume": 53.929,
                 "percent_storage": 113.08,
+                "active_storage": 0,
+                "dead_storage": 2.31,
                 "inflow": 0.476,
                 "outflow": 0.797,
                 "date": "2026-09-29"
@@ -8207,6 +8987,8 @@
                 "capacity": 2.35,
                 "volume": 2.494,
                 "percent_storage": 106.13,
+                "active_storage": 0,
+                "dead_storage": 0.07,
                 "inflow": 0.568,
                 "outflow": 0.591,
                 "date": "2026-09-29"
@@ -8228,6 +9010,8 @@
                 "capacity": 5.6,
                 "volume": 6.399,
                 "percent_storage": 114.27,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 1.26,
                 "outflow": 1.485,
                 "date": "2026-09-29"
@@ -8249,6 +9033,8 @@
                 "capacity": 36.799,
                 "volume": 38.532,
                 "percent_storage": 104.71,
+                "active_storage": 0,
+                "dead_storage": 2.5,
                 "inflow": 1.025,
                 "outflow": 2.825,
                 "date": "2026-09-29"
@@ -8270,6 +9056,8 @@
                 "capacity": 6.632,
                 "volume": 8.625,
                 "percent_storage": 130.05,
+                "active_storage": 0,
+                "dead_storage": 0.6,
                 "inflow": 0.176,
                 "outflow": 0.318,
                 "date": "2026-09-29"
@@ -8291,6 +9079,8 @@
                 "capacity": 20.001,
                 "volume": 20.629,
                 "percent_storage": 103.14,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0.029,
                 "outflow": 0.349,
                 "date": "2026-09-29"
@@ -8312,6 +9102,8 @@
                 "capacity": 64.997,
                 "volume": 77.191,
                 "percent_storage": 118.76,
+                "active_storage": 0,
+                "dead_storage": 2.48,
                 "inflow": 0,
                 "outflow": 1.156,
                 "date": "2026-09-29"
@@ -8333,6 +9125,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 4.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8354,6 +9148,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.86,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8375,6 +9171,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8396,6 +9194,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8417,6 +9217,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8438,6 +9240,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8459,6 +9263,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8480,6 +9286,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8501,6 +9309,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 4.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8522,6 +9332,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8543,6 +9355,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8564,6 +9378,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8585,6 +9401,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 4.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8606,6 +9424,8 @@
                 "capacity": 8.87,
                 "volume": 8.21,
                 "percent_storage": 92.56,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0.254,
                 "outflow": 0.024,
                 "date": "2026-09-29"
@@ -8627,6 +9447,8 @@
                 "capacity": 1.14,
                 "volume": 1.071,
                 "percent_storage": 93.95,
+                "active_storage": 0,
+                "dead_storage": 0.07,
                 "inflow": 0.012,
                 "outflow": 0.016,
                 "date": "2026-09-29"
@@ -8648,6 +9470,8 @@
                 "capacity": 4.249,
                 "volume": 0.741,
                 "percent_storage": 17.44,
+                "active_storage": 0,
+                "dead_storage": 0.01,
                 "inflow": 0.002,
                 "outflow": 0.009,
                 "date": "2026-09-29"
@@ -8669,6 +9493,8 @@
                 "capacity": 2.0,
                 "volume": 2.111,
                 "percent_storage": 105.55,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0.211,
                 "outflow": 0.253,
                 "date": "2026-09-29"
@@ -8690,6 +9516,8 @@
                 "capacity": 7.6,
                 "volume": 7.7,
                 "percent_storage": 101.32,
+                "active_storage": 0,
+                "dead_storage": 0.28,
                 "inflow": 0.108,
                 "outflow": 0.132,
                 "date": "2026-09-29"
@@ -8711,6 +9539,8 @@
                 "capacity": 3.1,
                 "volume": 3.073,
                 "percent_storage": 99.13,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0.146,
                 "outflow": 0.021,
                 "date": "2026-09-29"
@@ -8732,6 +9562,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.7,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8753,6 +9585,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 3.22,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8774,6 +9608,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.7,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8795,6 +9631,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.184,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8816,6 +9654,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.812,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8837,6 +9677,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8858,6 +9700,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.6,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8879,6 +9723,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 7.548,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8900,6 +9746,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.64,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8921,6 +9769,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8942,6 +9792,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.013,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -8963,6 +9815,8 @@
                 "capacity": 51.998,
                 "volume": 53.23,
                 "percent_storage": 102.37,
+                "active_storage": 0,
+                "dead_storage": 2.17,
                 "inflow": 8.04,
                 "outflow": 1.78,
                 "date": "2026-09-29"
@@ -8984,6 +9838,8 @@
                 "capacity": 4.64,
                 "volume": 6.348,
                 "percent_storage": 136.81,
+                "active_storage": 0,
+                "dead_storage": 0.63,
                 "inflow": 31.45,
                 "outflow": 32.73,
                 "date": "2026-09-29"
@@ -9005,6 +9861,8 @@
                 "capacity": 8.42,
                 "volume": 3.928,
                 "percent_storage": 46.65,
+                "active_storage": 0,
+                "dead_storage": 0.35,
                 "inflow": 0.156,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9026,6 +9884,8 @@
                 "capacity": 2.07,
                 "volume": 0.58,
                 "percent_storage": 28.02,
+                "active_storage": 0,
+                "dead_storage": 0.05,
                 "inflow": 0.003,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9047,6 +9907,8 @@
                 "capacity": 42.998,
                 "volume": 36.277,
                 "percent_storage": 84.37,
+                "active_storage": 0,
+                "dead_storage": 2.0,
                 "inflow": 1.179,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9068,6 +9930,8 @@
                 "capacity": 11.999,
                 "volume": 9.813,
                 "percent_storage": 81.78,
+                "active_storage": 0,
+                "dead_storage": 1.5,
                 "inflow": 0.459,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9089,6 +9953,8 @@
                 "capacity": 2.25,
                 "volume": 2.105,
                 "percent_storage": 93.56,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0.093,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9110,6 +9976,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0.0,
+                "active_storage": 0,
+                "dead_storage": 0.055,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9131,6 +9999,8 @@
                 "capacity": 7.6,
                 "volume": 2.1,
                 "percent_storage": 27.63,
+                "active_storage": 0,
+                "dead_storage": 0.05,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9152,6 +10022,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0.0,
+                "active_storage": 0,
+                "dead_storage": 0.104,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9173,6 +10045,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.25,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9194,6 +10068,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 2.05,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9215,6 +10091,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.97,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9236,6 +10114,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9257,6 +10137,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.2,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9278,6 +10160,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.15,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9299,6 +10183,8 @@
                 "capacity": 14.001,
                 "volume": 15.01,
                 "percent_storage": 107.21,
+                "active_storage": 0,
+                "dead_storage": 0.85,
                 "inflow": 4.984,
                 "outflow": 5.724,
                 "date": "2026-09-29"
@@ -9320,6 +10206,8 @@
                 "capacity": 50.002,
                 "volume": 55.132,
                 "percent_storage": 110.26,
+                "active_storage": 0,
+                "dead_storage": 4.8,
                 "inflow": 10.691,
                 "outflow": 7.257,
                 "date": "2026-09-29"
@@ -9341,6 +10229,8 @@
                 "capacity": 10.651,
                 "volume": 5.891,
                 "percent_storage": 55.31,
+                "active_storage": 0,
+                "dead_storage": 1.4,
                 "inflow": 0.476,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9362,6 +10252,8 @@
                 "capacity": 4.0,
                 "volume": 4.045,
                 "percent_storage": 101.13,
+                "active_storage": 0,
+                "dead_storage": 0.24,
                 "inflow": 0.064,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9383,6 +10275,8 @@
                 "capacity": 23.169,
                 "volume": 27.21,
                 "percent_storage": 117.44,
+                "active_storage": 0,
+                "dead_storage": 1.142,
                 "inflow": 7.998,
                 "outflow": 4.044,
                 "date": "2026-09-29"
@@ -9404,6 +10298,8 @@
                 "capacity": 6.569,
                 "volume": 6.696,
                 "percent_storage": 101.93,
+                "active_storage": 0,
+                "dead_storage": 0.13,
                 "inflow": 0.337,
                 "outflow": 0.21,
                 "date": "2026-09-29"
@@ -9425,6 +10321,8 @@
                 "capacity": 2.5,
                 "volume": 1.633,
                 "percent_storage": 65.32,
+                "active_storage": 0,
+                "dead_storage": 0.25,
                 "inflow": 0.018,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9446,6 +10344,8 @@
                 "capacity": 45.48,
                 "volume": 15.022,
                 "percent_storage": 33.03,
+                "active_storage": 0,
+                "dead_storage": 2.0,
                 "inflow": 1.022,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9467,6 +10367,8 @@
                 "capacity": 4.3,
                 "volume": 3.574,
                 "percent_storage": 83.12,
+                "active_storage": 0,
+                "dead_storage": 0.22,
                 "inflow": 0.132,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9488,6 +10390,8 @@
                 "capacity": 23.398,
                 "volume": 9.537,
                 "percent_storage": 40.76,
+                "active_storage": 0,
+                "dead_storage": 1.0,
                 "inflow": 0.3,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9509,6 +10413,8 @@
                 "capacity": 3.4,
                 "volume": 1.217,
                 "percent_storage": 35.79,
+                "active_storage": 0,
+                "dead_storage": 0.12,
                 "inflow": 0.034,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9530,6 +10436,8 @@
                 "capacity": 4.054,
                 "volume": 2.661,
                 "percent_storage": 65.64,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0.14,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9551,6 +10459,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0.0,
+                "active_storage": 0,
+                "dead_storage": 0.04,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9572,6 +10482,8 @@
                 "capacity": 8.0,
                 "volume": 2.432,
                 "percent_storage": 30.4,
+                "active_storage": 0,
+                "dead_storage": 0.61,
                 "inflow": 0.151,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9593,6 +10505,8 @@
                 "capacity": 4.0,
                 "volume": 0.15,
                 "percent_storage": 3.75,
+                "active_storage": 0,
+                "dead_storage": 0.13,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9614,6 +10528,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0.0,
+                "active_storage": 0,
+                "dead_storage": 0.22,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9635,6 +10551,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 2.04,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9656,6 +10574,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 3.0,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9677,6 +10597,8 @@
                 "capacity": 5.499,
                 "volume": 1.646,
                 "percent_storage": 29.93,
+                "active_storage": 0,
+                "dead_storage": 0.3,
                 "inflow": 0.134,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9698,6 +10620,8 @@
                 "capacity": 10.4,
                 "volume": 7.0,
                 "percent_storage": 67.31,
+                "active_storage": 0,
+                "dead_storage": 0.5,
                 "inflow": 0.999,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9719,6 +10643,8 @@
                 "capacity": 41.098,
                 "volume": 28.892,
                 "percent_storage": 70.3,
+                "active_storage": 0,
+                "dead_storage": 4.0,
                 "inflow": 3.786,
                 "outflow": 0.01,
                 "date": "2026-09-29"
@@ -9740,6 +10666,8 @@
                 "capacity": 22.191,
                 "volume": 1.793,
                 "percent_storage": 8.08,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0.534,
                 "outflow": 0.002,
                 "date": "2026-09-29"
@@ -9761,6 +10689,8 @@
                 "capacity": 2.801,
                 "volume": 0.354,
                 "percent_storage": 12.64,
+                "active_storage": 0,
+                "dead_storage": 0.15,
                 "inflow": 0.001,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9782,6 +10712,8 @@
                 "capacity": 9.5,
                 "volume": 4.426,
                 "percent_storage": 46.59,
+                "active_storage": 0,
+                "dead_storage": 0.9,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9803,6 +10735,8 @@
                 "capacity": 11.399,
                 "volume": 4.343,
                 "percent_storage": 38.1,
+                "active_storage": 0,
+                "dead_storage": 0.67,
                 "inflow": 0.365,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -9824,6 +10758,8 @@
                 "capacity": 5.85,
                 "volume": 1.342,
                 "percent_storage": 22.94,
+                "active_storage": 0,
+                "dead_storage": 0.24,
                 "inflow": 0.01,
                 "outflow": 0.01,
                 "date": "2026-09-29"
@@ -9845,6 +10781,8 @@
                 "capacity": 16.0,
                 "volume": 12.163,
                 "percent_storage": 76.02,
+                "active_storage": 0,
+                "dead_storage": 0.25,
                 "inflow": 0.001,
                 "outflow": 0.001,
                 "date": "2026-09-29"
@@ -9866,6 +10804,8 @@
                 "capacity": 2.45,
                 "volume": 2.456,
                 "percent_storage": 100.24,
+                "active_storage": 0,
+                "dead_storage": 0.06,
                 "inflow": 0.012,
                 "outflow": 0.024,
                 "date": "2026-09-29"
@@ -9887,6 +10827,8 @@
                 "capacity": 7.3,
                 "volume": 4.415,
                 "percent_storage": 60.48,
+                "active_storage": 0,
+                "dead_storage": 0.24,
                 "inflow": 0.013,
                 "outflow": 0.013,
                 "date": "2026-09-29"
@@ -9908,6 +10850,8 @@
                 "capacity": 3.2,
                 "volume": 3.25,
                 "percent_storage": 101.56,
+                "active_storage": 0,
+                "dead_storage": 0.04,
                 "inflow": 0.06,
                 "outflow": 0.08,
                 "date": "2026-09-29"
@@ -9929,6 +10873,8 @@
                 "capacity": 12.5,
                 "volume": 7.516,
                 "percent_storage": 60.13,
+                "active_storage": 0,
+                "dead_storage": 1.0,
                 "inflow": 0.016,
                 "outflow": 0.033,
                 "date": "2026-09-29"
@@ -9950,6 +10896,8 @@
                 "capacity": 5.0,
                 "volume": 4.6,
                 "percent_storage": 92.0,
+                "active_storage": 0,
+                "dead_storage": 0.125,
                 "inflow": 0,
                 "outflow": 0.016,
                 "date": "2026-09-29"
@@ -9971,6 +10919,8 @@
                 "capacity": 86.006,
                 "volume": 22.611,
                 "percent_storage": 26.29,
+                "active_storage": 0,
+                "dead_storage": 2.0,
                 "inflow": 0.16,
                 "outflow": 0.19,
                 "date": "2026-09-29"
@@ -9992,6 +10942,8 @@
                 "capacity": 70.494,
                 "volume": 38.37,
                 "percent_storage": 54.43,
+                "active_storage": 0,
+                "dead_storage": 14.3,
                 "inflow": 1.408,
                 "outflow": 0.328,
                 "date": "2026-09-29"
@@ -10013,6 +10965,8 @@
                 "capacity": 1.7,
                 "volume": 0.858,
                 "percent_storage": 50.47,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10034,6 +10988,8 @@
                 "capacity": 59.996,
                 "volume": 33.52,
                 "percent_storage": 55.87,
+                "active_storage": 0,
+                "dead_storage": 13.0,
                 "inflow": 0.552,
                 "outflow": 0.112,
                 "date": "2026-09-29"
@@ -10055,6 +11011,8 @@
                 "capacity": 36.573,
                 "volume": 17.054,
                 "percent_storage": 46.63,
+                "active_storage": 0,
+                "dead_storage": 1.18,
                 "inflow": 0.141,
                 "outflow": 0.016,
                 "date": "2026-09-29"
@@ -10076,6 +11034,8 @@
                 "capacity": 10.2,
                 "volume": 5.76,
                 "percent_storage": 56.47,
+                "active_storage": 0,
+                "dead_storage": 0.27,
                 "inflow": 0.043,
                 "outflow": 0.035,
                 "date": "2026-09-29"
@@ -10097,6 +11057,8 @@
                 "capacity": 7.791,
                 "volume": 3.16,
                 "percent_storage": 40.56,
+                "active_storage": 0,
+                "dead_storage": 0.028,
                 "inflow": 0.011,
                 "outflow": 0.014,
                 "date": "2026-09-29"
@@ -10118,6 +11080,8 @@
                 "capacity": 4.137,
                 "volume": 2.36,
                 "percent_storage": 57.05,
+                "active_storage": 0,
+                "dead_storage": 0.163,
                 "inflow": 0.005,
                 "outflow": 0.011,
                 "date": "2026-09-29"
@@ -10139,6 +11103,8 @@
                 "capacity": 18.501,
                 "volume": 9.156,
                 "percent_storage": 49.49,
+                "active_storage": 0,
+                "dead_storage": 0.4,
                 "inflow": 0.065,
                 "outflow": 0.065,
                 "date": "2026-09-29"
@@ -10160,6 +11126,8 @@
                 "capacity": 1.122,
                 "volume": 0.796,
                 "percent_storage": 70.94,
+                "active_storage": 0,
+                "dead_storage": 0.48,
                 "inflow": 0.059,
                 "outflow": 0.086,
                 "date": "2026-09-29"
@@ -10181,6 +11149,8 @@
                 "capacity": 5.5,
                 "volume": 3.274,
                 "percent_storage": 59.53,
+                "active_storage": 0,
+                "dead_storage": 0.0,
                 "inflow": 0.081,
                 "outflow": 0.081,
                 "date": "2026-09-29"
@@ -10202,6 +11172,8 @@
                 "capacity": 20.0,
                 "volume": 1.098,
                 "percent_storage": 5.49,
+                "active_storage": 0,
+                "dead_storage": 0.9,
                 "inflow": 0.015,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10223,6 +11195,8 @@
                 "capacity": 20.5,
                 "volume": 8.315,
                 "percent_storage": 40.56,
+                "active_storage": 0,
+                "dead_storage": 0.8,
                 "inflow": 0,
                 "outflow": 0.052,
                 "date": "2026-09-29"
@@ -10244,6 +11218,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.55,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10265,6 +11241,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10286,6 +11264,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.305,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10307,6 +11287,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 1.556,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10328,6 +11310,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.1,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10349,6 +11333,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.21,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10370,6 +11356,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.05,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10391,6 +11379,8 @@
                 "capacity": 0,
                 "volume": 0,
                 "percent_storage": 0,
+                "active_storage": 0,
+                "dead_storage": 0.03,
                 "inflow": 0,
                 "outflow": 0,
                 "date": "2026-09-29"
@@ -10412,6 +11402,8 @@
                 "capacity": 10.0,
                 "volume": 9.338,
                 "percent_storage": 93.38,
+                "active_storage": 0,
+                "dead_storage": 1.8,
                 "inflow": 0.413,
                 "outflow": 0.498,
                 "date": "2026-09-29"
