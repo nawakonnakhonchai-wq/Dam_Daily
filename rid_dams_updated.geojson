@@ -624,10 +624,10 @@
                 "name": "เขื่อนประแสร์",
                 "region": "ภาคตะวันออก",
                 "capacity": 322.0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "volume": 338.0,
+                "percent_storage": 114.58,
+                "inflow": 33.19,
+                "outflow": 33.19,
                 "date": "2026-09-29"
             }
         },
@@ -2639,11 +2639,11 @@
                 "id": "rsv519",
                 "name": "อ่างเก็บน้ำห้วยน้ำคับ",
                 "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 1.315,
+                "volume": 1.155,
+                "percent_storage": 87.83,
+                "inflow": 0.009,
+                "outflow": 0.003,
                 "date": "2026-09-29"
             }
         },
@@ -2660,11 +2660,11 @@
                 "id": "rsv520",
                 "name": "อ่างเก็บน้ำห้วยน้ำจวง",
                 "region": "ภาคเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
-                "inflow": 0,
-                "outflow": 0,
+                "capacity": 1.6,
+                "volume": 1.423,
+                "percent_storage": 88.94,
+                "inflow": 0.013,
+                "outflow": 0.002,
                 "date": "2026-09-29"
             }
         },
