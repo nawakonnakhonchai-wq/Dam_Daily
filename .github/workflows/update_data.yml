@@ -2,7 +2,7 @@ name: Update Dam GeoJSON Hourly
 
 on:
   schedule:
-    - cron: '20 * * * *' # รันทุกๆ ชั่วโมง ที่นาทีที่ 20
+    - cron: '*/15 * * * *' # ปรับความถี่เป็นรันทุกๆ 15 นาที
   workflow_dispatch: # อนุญาตให้กดรันเองด้วยมือได้จากหน้าเว็บ GitHub
 
 jobs:
