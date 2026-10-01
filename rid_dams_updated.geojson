@@ -5396,12 +5396,12 @@
                 "id": "rsv207",
                 "name": "อ่างเก็บน้ำห้วยแอ่ง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 22.299,
-                "volume": 7.14,
-                "percent_storage": 32.02,
+                "capacity": 22.298,
+                "volume": 7.316,
+                "percent_storage": 32.81,
                 "active_storage": 0,
                 "dead_storage": 0.4,
-                "inflow": 0.173,
+                "inflow": 0.044,
                 "outflow": 0,
                 "date": "2026-10-01"
             }
@@ -5424,7 +5424,7 @@
                 "percent_storage": 20.64,
                 "active_storage": 0,
                 "dead_storage": 0.091,
-                "inflow": 0.007,
+                "inflow": 0,
                 "outflow": 0,
                 "date": "2026-10-01"
             }
@@ -5443,11 +5443,11 @@
                 "name": "อ่างเก็บน้ำธวัชชัย",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 5.007,
-                "volume": 3.097,
-                "percent_storage": 61.85,
+                "volume": 3.324,
+                "percent_storage": 66.39,
                 "active_storage": 0,
                 "dead_storage": 0.11,
-                "inflow": 0.126,
+                "inflow": 0.066,
                 "outflow": 0,
                 "date": "2026-10-01"
             }
@@ -5465,12 +5465,12 @@
                 "id": "rsv210",
                 "name": "อ่างเก็บน้ำห้วยแล้ง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 4.415,
-                "volume": 1.448,
-                "percent_storage": 32.8,
+                "capacity": 4.414,
+                "volume": 1.56,
+                "percent_storage": 35.34,
                 "active_storage": 0,
                 "dead_storage": 0.185,
-                "inflow": 0.027,
+                "inflow": 0.015,
                 "outflow": 0,
                 "date": "2026-10-01"
             }
@@ -5489,11 +5489,11 @@
                 "name": "อ่างเก็บน้ำห้วยวังนอง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 11.492,
-                "volume": 11.074,
-                "percent_storage": 96.36,
+                "volume": 11.127,
+                "percent_storage": 96.82,
                 "active_storage": 0,
                 "dead_storage": 0.314,
-                "inflow": 0.102,
+                "inflow": 0.076,
                 "outflow": 0.076,
                 "date": "2026-10-01"
             }
@@ -5512,11 +5512,11 @@
                 "name": "อ่างเก็บน้ำห้วยกุดแคน",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 1.996,
-                "volume": 1.064,
-                "percent_storage": 53.31,
+                "volume": 1.115,
+                "percent_storage": 55.86,
                 "active_storage": 0,
                 "dead_storage": 0.223,
-                "inflow": 0,
+                "inflow": 0.01,
                 "outflow": 0,
                 "date": "2026-10-01"
             }
@@ -5535,11 +5535,11 @@
                 "name": "อ่างเก็บน้ำห้วยกุดแดง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 2.806,
-                "volume": 2.557,
-                "percent_storage": 91.13,
+                "volume": 2.734,
+                "percent_storage": 97.43,
                 "active_storage": 0,
                 "dead_storage": 0.268,
-                "inflow": 0.102,
+                "inflow": 0.018,
                 "outflow": 0,
                 "date": "2026-10-01"
             }
@@ -5558,11 +5558,11 @@
                 "name": "อ่างเก็บน้ำห้วยจานใต้",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 5.795,
-                "volume": 3.733,
-                "percent_storage": 64.42,
+                "volume": 3.847,
+                "percent_storage": 66.38,
                 "active_storage": 0,
                 "dead_storage": 0.56,
-                "inflow": 0.051,
+                "inflow": 0.032,
                 "outflow": 0,
                 "date": "2026-10-01"
             }
@@ -5585,7 +5585,7 @@
                 "percent_storage": 46.41,
                 "active_storage": 0,
                 "dead_storage": 1.204,
-                "inflow": 0.013,
+                "inflow": 0,
                 "outflow": 0,
                 "date": "2026-10-01"
             }
@@ -5608,7 +5608,7 @@
                 "percent_storage": 97.12,
                 "active_storage": 0,
                 "dead_storage": 0.45,
-                "inflow": 0.034,
+                "inflow": 0.017,
                 "outflow": 0.017,
                 "date": "2026-10-01"
             }
