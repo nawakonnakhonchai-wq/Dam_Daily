@@ -8805,7 +8805,7 @@
                 "percent_storage": 102.1,
                 "active_storage": 0,
                 "dead_storage": 1.27,
-                "inflow": 0,
+                "inflow": 1.298,
                 "outflow": 1.893,
                 "date": "2026-10-02"
             }
