@@ -5420,8 +5420,8 @@
                 "name": "อ่างเก็บน้ำหนองหญ้าม้า",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 2.117,
-                "volume": 0.437,
-                "percent_storage": 20.64,
+                "volume": 0.43,
+                "percent_storage": 20.31,
                 "active_storage": 0,
                 "dead_storage": 0.091,
                 "inflow": 0,
@@ -5443,11 +5443,11 @@
                 "name": "อ่างเก็บน้ำธวัชชัย",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 5.007,
-                "volume": 3.391,
-                "percent_storage": 67.73,
+                "volume": 3.526,
+                "percent_storage": 70.42,
                 "active_storage": 0,
                 "dead_storage": 0.11,
-                "inflow": 0.067,
+                "inflow": 0.068,
                 "outflow": 0,
                 "date": "2026-10-05"
             }
@@ -5466,11 +5466,11 @@
                 "name": "อ่างเก็บน้ำห้วยแล้ง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 4.414,
-                "volume": 1.574,
-                "percent_storage": 35.66,
+                "volume": 1.588,
+                "percent_storage": 35.98,
                 "active_storage": 0,
                 "dead_storage": 0.185,
-                "inflow": 0.014,
+                "inflow": 0,
                 "outflow": 0,
                 "date": "2026-10-05"
             }
@@ -5489,11 +5489,11 @@
                 "name": "อ่างเก็บน้ำห้วยวังนอง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 11.492,
-                "volume": 11.1,
-                "percent_storage": 96.59,
+                "volume": 11.048,
+                "percent_storage": 96.14,
                 "active_storage": 0,
                 "dead_storage": 0.314,
-                "inflow": 0.049,
+                "inflow": 0.076,
                 "outflow": 0.076,
                 "date": "2026-10-05"
             }
@@ -5516,7 +5516,7 @@
                 "percent_storage": 56.91,
                 "active_storage": 0,
                 "dead_storage": 0.223,
-                "inflow": 0.021,
+                "inflow": 0,
                 "outflow": 0,
                 "date": "2026-10-05"
             }
@@ -5535,11 +5535,11 @@
                 "name": "อ่างเก็บน้ำห้วยกุดแดง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 2.806,
-                "volume": 2.752,
-                "percent_storage": 98.08,
+                "volume": 2.788,
+                "percent_storage": 99.36,
                 "active_storage": 0,
                 "dead_storage": 0.268,
-                "inflow": 0.018,
+                "inflow": 0,
                 "outflow": 0,
                 "date": "2026-10-05"
             }
@@ -5562,7 +5562,7 @@
                 "percent_storage": 66.92,
                 "active_storage": 0,
                 "dead_storage": 0.56,
-                "inflow": 0.031,
+                "inflow": 0,
                 "outflow": 0,
                 "date": "2026-10-05"
             }
@@ -5581,11 +5581,11 @@
                 "name": "อ่างเก็บน้ำหนองผือ",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 4.178,
-                "volume": 1.939,
-                "percent_storage": 46.41,
+                "volume": 2.021,
+                "percent_storage": 48.37,
                 "active_storage": 0,
                 "dead_storage": 1.204,
-                "inflow": 0,
+                "inflow": 0.095,
                 "outflow": 0,
                 "date": "2026-10-05"
             }
@@ -5604,11 +5604,11 @@
                 "name": "อ่างเก็บน้ำห้วยพุงใหญ่",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 7.8,
-                "volume": 7.558,
-                "percent_storage": 96.9,
+                "volume": 7.532,
+                "percent_storage": 96.56,
                 "active_storage": 0,
                 "dead_storage": 0.45,
-                "inflow": 0,
+                "inflow": 0.009,
                 "outflow": 0.017,
                 "date": "2026-10-05"
             }
