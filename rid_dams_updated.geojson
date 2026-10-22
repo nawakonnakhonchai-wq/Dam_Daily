@@ -19,8 +19,8 @@
                 "percent_storage": 68.48,
                 "active_storage": 249.0,
                 "dead_storage": 14.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 0.33,
+                "outflow": 0.81,
                 "date": "2026-10-22"
             }
         },
@@ -42,8 +42,8 @@
                 "percent_storage": 90.16,
                 "active_storage": 102.67,
                 "dead_storage": 3.55,
-                "inflow": 1.383,
-                "outflow": 2.319,
+                "inflow": 1.38,
+                "outflow": 2.32,
                 "date": "2026-10-22"
             }
         },
@@ -66,7 +66,7 @@
                 "active_storage": 163.8,
                 "dead_storage": 6.2,
                 "inflow": 0,
-                "outflow": 0.402,
+                "outflow": 0.4,
                 "date": "2026-10-22"
             }
         },
@@ -84,12 +84,12 @@
                 "name": "เขื่อนแควน้อยบำรุงแดน",
                 "region": "ภาคเหนือ",
                 "capacity": 1080.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 801.4,
+                "percent_storage": 85.35,
                 "active_storage": 896.0,
                 "dead_storage": 43.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 2.06,
+                "outflow": 0.86,
                 "date": "2026-10-22"
             }
         },
@@ -130,12 +130,12 @@
                 "name": "เขื่อนภูมิพล",
                 "region": "ภาคเหนือ",
                 "capacity": 13462.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 9524.0,
+                "percent_storage": 70.75,
                 "active_storage": 9662.0,
                 "dead_storage": 3800.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 15.92,
+                "outflow": 5.0,
                 "date": "2026-10-22"
             }
         },
@@ -153,12 +153,12 @@
                 "name": "เขื่อนสิริกิติ์",
                 "region": "ภาคเหนือ",
                 "capacity": 10508.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 7771.98,
+                "percent_storage": 81.72,
                 "active_storage": 6660.0,
                 "dead_storage": 2850.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 10.71,
+                "outflow": 9.94,
                 "date": "2026-10-22"
             }
         },
@@ -180,8 +180,8 @@
                 "percent_storage": 96.06,
                 "active_storage": 253.0,
                 "dead_storage": 12.0,
-                "inflow": 0.525,
-                "outflow": 0.026,
+                "inflow": 0.53,
+                "outflow": 0.03,
                 "date": "2026-10-22"
             }
         },
@@ -199,12 +199,12 @@
                 "name": "เขื่อนห้วยหลวง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 135.57,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 79.43,
+                "percent_storage": 58.59,
                 "active_storage": 128.98,
                 "dead_storage": 6.59,
                 "inflow": 0,
-                "outflow": 0,
+                "outflow": 0.77,
                 "date": "2026-10-22"
             }
         },
@@ -245,12 +245,12 @@
                 "name": "เขื่อนลำปาว",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 2450.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 1169.4,
+                "percent_storage": 59.06,
                 "active_storage": 1880.0,
                 "dead_storage": 100.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 1.28,
+                "outflow": 4.61,
                 "date": "2026-10-22"
             }
         },
@@ -268,12 +268,12 @@
                 "name": "เขื่อนลำตะคอง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 445.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 264.3,
+                "percent_storage": 84.04,
                 "active_storage": 291.79,
                 "dead_storage": 22.7,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 0.91,
+                "outflow": 0.17,
                 "date": "2026-10-22"
             }
         },
@@ -295,7 +295,7 @@
                 "percent_storage": 81.65,
                 "active_storage": 153.6,
                 "dead_storage": 1.4,
-                "inflow": 0.348,
+                "inflow": 0.35,
                 "outflow": 0.5,
                 "date": "2026-10-22"
             }
@@ -314,12 +314,12 @@
                 "name": "เขื่อนมูลบน",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 350.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 89.99,
+                "percent_storage": 63.82,
                 "active_storage": 134.0,
                 "dead_storage": 7.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 0.38,
+                "outflow": 0.6,
                 "date": "2026-10-22"
             }
         },
@@ -337,12 +337,12 @@
                 "name": "เขื่อนลำแชะ",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 325.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 176.22,
+                "percent_storage": 64.08,
                 "active_storage": 268.0,
                 "dead_storage": 7.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 0.63,
+                "outflow": 1.24,
                 "date": "2026-10-22"
             }
         },
@@ -364,7 +364,7 @@
                 "percent_storage": 52.05,
                 "active_storage": 118.41,
                 "dead_storage": 3.0,
-                "inflow": 0.597,
+                "inflow": 0.6,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -383,11 +383,11 @@
                 "name": "เขื่อนน้ำพุง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 200.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 87.27,
+                "percent_storage": 52.89,
                 "active_storage": 157.0,
                 "dead_storage": 8.0,
-                "inflow": 0,
+                "inflow": 0.07,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -406,11 +406,11 @@
                 "name": "เขื่อนจุฬาภรณ์",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 188.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 137.23,
+                "percent_storage": 83.8,
                 "active_storage": 126.56,
                 "dead_storage": 37.19,
-                "inflow": 0,
+                "inflow": 0.61,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -429,12 +429,12 @@
                 "name": "เขื่อนอุบลรัตน์",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 2431.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 1443.66,
+                "percent_storage": 59.39,
                 "active_storage": 1850.0,
                 "dead_storage": 581.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 0.24,
+                "outflow": 4.53,
                 "date": "2026-10-22"
             }
         },
@@ -452,12 +452,12 @@
                 "name": "เขื่อนสิรินธร",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 1966.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 1864.56,
+                "percent_storage": 94.84,
                 "active_storage": 1134.62,
                 "dead_storage": 831.38,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 2.75,
+                "outflow": 1.81,
                 "date": "2026-10-22"
             }
         },
@@ -475,12 +475,12 @@
                 "name": "เขื่อนป่าสักชลสิทธิ์",
                 "region": "ภาคกลาง",
                 "capacity": 1036.16,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 805.79,
+                "percent_storage": 92.46,
                 "active_storage": 871.5,
                 "dead_storage": 14.64,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 2.86,
+                "outflow": 0.87,
                 "date": "2026-10-22"
             }
         },
@@ -498,12 +498,12 @@
                 "name": "เขื่อนทับเสลา",
                 "region": "ภาคกลาง",
                 "capacity": 190.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 155.93,
+                "percent_storage": 97.46,
                 "active_storage": 143.0,
                 "dead_storage": 17.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 1.58,
+                "outflow": 0.6,
                 "date": "2026-10-22"
             }
         },
@@ -521,12 +521,12 @@
                 "name": "เขื่อนกระเสียว",
                 "region": "ภาคกลาง",
                 "capacity": 390.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 220.0,
+                "percent_storage": 73.58,
                 "active_storage": 259.0,
                 "dead_storage": 40.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 9.23,
+                "outflow": 0.06,
                 "date": "2026-10-22"
             }
         },
@@ -544,12 +544,12 @@
                 "name": "เขื่อนศรีนครินทร์",
                 "region": "ภาคตะวันตก",
                 "capacity": 18770.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 17569.4,
+                "percent_storage": 99.01,
                 "active_storage": 7480.0,
                 "dead_storage": 10265.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 35.48,
+                "outflow": 40.18,
                 "date": "2026-10-22"
             }
         },
@@ -567,12 +567,12 @@
                 "name": "เขื่อนวชิราลงกรณ",
                 "region": "ภาคตะวันตก",
                 "capacity": 11000.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 8640.6,
+                "percent_storage": 97.52,
                 "active_storage": 5848.0,
                 "dead_storage": 3012.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 12.26,
+                "outflow": 15.06,
                 "date": "2026-10-22"
             }
         },
@@ -590,12 +590,12 @@
                 "name": "เขื่อนขุนด่านปราการชล",
                 "region": "ภาคตะวันออก",
                 "capacity": 224.9,
-                "volume": 216.45,
-                "percent_storage": 96.63,
+                "volume": 216.48,
+                "percent_storage": 96.64,
                 "active_storage": 219.48,
                 "dead_storage": 4.52,
-                "inflow": 1.265,
-                "outflow": 1.308,
+                "inflow": 1.26,
+                "outflow": 1.31,
                 "date": "2026-10-22"
             }
         },
@@ -613,12 +613,12 @@
                 "name": "เขื่อนคลองสียัด",
                 "region": "ภาคตะวันออก",
                 "capacity": 450.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 367.5,
+                "percent_storage": 87.5,
                 "active_storage": 390.0,
                 "dead_storage": 30.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 2.15,
+                "outflow": 0.01,
                 "date": "2026-10-22"
             }
         },
@@ -640,8 +640,8 @@
                 "percent_storage": 92.38,
                 "active_storage": 104.94,
                 "dead_storage": 12.06,
-                "inflow": 0.522,
-                "outflow": 0.337,
+                "inflow": 0.52,
+                "outflow": 0.34,
                 "date": "2026-10-22"
             }
         },
@@ -659,12 +659,12 @@
                 "name": "เขื่อนหนองปลาไหล",
                 "region": "ภาคตะวันออก",
                 "capacity": 205.85,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 179.51,
+                "percent_storage": 109.62,
                 "active_storage": 150.25,
                 "dead_storage": 13.5,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 2.51,
+                "outflow": 3.7,
                 "date": "2026-10-22"
             }
         },
@@ -705,12 +705,12 @@
                 "name": "เขื่อนนฤบดินทรจินดา",
                 "region": "ภาคตะวันออก",
                 "capacity": 338.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 287.09,
+                "percent_storage": 97.32,
                 "active_storage": 280.75,
                 "dead_storage": 14.25,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 1.6,
+                "outflow": 1.0,
                 "date": "2026-10-22"
             }
         },
@@ -733,7 +733,7 @@
                 "active_storage": 373.41,
                 "dead_storage": 17.59,
                 "inflow": 3.27,
-                "outflow": 2.396,
+                "outflow": 2.32,
                 "date": "2026-10-22"
             }
         },
@@ -751,12 +751,12 @@
                 "name": "เขื่อนแก่งกระจาน",
                 "region": "ภาคใต้",
                 "capacity": 900.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 708.18,
+                "percent_storage": 99.74,
                 "active_storage": 645.0,
                 "dead_storage": 65.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 4.07,
+                "outflow": 8.64,
                 "date": "2026-10-22"
             }
         },
@@ -774,12 +774,12 @@
                 "name": "เขื่อนรัชชประภา",
                 "region": "ภาคใต้",
                 "capacity": 6144.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 4267.18,
+                "percent_storage": 75.67,
                 "active_storage": 4287.3,
                 "dead_storage": 1351.54,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 6.43,
+                "outflow": 2.99,
                 "date": "2026-10-22"
             }
         },
@@ -797,12 +797,12 @@
                 "name": "เขื่อนบางลาง",
                 "region": "ภาคใต้",
                 "capacity": 1590.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 763.62,
+                "percent_storage": 52.51,
                 "active_storage": 1178.08,
                 "dead_storage": 276.28,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 9.68,
+                "outflow": 3.98,
                 "date": "2026-10-22"
             }
         },
@@ -7121,13 +7121,13 @@
                 "id": "rsv281",
                 "name": "อ่างเก็บน้ำลำปลายมาศ",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 98.0,
-                "volume": 57.418,
-                "percent_storage": 58.59,
+                "capacity": 98.001,
+                "volume": 58.477,
+                "percent_storage": 59.67,
                 "active_storage": 0,
                 "dead_storage": 9.3,
-                "inflow": 0.207,
-                "outflow": 0.26,
+                "inflow": 0.274,
+                "outflow": 0.001,
                 "date": "2026-10-22"
             }
         },
@@ -9122,12 +9122,12 @@
                 "id": "rsv365",
                 "name": "อ่างเก็บน้ำพระปรง",
                 "region": "ภาคตะวันออก",
-                "capacity": 96.997,
-                "volume": 83.0,
-                "percent_storage": 85.57,
+                "capacity": 97.005,
+                "volume": 83.25,
+                "percent_storage": 85.82,
                 "active_storage": 0,
                 "dead_storage": 4.0,
-                "inflow": 0.132,
+                "inflow": 0.415,
                 "outflow": 0.132,
                 "date": "2026-10-22"
             }
@@ -9150,7 +9150,7 @@
                 "percent_storage": 97.9,
                 "active_storage": 0,
                 "dead_storage": 0.86,
-                "inflow": 0,
+                "inflow": 0.005,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -9173,7 +9173,7 @@
                 "percent_storage": 102.3,
                 "active_storage": 0,
                 "dead_storage": 0.8,
-                "inflow": 0.023,
+                "inflow": 0.009,
                 "outflow": 0.004,
                 "date": "2026-10-22"
             }
@@ -9196,7 +9196,7 @@
                 "percent_storage": 88.1,
                 "active_storage": 0,
                 "dead_storage": 0.8,
-                "inflow": 0.021,
+                "inflow": 0.009,
                 "outflow": 0.005,
                 "date": "2026-10-22"
             }
@@ -9219,7 +9219,7 @@
                 "percent_storage": 68.2,
                 "active_storage": 0,
                 "dead_storage": 0.12,
-                "inflow": 0.025,
+                "inflow": 0.003,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -9261,11 +9261,11 @@
                 "name": "อ่างเก็บน้ำช่องกล่ำล่าง",
                 "region": "ภาคตะวันออก",
                 "capacity": 2.2,
-                "volume": 2.218,
-                "percent_storage": 100.82,
+                "volume": 2.224,
+                "percent_storage": 101.09,
                 "active_storage": 0,
                 "dead_storage": 0.2,
-                "inflow": 0.015,
+                "inflow": 0.021,
                 "outflow": 0.013,
                 "date": "2026-10-22"
             }
@@ -9288,7 +9288,7 @@
                 "percent_storage": 47.0,
                 "active_storage": 0,
                 "dead_storage": 0.1,
-                "inflow": 0,
+                "inflow": 0.001,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -9306,12 +9306,12 @@
                 "id": "rsv373",
                 "name": "อ่างเก็บน้ำห้วยยาง",
                 "region": "ภาคตะวันออก",
-                "capacity": 60.005,
-                "volume": 25.88,
-                "percent_storage": 43.13,
+                "capacity": 60.0,
+                "volume": 25.8,
+                "percent_storage": 43.0,
                 "active_storage": 0,
                 "dead_storage": 4.0,
-                "inflow": 0,
+                "inflow": 0.051,
                 "outflow": 0.108,
                 "date": "2026-10-22"
             }
@@ -9330,11 +9330,11 @@
                 "name": "อ่างเก็บน้ำห้วยตะเคียน",
                 "region": "ภาคตะวันออก",
                 "capacity": 10.0,
-                "volume": 4.737,
-                "percent_storage": 47.37,
+                "volume": 4.924,
+                "percent_storage": 49.24,
                 "active_storage": 0,
                 "dead_storage": 0.2,
-                "inflow": 0.14,
+                "inflow": 0.193,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -9398,12 +9398,12 @@
                 "id": "rsv496",
                 "name": "อ่างเก็บน้ำคลองพระสะทึง",
                 "region": "ภาคตะวันออก",
-                "capacity": 64.998,
-                "volume": 63.607,
-                "percent_storage": 97.86,
+                "capacity": 65.0,
+                "volume": 65.143,
+                "percent_storage": 100.22,
                 "active_storage": 0,
                 "dead_storage": 4.0,
-                "inflow": 0,
+                "inflow": 1.575,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -10411,8 +10411,8 @@
                 "name": "อ่างเก็บน้ำห้วยสามเขา",
                 "region": "ภาคใต้",
                 "capacity": 3.4,
-                "volume": 1.365,
-                "percent_storage": 40.15,
+                "volume": 1.65,
+                "percent_storage": 48.53,
                 "active_storage": 0,
                 "dead_storage": 0.12,
                 "inflow": 0,
@@ -10548,13 +10548,13 @@
                 "id": "rsv421",
                 "name": "อ่างเก็บน้ำแม่ประจันต์",
                 "region": "ภาคใต้",
-                "capacity": 42.203,
-                "volume": 33.665,
-                "percent_storage": 79.77,
+                "capacity": 42.201,
+                "volume": 32.322,
+                "percent_storage": 76.59,
                 "active_storage": 0,
                 "dead_storage": 2.04,
-                "inflow": 0.262,
-                "outflow": 0.262,
+                "inflow": 0.789,
+                "outflow": 0.227,
                 "date": "2026-10-22"
             }
         },
@@ -10571,12 +10571,12 @@
                 "id": "rsv467",
                 "name": "อ่างเก็บน้ำห้วยผาก",
                 "region": "ภาคใต้",
-                "capacity": 27.502,
-                "volume": 18.605,
-                "percent_storage": 67.65,
+                "capacity": 27.498,
+                "volume": 18.905,
+                "percent_storage": 68.75,
                 "active_storage": 0,
                 "dead_storage": 3.0,
-                "inflow": 0.099,
+                "inflow": 0.134,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -11239,11 +11239,11 @@
                 "name": "อ่างเก็บน้ำคลองจำไหร",
                 "region": "ภาคใต้",
                 "capacity": 6.0,
-                "volume": 2.9,
-                "percent_storage": 48.33,
+                "volume": 3.0,
+                "percent_storage": 50.0,
                 "active_storage": 0,
                 "dead_storage": 0.1,
-                "inflow": 0.15,
+                "inflow": 0.1,
                 "outflow": 0,
                 "date": "2026-10-22"
             }
@@ -11266,7 +11266,7 @@
                 "percent_storage": 16.99,
                 "active_storage": 0,
                 "dead_storage": 0.305,
-                "inflow": 0.013,
+                "inflow": 0.003,
                 "outflow": 0.003,
                 "date": "2026-10-22"
             }
@@ -11285,11 +11285,11 @@
                 "name": "อ่างเก็บน้ำคลองสะเดา",
                 "region": "ภาคใต้",
                 "capacity": 56.74,
-                "volume": 20.625,
-                "percent_storage": 36.35,
+                "volume": 20.727,
+                "percent_storage": 36.53,
                 "active_storage": 0,
                 "dead_storage": 1.556,
-                "inflow": 0.313,
+                "inflow": 0.211,
                 "outflow": 0.109,
                 "date": "2026-10-22"
             }
