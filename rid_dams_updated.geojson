@@ -434,12 +434,12 @@
                 "name": "เขื่อนขุนด่านปราการชล",
                 "region": "ภาคตะวันออก",
                 "capacity": 224.9,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 218.16,
+                "percent_storage": 97.39,
                 "active_storage": 219.48,
                 "dead_storage": 4.52,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 1.33,
+                "outflow": 1.274,
                 "date": "2026-10-27"
             }
         },
@@ -502,12 +502,12 @@
                 "name": "เขื่อนประแสร์",
                 "region": "ภาคตะวันออก",
                 "capacity": 322.0,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 268.24,
+                "percent_storage": 90.93,
                 "active_storage": 275.0,
                 "dead_storage": 20.0,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 1.49,
+                "outflow": 0.44,
                 "date": "2026-10-27"
             }
         },
