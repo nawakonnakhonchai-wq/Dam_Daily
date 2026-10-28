@@ -3187,13 +3187,13 @@
                 "id": "rsv152",
                 "name": "อ่างเก็บน้ำน้ำพรม",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
-                "capacity": 0,
-                "volume": 0,
-                "percent_storage": 0,
+                "capacity": 3.584,
+                "volume": 0.1,
+                "percent_storage": 2.79,
                 "active_storage": 0,
                 "dead_storage": 0.51,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 0.165,
+                "outflow": 0.165,
                 "date": "2026-10-28"
             }
         },
