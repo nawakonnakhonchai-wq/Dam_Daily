@@ -590,12 +590,12 @@
                 "name": "เขื่อนขุนด่านปราการชล",
                 "region": "ภาคตะวันออก",
                 "capacity": 224.9,
-                "volume": 0,
-                "percent_storage": 0,
+                "volume": 212.94,
+                "percent_storage": 95.06,
                 "active_storage": 219.48,
                 "dead_storage": 4.52,
-                "inflow": 0,
-                "outflow": 0,
+                "inflow": 1.229,
+                "outflow": 2.442,
                 "date": "2026-11-02"
             }
         },
