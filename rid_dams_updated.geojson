@@ -9122,12 +9122,12 @@
                 "id": "rsv365",
                 "name": "อ่างเก็บน้ำพระปรง",
                 "region": "ภาคตะวันออก",
-                "capacity": 97.005,
-                "volume": 83.25,
-                "percent_storage": 85.82,
+                "capacity": 96.999,
+                "volume": 83.38,
+                "percent_storage": 85.96,
                 "active_storage": 0,
                 "dead_storage": 4.0,
-                "inflow": 0.125,
+                "inflow": 0.255,
                 "outflow": 0.087,
                 "date": "2026-11-06"
             }
@@ -9173,7 +9173,7 @@
                 "percent_storage": 102.68,
                 "active_storage": 0,
                 "dead_storage": 0.8,
-                "inflow": 0,
+                "inflow": 0.009,
                 "outflow": 0.004,
                 "date": "2026-11-06"
             }
@@ -9215,12 +9215,12 @@
                 "name": "อ่างเก็บน้ำเขารัง",
                 "region": "ภาคตะวันออก",
                 "capacity": 3.72,
-                "volume": 2.296,
-                "percent_storage": 61.72,
+                "volume": 2.35,
+                "percent_storage": 63.17,
                 "active_storage": 0,
                 "dead_storage": 0.12,
-                "inflow": 0.008,
-                "outflow": 0.022,
+                "inflow": 0.058,
+                "outflow": 0,
                 "date": "2026-11-06"
             }
         },
@@ -9265,7 +9265,7 @@
                 "percent_storage": 100.55,
                 "active_storage": 0,
                 "dead_storage": 0.2,
-                "inflow": 0.003,
+                "inflow": 0.009,
                 "outflow": 0.007,
                 "date": "2026-11-06"
             }
@@ -9311,7 +9311,7 @@
                 "percent_storage": 42.42,
                 "active_storage": 0,
                 "dead_storage": 4.0,
-                "inflow": 0.123,
+                "inflow": 0.043,
                 "outflow": 0.017,
                 "date": "2026-11-06"
             }
@@ -9357,7 +9357,7 @@
                 "percent_storage": 54.78,
                 "active_storage": 0,
                 "dead_storage": 0.1,
-                "inflow": 0,
+                "inflow": 0.002,
                 "outflow": 0,
                 "date": "2026-11-06"
             }
@@ -9398,12 +9398,12 @@
                 "id": "rsv496",
                 "name": "อ่างเก็บน้ำคลองพระสะทึง",
                 "region": "ภาคตะวันออก",
-                "capacity": 64.999,
-                "volume": 67.391,
-                "percent_storage": 103.68,
+                "capacity": 65.001,
+                "volume": 68.589,
+                "percent_storage": 105.52,
                 "active_storage": 0,
                 "dead_storage": 4.0,
-                "inflow": 0.705,
+                "inflow": 1.31,
                 "outflow": 0.065,
                 "date": "2026-11-06"
             }
