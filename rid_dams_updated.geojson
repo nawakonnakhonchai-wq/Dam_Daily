@@ -11308,11 +11308,11 @@
                 "name": "อ่างเก็บน้ำบางทรายนวล",
                 "region": "ภาคใต้",
                 "capacity": 2.19,
-                "volume": 1.569,
-                "percent_storage": 71.64,
+                "volume": 1.607,
+                "percent_storage": 73.38,
                 "active_storage": 0,
                 "dead_storage": 0.1,
-                "inflow": 0.001,
+                "inflow": 0,
                 "outflow": 0,
                 "date": "2026-11-06"
             }
@@ -11335,8 +11335,8 @@
                 "percent_storage": 100.0,
                 "active_storage": 0,
                 "dead_storage": 0.21,
-                "inflow": 0.026,
-                "outflow": 0.026,
+                "inflow": 0.025,
+                "outflow": 0.025,
                 "date": "2026-11-06"
             }
         },
