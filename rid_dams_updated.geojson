@@ -5627,12 +5627,12 @@
                 "name": "อ่างเก็บน้ำห้วยหินชะแนน",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 2.4,
-                "volume": 2.065,
-                "percent_storage": 86.04,
+                "volume": 2.035,
+                "percent_storage": 84.79,
                 "active_storage": 0,
                 "dead_storage": 0.125,
                 "inflow": 0,
-                "outflow": 0.01,
+                "outflow": 0.03,
                 "date": "2026-11-08"
             }
         },
@@ -5747,7 +5747,7 @@
                 "active_storage": 0,
                 "dead_storage": 0.55,
                 "inflow": 0,
-                "outflow": 0.081,
+                "outflow": 0,
                 "date": "2026-11-08"
             }
         },
@@ -5765,12 +5765,12 @@
                 "name": "อ่างเก็บน้ำห้วยส้มโฮง",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 3.12,
-                "volume": 2.869,
-                "percent_storage": 91.96,
+                "volume": 2.855,
+                "percent_storage": 91.51,
                 "active_storage": 0,
                 "dead_storage": 0.02,
                 "inflow": 0,
-                "outflow": 0.028,
+                "outflow": 0.014,
                 "date": "2026-11-08"
             }
         },
@@ -5793,7 +5793,7 @@
                 "active_storage": 0,
                 "dead_storage": 0.42,
                 "inflow": 0,
-                "outflow": 0.008,
+                "outflow": 0,
                 "date": "2026-11-08"
             }
         },
@@ -5903,12 +5903,12 @@
                 "name": "อ่างเก็บน้ำห้วยอ้วน",
                 "region": "ภาคตะวันออกเฉียงเหนือ",
                 "capacity": 5.22,
-                "volume": 5.113,
-                "percent_storage": 97.95,
+                "volume": 5.077,
+                "percent_storage": 97.26,
                 "active_storage": 0,
                 "dead_storage": 2.1,
                 "inflow": 0,
-                "outflow": 0,
+                "outflow": 0.036,
                 "date": "2026-11-08"
             }
         },
@@ -11031,13 +11031,13 @@
                 "id": "rsv438",
                 "name": "อ่างเก็บน้ำบางวาด",
                 "region": "ภาคใต้",
-                "capacity": 10.201,
-                "volume": 7.83,
-                "percent_storage": 76.76,
+                "capacity": 10.2,
+                "volume": 7.87,
+                "percent_storage": 77.16,
                 "active_storage": 0,
                 "dead_storage": 0.27,
-                "inflow": 0.079,
-                "outflow": 0.037,
+                "inflow": 0.076,
+                "outflow": 0.034,
                 "date": "2026-11-08"
             }
         },
@@ -11059,8 +11059,8 @@
                 "percent_storage": 48.52,
                 "active_storage": 0,
                 "dead_storage": 0.028,
-                "inflow": 0.031,
-                "outflow": 0.018,
+                "inflow": 0.021,
+                "outflow": 0.017,
                 "date": "2026-11-08"
             }
         },
@@ -11078,11 +11078,11 @@
                 "name": "อ่างเก็บน้ำคลองกะทะ",
                 "region": "ภาคใต้",
                 "capacity": 4.137,
-                "volume": 3.79,
-                "percent_storage": 91.61,
+                "volume": 3.81,
+                "percent_storage": 92.1,
                 "active_storage": 0,
                 "dead_storage": 0.163,
-                "inflow": 0.024,
+                "inflow": 0.035,
                 "outflow": 0.014,
                 "date": "2026-11-08"
             }
