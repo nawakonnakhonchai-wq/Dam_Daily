@@ -1,4 +1,6 @@
 import json
+import math
+import os
 import re
 import pandas as pd
 import requests
@@ -26,7 +28,8 @@ def safe_value(val, default_type="str"):
                 val = val.replace(",", "").strip()
                 if val == "-" or val == "":
                     return 0
-            return float(val)
+            f = float(val)
+            return f if math.isfinite(f) else 0  # กัน NaN/Infinity ทำให้ไฟล์ JSON เสีย
         except:
             return 0
     return str(val).strip()
@@ -180,11 +183,45 @@ for _, row in df_merged.iterrows():
     }
     final_features.append(feature)
 
+output_filename = "rid_dams_updated.geojson"
+
+# ถ้าดึง API ไม่ได้เลย อย่าเขียนทับไฟล์เดิมด้วยไฟล์ว่าง
+if not final_features:
+    print("ไม่ได้ข้อมูลจาก API เลย คงไฟล์เดิมไว้")
+    raise SystemExit(0)
+
+# ช่วงเช้าของวันใหม่ API มักส่งปริมาตร/เปอร์เซ็นต์เป็น 0 ก่อนกรมชลฯ จะลงข้อมูล
+# จึงใช้ค่าล่าสุดที่ใช้ได้จากไฟล์เดิมแทน (คงวันที่ของข้อมูลเดิมไว้ ผู้ใช้จะรู้ว่าเป็นข้อมูลวันไหน)
+KEEP_FIELDS = ["volume", "percent_storage", "inflow", "outflow", "date"]
+previous = {}
+if os.path.exists(output_filename):
+    try:
+        with open(output_filename, encoding="utf-8") as f:
+            for feat in json.load(f).get("features", []):
+                previous[str(feat["properties"].get("id"))] = feat
+    except Exception as e:
+        print(f"อ่านไฟล์เดิมไม่ได้: {e}")
+
+kept = 0
+for feat in final_features:
+    props = feat["properties"]
+    old = previous.get(str(props["id"]))
+    if not old:
+        continue
+    if props["volume"] <= 0 and props["percent_storage"] <= 0:
+        old_props = old["properties"]
+        if old_props.get("volume", 0) > 0 or old_props.get("percent_storage", 0) > 0:
+            for k in KEEP_FIELDS:
+                props[k] = old_props.get(k, props[k])
+            kept += 1
+    if feat["geometry"] is None and old.get("geometry"):
+        feat["geometry"] = old["geometry"]
+
 geojson_output = {"type": "FeatureCollection", "features": final_features}
 
-output_filename = "rid_dams_updated.geojson"
 with open(output_filename, "w", encoding="utf-8") as f:
-    json.dump(geojson_output, f, ensure_ascii=False, indent=4)
+    json.dump(geojson_output, f, ensure_ascii=False, indent=4, allow_nan=False)
+print(f"ใช้ค่าเดิมแทนค่า 0: {kept} แห่ง")
 
 print(f"\n--- สรุปผลการสร้าง GeoJSON ---")
 print(f"ข้อมูลน้ำรวมทั้งหมด: {len(final_features)} แห่ง")
