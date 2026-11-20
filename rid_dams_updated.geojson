@@ -11215,12 +11215,12 @@
                 "id": "rsv482",
                 "name": "อ่างเก็บน้ำคลองหัวช้าง",
                 "region": "ภาคใต้",
-                "capacity": 29.997,
-                "volume": 11.3,
-                "percent_storage": 37.67,
+                "capacity": 30.0,
+                "volume": 11.58,
+                "percent_storage": 38.6,
                 "active_storage": 0,
                 "dead_storage": 0.55,
-                "inflow": 0.13,
+                "inflow": 0.205,
                 "outflow": 0.13,
                 "date": "2026-11-20"
             }
