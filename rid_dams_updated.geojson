@@ -8069,7 +8069,7 @@
                 "percent_storage": 114.7,
                 "active_storage": 0,
                 "dead_storage": 1.15,
-                "inflow": 0,
+                "inflow": 0.043,
                 "outflow": 0,
                 "date": "2026-11-28"
             }
